@@ -25,7 +25,7 @@ import feedparser
 # ======== 配置区 ========
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 DEEPSEEK_BASE_URL = "https://api.deepseek.com/v1"
-DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 MAX_ARTICLES_PER_FEED = 8
 MAX_TOTAL_ARTICLES = 80
 CACHE_DAYS = 7  # 缓存7天内的文章用于去重
