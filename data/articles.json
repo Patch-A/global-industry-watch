@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25 00:48:04",
+  "updated_at": "2026-05-25 01:19:07",
   "total": 80,
   "articles": [
     {
@@ -15,14 +15,38 @@
       "region": "Southeast Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "这个越南小镇因工厂离开中国而繁荣，现在它在问接下来怎么办？",
+      "title_cn": "这个越南小镇因工厂离开中国而繁荣，现在它在问下一步是什么？",
       "title_en": "This Vietnamese town boomed as factories left China. Now it’s asking what’s next? - AP News",
-      "summary_cn": "越南某小镇因承接从中国转移的工厂而经历经济繁荣，但随着全球供应链调整和本地竞争加剧，该镇正面临未来发展方向的挑战。报道探讨了当地产业升级和可持续增长的潜在路径。",
+      "summary_cn": "越南某小镇因承接从中国转移的工厂而经历经济繁荣，但随着全球供应链调整和本地竞争加剧，该镇面临未来发展方向的挑战。报道探讨了其产业升级和可持续增长的潜在路径。",
       "summary_en": "A Vietnamese town experienced economic boom by taking over factories relocated from China, but now faces challenges in future development amid global supply chain shifts and local competition. The report explores potential paths for industrial upgrading and sustainable growth.",
-      "fetched_at": "2026-05-25 00:39:13",
+      "fetched_at": "2026-05-25 01:10:24",
       "tags": [
         "供应链",
         "海外建厂",
+        "行业趋势"
+      ]
+    },
+    {
+      "fingerprint": "48750418a324e6eea7d0c65d2967af17",
+      "title_orig": "Trump’s Tariffs and the Quiet Rise of Southeast Asia Manufacturing - economy.ac",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EeXJzRk53SVBBQ1FwRkdSUWZZUkFYc2ZzTkdRbFhFRU9lSGxZSnFuWGhXdURNX1ZQbVViTkZ2alpTTGRrMVRKVkFwZEtMTUJQbk00X0MtQWVjdw?oc=5",
+      "published_raw": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "summary_raw": "Trump’s Tariffs and the Quiet Rise of Southeast Asia Manufacturing &nbsp;&nbsp; economy.ac",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_vn",
+      "country": "Vietnam",
+      "region": "Southeast Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "特朗普关税与东南亚制造业的悄然崛起",
+      "title_en": "Trump’s Tariffs and the Quiet Rise of Southeast Asia Manufacturing",
+      "summary_cn": "本文探讨了特朗普关税政策如何推动东南亚制造业的崛起。随着美国对中国商品加征关税，许多企业将生产线转移至东南亚国家，以规避贸易壁垒。这一趋势正在重塑全球供应链格局，并可能对中国工业出海产生间接影响。",
+      "summary_en": "This article explores how Trump's tariffs have driven the rise of manufacturing in Southeast Asia. As the US imposes tariffs on Chinese goods, many companies are relocating production lines to Southeast Asian countries to avoid trade barriers. This trend is reshaping global supply chains and may indirectly impact Chinese industrial overseas expansion.",
+      "fetched_at": "2026-05-25 01:10:24",
+      "tags": [
+        "关税变动",
+        "供应链",
         "行业趋势"
       ]
     },
@@ -39,11 +63,11 @@
       "region": "Southeast Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "特朗普关税后东盟经济面临威胁",
+      "title_cn": "特朗普关税后东盟经济面临威胁 - GIS Reports",
       "title_en": "ASEAN economy under threat after Trump tariffs - GIS Reports",
-      "summary_cn": "特朗普关税政策对东盟经济构成威胁。该地区依赖出口，关税增加可能导致贸易放缓、投资减少。报告指出，东盟国家需调整策略以应对冲击。",
-      "summary_en": "The ASEAN economy faces threats from Trump's tariffs. The region, reliant on exports, may experience trade slowdown and reduced investment. The report suggests ASEAN countries need to adjust strategies to mitigate impacts.",
-      "fetched_at": "2026-05-25 00:39:13",
+      "summary_cn": "特朗普关税政策对东盟经济构成威胁。GIS Reports分析指出，美国加征关税可能影响东盟国家的出口和经济增长。",
+      "summary_en": "The ASEAN economy is under threat following Trump's tariffs. GIS Reports analyzes that US tariff hikes could impact ASEAN exports and economic growth.",
+      "fetched_at": "2026-05-25 01:10:24",
       "tags": [
         "关税变动",
         "行业趋势",
@@ -63,15 +87,87 @@
       "region": "Southeast Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "中国企业在美关税下如何进军越南",
+      "title_cn": "中国企业在美关税背景下进军越南",
       "title_en": "How China Inc is marching into Vietnam amid US tariffs",
-      "summary_cn": "路透社报道，在美国加征关税的背景下，中国企业正加速向越南转移产能。这一趋势涉及制造业多个领域，旨在规避贸易壁垒并利用越南的区位优势。",
-      "summary_en": "Reuters reports that Chinese companies are accelerating capacity relocation to Vietnam amid US tariffs. This trend spans multiple manufacturing sectors, aiming to bypass trade barriers and leverage Vietnam's geographic advantages.",
-      "fetched_at": "2026-05-25 00:39:13",
+      "summary_cn": "路透社报道，在美国关税压力下，中国企业正加速向越南转移生产。这一趋势反映了中国制造业通过海外建厂规避贸易壁垒的策略，涉及多个行业。",
+      "summary_en": "Reuters reports that Chinese companies are accelerating production shifts to Vietnam amid US tariffs. This trend reflects China's manufacturing strategy to bypass trade barriers through overseas factories, involving multiple industries.",
+      "fetched_at": "2026-05-25 01:10:24",
       "tags": [
         "海外建厂",
         "关税变动",
         "供应链"
+      ]
+    },
+    {
+      "fingerprint": "cb407d17b893c409a5f72a64a8601744",
+      "title_orig": "Chinese investment remains steady in Vietnam, defies Trump tariff concerns - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUNpNi11TGFYaVZ1eWRMM0d4UDE0ejBwMWRIOWEtRUNwYTlhUzNQTEZKMmgwRGVPUTJLdDJMOXNGVWdjb0Z2dldUNDI0a3plN2R1dmx3NnR2RW1SNEUwekhudjJRNl9JMjlGa2RtTDF4V3paRHd5WlRJVWRxbmhnWE1RTDl0b1IzbWthVVlUeW9aUUJKRnFWMGdIUlN2Rks0TkVPaG9hYng?oc=5",
+      "published_raw": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "summary_raw": "Chinese investment remains steady in Vietnam, defies Trump tariff concerns &nbsp;&nbsp; Nikkei Asia",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_vn",
+      "country": "Vietnam",
+      "region": "Southeast Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "中国对越南投资保持稳定，无视特朗普关税担忧",
+      "title_en": "Chinese investment remains steady in Vietnam, defies Trump tariff concerns",
+      "summary_cn": "据《日经亚洲》报道，尽管存在特朗普关税担忧，中国对越南的投资依然保持稳定。这表明中国工业企业通过海外布局规避贸易壁垒，持续深化在东南亚的本地化生产。",
+      "summary_en": "According to Nikkei Asia, Chinese investment in Vietnam remains steady despite concerns over Trump tariffs. This indicates that Chinese industrial enterprises are continuing to deepen localized production in Southeast Asia to circumvent trade barriers.",
+      "fetched_at": "2026-05-25 01:10:24",
+      "tags": [
+        "海外建厂",
+        "关税变动",
+        "本地化"
+      ]
+    },
+    {
+      "fingerprint": "a0fac898e2243af9f20c9736381784ab",
+      "title_orig": "Close competition: China’s manufacturing downturn redraws Asia’s industrial map - Robotics & Automation News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOGlVc2ZXYWZ2b2lZLVczQkVfeWh5ZkZEdHE4ejR1dU85TTJTbjFiWDloaVR4UXhOdmp1dUhrdXpzc0pBclNacXNXSWxkZHVWSEVhYWJTSkZFVHB6ai00TG5oVGRuUFg3eXJkMVNaMlV4Tzg3MHZkSFZ0YUVBRHNCOXJUMndQYWVDa0ZBcWIzWTd2Yzg4S1YwM25jN0oyQnZkOUVoc29pLW5HVHhmMk9NS3gxaWtQVmxuR3pEQTY5V3RWZTVkMHNMRjdwYkk?oc=5",
+      "published_raw": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "summary_raw": "Close competition: China’s manufacturing downturn redraws Asia’s industrial map &nbsp;&nbsp; Robotics & Automation News",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_vn",
+      "country": "Vietnam",
+      "region": "Southeast Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "激烈竞争：中国制造业放缓重塑亚洲工业版图",
+      "title_en": "Close competition: China’s manufacturing downturn redraws Asia’s industrial map",
+      "summary_cn": "中国制造业放缓正引发亚洲工业格局的重新调整，竞争加剧。该趋势可能影响中国工业企业的海外布局和供应链策略。",
+      "summary_en": "China's manufacturing downturn is reshaping Asia's industrial landscape, intensifying competition. This trend may impact the overseas expansion and supply chain strategies of Chinese industrial enterprises.",
+      "fetched_at": "2026-05-25 01:10:24",
+      "tags": [
+        "行业趋势",
+        "供应链",
+        "头部企业动态"
+      ]
+    },
+    {
+      "fingerprint": "f3307eef823611ec864f96d245d3cf89",
+      "title_orig": "National champions – Vietnam’s solution to the middle-income trap - Lowy Institute",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGk3VVdyS1ktLWtKYWhJSUJTcGpNZzJ5M1U3VTJuTmFwTTFqZkc4R2puTGlEOWNTalduQ0VUUU1abWFmRnhXRUxDVllxX0JheUtNc0VIQW1MdnVib1RWYU1yZjdQc3FLTDFONldXNnFWa2MyR240ZjR0amxTVHlwVTFWekc5MHlUSGdoWUNUeDh3XzdHSF96MGNUeWdfNWFSOVFMYw?oc=5",
+      "published_raw": "Mon, 29 Sep 2025 07:00:00 GMT",
+      "summary_raw": "National champions – Vietnam’s solution to the middle-income trap &nbsp;&nbsp; Lowy Institute",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_vn",
+      "country": "Vietnam",
+      "region": "Southeast Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "国家冠军——越南应对中等收入陷阱的解决方案",
+      "title_en": "National champions – Vietnam’s solution to the middle-income trap - Lowy Institute",
+      "summary_cn": "越南正通过培育国家冠军企业来应对中等收入陷阱，这一策略旨在推动经济结构升级。文章分析了越南在制造业和科技领域的发展路径，并探讨其对中国工业出海可能带来的竞争与启示。",
+      "summary_en": "Vietnam is addressing the middle-income trap by nurturing national champion enterprises, aiming to upgrade its economic structure. The article analyzes Vietnam's development path in manufacturing and technology, and discusses potential competition and insights for Chinese industrial overseas expansion.",
+      "fetched_at": "2026-05-25 01:10:24",
+      "tags": [
+        "行业趋势",
+        "头部企业动态",
+        "本地化"
       ]
     },
     {
@@ -89,85 +185,13 @@
       "lang_orig": "en",
       "title_cn": "越南配套产业如何应对美国关税",
       "title_en": "How Vietnam’s Supporting Industries Are Responding to US Tariffs",
-      "summary_cn": "本文分析了越南配套产业在美国关税政策下的应对策略。越南企业正通过提升本地化率和供应链多元化来降低关税影响。关键措施包括加强技术投资和寻求新市场。",
-      "summary_en": "This article analyzes how Vietnam's supporting industries are responding to US tariffs. Vietnamese companies are mitigating tariff impacts by increasing localization rates and diversifying supply chains. Key measures include enhancing technology investments and seeking new markets.",
-      "fetched_at": "2026-05-25 00:39:13",
+      "summary_cn": "本文分析了越南配套产业在美国关税政策下的应对策略。越南企业正通过提升本地化率、优化供应链和拓展多元化市场来减轻关税影响。关键措施包括加强技术升级和与外资合作，以维持出口竞争力。",
+      "summary_en": "This article analyzes how Vietnam's supporting industries are responding to US tariffs. Vietnamese companies are mitigating tariff impacts by increasing localization rates, optimizing supply chains, and diversifying markets. Key measures include technological upgrades and partnerships with foreign firms to maintain export competitiveness.",
+      "fetched_at": "2026-05-25 01:10:24",
       "tags": [
         "关税变动",
         "供应链",
-        "行业趋势"
-      ]
-    },
-    {
-      "fingerprint": "beea85951580dae909d0f43bbb5d849d",
-      "title_orig": "The surprise winner in the U.S.-China tech war? Vietnam’s chip industry - Rest of World",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kdkVEb2MyVVZBeHlaaFlBMEZNQUFSYkE5NFlRZk5ZemQ5Q1NZRTQzTVE1dXVQSEJ5MXBoOU9TOGRkVFNEOVVkNVlFYVJjM1RNbFZ2Qm5BU3JjQU1Jemw1dmtPS3pWS29iSlVycVFxaG4zUWtyTGlrT1p3?oc=5",
-      "published_raw": "Mon, 28 Jul 2025 07:00:00 GMT",
-      "summary_raw": "The surprise winner in the U.S.-China tech war? Vietnam’s chip industry &nbsp;&nbsp; Rest of World",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_vn",
-      "country": "Vietnam",
-      "region": "Southeast Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "美中科技战的意外赢家？越南芯片产业",
-      "title_en": "The surprise winner in the U.S.-China tech war? Vietnam’s chip industry",
-      "summary_cn": "美中科技竞争加剧，越南芯片产业意外受益，成为全球半导体供应链调整中的关键节点。该国凭借政策优惠和劳动力优势，吸引国际企业投资建厂，逐步提升在芯片封装、测试等环节的产能。",
-      "summary_en": "The intensifying U.S.-China tech rivalry has unexpectedly benefited Vietnam's chip industry, making it a key node in the global semiconductor supply chain shift. Leveraging policy incentives and labor advantages, Vietnam attracts international investments and expands capacity in chip packaging and testing.",
-      "fetched_at": "2026-05-25 00:39:13",
-      "tags": [
-        "供应链",
-        "行业趋势",
-        "头部企业动态"
-      ]
-    },
-    {
-      "fingerprint": "e30772039a5a47814cc7537229a9fdae",
-      "title_orig": "Vietnam charms global manufacturers despite US tariffs - Vietnam Investment Review - VIR",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGUxVVhOVkpVSFVtdms3RDc2LXdDTXdsUkFrODJxN2RZVV9MeVcxU1p6cEJ2VlBiYXZuUHMwNkJpWjhRNDd0ZHBqMVFIYk5tTzhBT1I0OFVhbjZXMUMxaERnYVVheldBaURJQXJXU0dLejBMR1RCazdFb21CNmtQQzBONF96UW1UWW02VnBB?oc=5",
-      "published_raw": "Thu, 12 Jun 2025 07:00:00 GMT",
-      "summary_raw": "Vietnam charms global manufacturers despite US tariffs &nbsp;&nbsp; Vietnam Investment Review - VIR",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_vn",
-      "country": "Vietnam",
-      "region": "Southeast Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "越南吸引全球制造商，尽管美国征收关税",
-      "title_en": "Vietnam charms global manufacturers despite US tariffs",
-      "summary_cn": "尽管美国实施关税政策，越南仍成功吸引全球制造商。该趋势显示越南作为制造业基地的吸引力持续增强，尤其对寻求供应链多元化的企业而言。",
-      "summary_en": "Despite US tariffs, Vietnam continues to attract global manufacturers. This trend highlights Vietnam's growing appeal as a manufacturing hub, particularly for companies seeking supply chain diversification.",
-      "fetched_at": "2026-05-25 00:39:13",
-      "tags": [
-        "海外建厂",
-        "供应链",
-        "行业趋势"
-      ]
-    },
-    {
-      "fingerprint": "7695a0fd831f3958043a8cb8e751603c",
-      "title_orig": "Vietnam attracts global manufacturers despite US tariff increases - The Business Times",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc29JcVpuenA5WWwtSFVNNUl0ZGdjY3QzNWZEdTE0eF83MTlFYUhFQ0hleUVhVU9jeGpZaThvb1hLNFNNYm9UdnNtLTRnUXR1NFZzZWREVl9Za2pUdTFqZ0laRDdPaUhrMVZuMmx2THVlOWhuVVNGYV8ydUFQbVh0aDRNSWtPUFB3b2w2NHVEOVg3QTZVdWtDQ29BZTkwdzVqN0F1ZTVpdzJvUzZ0TXZHbUotbXFPYmpmMndn?oc=5",
-      "published_raw": "Tue, 10 Jun 2025 07:00:00 GMT",
-      "summary_raw": "Vietnam attracts global manufacturers despite US tariff increases &nbsp;&nbsp; The Business Times",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_vn",
-      "country": "Vietnam",
-      "region": "Southeast Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "尽管美国关税增加，越南仍吸引全球制造商",
-      "title_en": "Vietnam attracts global manufacturers despite US tariff increases",
-      "summary_cn": "尽管美国提高了关税，越南依然成功吸引了全球制造商的关注。这一趋势表明越南在制造业领域的竞争力持续增强，可能影响中国工业企业的海外布局策略。",
-      "summary_en": "Despite US tariff increases, Vietnam continues to attract global manufacturers, highlighting its growing competitiveness in the manufacturing sector. This trend may influence the overseas expansion strategies of Chinese industrial enterprises.",
-      "fetched_at": "2026-05-25 00:39:13",
-      "tags": [
-        "海外建厂",
-        "关税变动",
-        "行业趋势"
+        "本地化"
       ]
     },
     {
@@ -185,37 +209,13 @@
       "lang_orig": "en",
       "title_cn": "制造商涌入越南以规避美国关税",
       "title_en": "Manufacturers Pour into Vietnam to Skirt U.S. Tariffs",
-      "summary_cn": "大量制造商正加速将产能转移至越南，以规避美国对中国商品加征的高额关税。这一趋势反映出全球供应链正在重塑，越南成为重要的制造业转移目的地。此举可能影响中国工业企业的出口布局和海外竞争策略。",
-      "summary_en": "A surge of manufacturers is rapidly shifting production to Vietnam to bypass high U.S. tariffs on Chinese goods. This trend reflects a reshaping of global supply chains, with Vietnam emerging as a key manufacturing relocation destination. It may impact Chinese industrial firms' export strategies and overseas competitiveness.",
-      "fetched_at": "2026-05-25 00:39:14",
+      "summary_cn": "为规避美国关税，大量制造商正将产能转移至越南。这一趋势反映了全球供应链的调整，以应对贸易摩擦带来的成本压力。越南凭借其地理位置和贸易协定优势，成为制造业转移的热门目的地。",
+      "summary_en": "A growing number of manufacturers are shifting production to Vietnam to bypass U.S. tariffs. This trend highlights global supply chain adjustments in response to trade friction costs. Vietnam's geographic location and trade agreements make it a popular destination for manufacturing relocation.",
+      "fetched_at": "2026-05-25 01:10:24",
       "tags": [
-        "关税变动",
         "海外建厂",
-        "供应链"
-      ]
-    },
-    {
-      "fingerprint": "48750418a324e6eea7d0c65d2967af17",
-      "title_orig": "Trump’s Tariffs and the Quiet Rise of Southeast Asia Manufacturing - economy.ac",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EeXJzRk53SVBBQ1FwRkdSUWZZUkFYc2ZzTkdRbFhFRU9lSGxZSnFuWGhXdURNX1ZQbVViTkZ2alpTTGRrMVRKVkFwZEtMTUJQbk00X0MtQWVjdw?oc=5",
-      "published_raw": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "summary_raw": "Trump’s Tariffs and the Quiet Rise of Southeast Asia Manufacturing &nbsp;&nbsp; economy.ac",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_th",
-      "country": "Thailand",
-      "region": "Southeast Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "特朗普关税与东南亚制造业的悄然崛起",
-      "title_en": "Trump’s Tariffs and the Quiet Rise of Southeast Asia Manufacturing",
-      "summary_cn": "本文探讨了特朗普关税政策如何推动东南亚制造业的崛起。随着美国对中国商品加征关税，许多企业将生产转移至东南亚国家，如越南、泰国和印度尼西亚。这一趋势加速了区域供应链的重组，并提升了东南亚在全球制造业中的地位。",
-      "summary_en": "This article explores how Trump's tariffs have driven the rise of manufacturing in Southeast Asia. As the US imposes tariffs on Chinese goods, many companies have shifted production to countries like Vietnam, Thailand, and Indonesia. This trend accelerates regional supply chain restructuring and enhances Southeast Asia's position in global manufacturing.",
-      "fetched_at": "2026-05-25 00:39:14",
-      "tags": [
         "关税变动",
-        "供应链",
-        "行业趋势"
+        "供应链"
       ]
     },
     {
@@ -233,9 +233,9 @@
       "lang_orig": "en",
       "title_cn": "东南亚对关税战的惊人韧性",
       "title_en": "South-east Asia’s surprising resilience to the tariff war",
-      "summary_cn": "东南亚地区在关税战中展现出出人意料的韧性，成为全球贸易紧张局势下的受益者。该地区通过多元化出口和吸引外资，有效缓解了关税冲击。",
-      "summary_en": "Southeast Asia has shown surprising resilience in the tariff war, emerging as a beneficiary amid global trade tensions. The region has mitigated tariff impacts through export diversification and attracting foreign investment.",
-      "fetched_at": "2026-05-25 00:39:14",
+      "summary_cn": "东南亚地区在关税战中展现出出乎意料的韧性，能够抵御贸易摩擦带来的冲击。这一现象可能为中国工业企业出海提供新的市场机遇和供应链调整方向。",
+      "summary_en": "Southeast Asia has shown surprising resilience in the face of the tariff war, withstanding the impacts of trade friction. This trend may offer new market opportunities and supply chain adjustments for Chinese industrial enterprises expanding overseas.",
+      "fetched_at": "2026-05-25 01:10:24",
       "tags": [
         "关税变动",
         "供应链",
@@ -257,21 +257,21 @@
       "lang_orig": "en",
       "title_cn": "东南亚制造业：不再免受地缘政治影响 - 洛伊研究所",
       "title_en": "Southeast Asian manufacturing: No longer immune from geopolitics - Lowy Institute",
-      "summary_cn": "洛伊研究所指出，东南亚制造业正日益受到地缘政治因素的冲击，不再能置身事外。该地区面临供应链重组、投资流向变化等挑战，需重新评估其制造业的韧性与未来。",
-      "summary_en": "The Lowy Institute highlights that Southeast Asian manufacturing is increasingly affected by geopolitical factors, no longer immune. The region faces challenges such as supply chain restructuring and shifts in investment flows, requiring a reassessment of its manufacturing resilience and future.",
-      "fetched_at": "2026-05-25 00:39:14",
+      "summary_cn": "洛伊研究所报告指出，东南亚制造业正日益受到地缘政治因素的影响，不再能置身事外。这一趋势可能影响中国工业企业在东南亚的布局和供应链稳定性。",
+      "summary_en": "A report by the Lowy Institute indicates that Southeast Asian manufacturing is increasingly affected by geopolitical factors and can no longer remain immune. This trend may impact the layout and supply chain stability of Chinese industrial enterprises in the region.",
+      "fetched_at": "2026-05-25 01:10:24",
       "tags": [
-        "供应链",
         "行业趋势",
+        "供应链",
         "本地化"
       ]
     },
     {
-      "fingerprint": "a0fac898e2243af9f20c9736381784ab",
-      "title_orig": "Close competition: China’s manufacturing downturn redraws Asia’s industrial map - Robotics & Automation News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOGlVc2ZXYWZ2b2lZLVczQkVfeWh5ZkZEdHE4ejR1dU85TTJTbjFiWDloaVR4UXhOdmp1dUhrdXpzc0pBclNacXNXSWxkZHVWSEVhYWJTSkZFVHB6ai00TG5oVGRuUFg3eXJkMVNaMlV4Tzg3MHZkSFZ0YUVBRHNCOXJUMndQYWVDa0ZBcWIzWTd2Yzg4S1YwM25jN0oyQnZkOUVoc29pLW5HVHhmMk9NS3gxaWtQVmxuR3pEQTY5V3RWZTVkMHNMRjdwYkk?oc=5",
-      "published_raw": "Mon, 03 Nov 2025 08:00:00 GMT",
-      "summary_raw": "Close competition: China’s manufacturing downturn redraws Asia’s industrial map &nbsp;&nbsp; Robotics & Automation News",
+      "fingerprint": "7b934c56210603f448556523bd783241",
+      "title_orig": "China Inc. heads to Global South in the age of tariffs - S&P Global",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXV3VC1Da3NzUlBic3dKUXdiRVAwWHRyWEc4M0N3bnpLNll1MFg3VTMzeU41MVVwZnNDTVA0ZlhBTEozWmdGTjRnUThWSGJtb1plakgyNnFmRm44SGdHdXNMb1AzSG9YY1RyVXpNbllFSElqcmhSTmEtQnplNDhrNVEyVmtqTVVyYUo3VUNueldJM08wckM0U05kd0FHY2Z1bUhqZGRlREREYXpZY3lyTFM5MFljZw?oc=5",
+      "published_raw": "Tue, 19 Aug 2025 07:00:00 GMT",
+      "summary_raw": "China Inc. heads to Global South in the age of tariffs &nbsp;&nbsp; S&amp;P Global",
       "source_domain": "news.google.com",
       "authority": 5,
       "feed_id": "google_industrial_th",
@@ -279,15 +279,15 @@
       "region": "Southeast Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "激烈竞争：中国制造业放缓重塑亚洲工业版图",
-      "title_en": "Close competition: China’s manufacturing downturn redraws Asia’s industrial map",
-      "summary_cn": "中国制造业放缓正在重塑亚洲工业版图，引发区域竞争加剧。该趋势影响供应链布局和自动化需求，对相关行业产生深远影响。",
-      "summary_en": "China's manufacturing downturn is reshaping Asia's industrial landscape, intensifying regional competition. This trend impacts supply chain dynamics and automation demands, with profound implications for related industries.",
-      "fetched_at": "2026-05-25 00:39:14",
+      "title_cn": "关税时代下的中国企业走向全球南方",
+      "title_en": "China Inc. heads to Global South in the age of tariffs - S&P Global",
+      "summary_cn": "在关税壁垒加剧的背景下，中国企业正加速向全球南方市场拓展。S&P Global的报道指出，这一趋势反映了中国工业企业在贸易摩擦中寻求新增长点的战略调整。",
+      "summary_en": "Amid rising tariff barriers, Chinese companies are accelerating their expansion into the Global South markets. A report by S&P Global highlights this trend as a strategic shift for Chinese industrial firms seeking new growth opportunities amid trade frictions.",
+      "fetched_at": "2026-05-25 01:10:24",
       "tags": [
         "行业趋势",
-        "供应链",
-        "智能制造"
+        "关税变动",
+        "一带一路"
       ]
     },
     {
@@ -303,11 +303,11 @@
       "region": "Southeast Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "美国资本从中国转移，泰国工业园区三年扩张34,000莱",
+      "title_cn": "美国资本从中国转移，泰国工业区三年扩张34,000莱",
       "title_en": "US capital moves from China as Thai industrial estates expand 34,000 rai in three years",
-      "summary_cn": "泰国工业园区在过去三年内扩张了34,000莱（约54.4平方公里），主要受美国资本从中国转移的推动。这一趋势反映了全球供应链重组，泰国成为制造业转移的重要目的地。",
-      "summary_en": "Thai industrial estates have expanded by 34,000 rai (about 54.4 square kilometers) in three years, driven by US capital moving from China. This trend reflects global supply chain restructuring, with Thailand emerging as a key destination for manufacturing relocation.",
-      "fetched_at": "2026-05-25 00:39:14",
+      "summary_cn": "泰国工业区在过去三年内扩张了34,000莱，吸引了从中国转移的美国资本。这一趋势反映了全球供应链重组，对中国工业出海构成潜在竞争。",
+      "summary_en": "Thai industrial estates have expanded by 34,000 rai in three years, attracting US capital moving from China. This trend reflects global supply chain restructuring and poses potential competition for Chinese industrial outbound expansion.",
+      "fetched_at": "2026-05-25 01:10:24",
       "tags": [
         "海外建厂",
         "供应链",
@@ -329,13 +329,13 @@
       "lang_orig": "en",
       "title_cn": "2026年制造业展望 - 德勤",
       "title_en": "2026 Manufacturing Industry Outlook - Deloitte",
-      "summary_cn": "德勤发布了2026年制造业展望报告，分析了行业趋势和关键挑战。报告聚焦于智能制造、供应链韧性和可持续发展等核心议题，为全球制造业企业提供战略指导。",
-      "summary_en": "Deloitte released the 2026 Manufacturing Industry Outlook report, analyzing industry trends and key challenges. The report focuses on core topics such as smart manufacturing, supply chain resilience, and sustainable development, providing strategic guidance for global manufacturing companies.",
-      "fetched_at": "2026-05-25 00:39:15",
+      "summary_cn": "德勤发布了2026年制造业展望报告，分析了行业趋势和关键挑战。报告聚焦于智能制造、工业4.0和供应链韧性等主题，为全球制造业企业提供战略洞察。",
+      "summary_en": "Deloitte released the 2026 Manufacturing Industry Outlook report, analyzing industry trends and key challenges. The report focuses on topics such as smart manufacturing, Industry 4.0, and supply chain resilience, providing strategic insights for global manufacturing companies.",
+      "fetched_at": "2026-05-25 01:10:25",
       "tags": [
         "行业趋势",
         "智能制造",
-        "供应链"
+        "工业4.0"
       ]
     },
     {
@@ -351,11 +351,11 @@
       "region": "Southeast Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "中国-印尼经济伙伴关系：深入观察",
-      "title_en": "China-Indonesia Economic Partnership: A Closer Look",
-      "summary_cn": "本文深入分析了中国与印度尼西亚之间的经济伙伴关系，涵盖贸易、投资和基础设施合作等关键领域。双方在“一带一路”倡议下加强了合作，印尼成为中国在东南亚的重要贸易伙伴。文章还探讨了未来合作潜力及面临的挑战。",
-      "summary_en": "This article provides an in-depth analysis of the economic partnership between China and Indonesia, covering key areas such as trade, investment, and infrastructure cooperation. The two countries have strengthened collaboration under the Belt and Road Initiative, with Indonesia becoming a major trading partner for China in Southeast Asia. It also discusses future cooperation potential and challenges.",
-      "fetched_at": "2026-05-25 00:39:15",
+      "title_cn": "中国-印尼经济伙伴关系：深度解析",
+      "title_en": "China-Indonesia Economic Partnership: A Closer Look - China Briefing",
+      "summary_cn": "本文深入探讨了中国与印度尼西亚之间的经济伙伴关系，涵盖贸易、投资和基础设施合作。双方在“一带一路”倡议下加强了联系，中国已成为印尼最大的贸易伙伴之一。这种合作对两国工业发展具有重要影响。",
+      "summary_en": "This article provides an in-depth look at the economic partnership between China and Indonesia, covering trade, investment, and infrastructure cooperation. The two countries have strengthened ties under the Belt and Road Initiative, with China becoming one of Indonesia's largest trading partners. This collaboration has significant implications for industrial development in both nations.",
+      "fetched_at": "2026-05-25 01:10:25",
       "tags": [
         "一带一路",
         "行业趋势",
@@ -377,9 +377,9 @@
       "lang_orig": "en",
       "title_cn": "美国对印度、印度尼西亚和老挝的太阳能进口产品设定初步关税",
       "title_en": "US sets preliminary duties on solar imports from India, Indonesia and Laos - Reuters",
-      "summary_cn": "美国对来自印度、印度尼西亚和老挝的太阳能产品设定了初步关税。此举可能影响中国光伏企业在这些地区的布局和出口策略。",
-      "summary_en": "The US has set preliminary duties on solar imports from India, Indonesia, and Laos. This move may impact the deployment and export strategies of Chinese photovoltaic companies in these regions.",
-      "fetched_at": "2026-05-25 00:39:15",
+      "summary_cn": "美国对来自印度、印度尼西亚和老挝的太阳能产品设定了初步关税。此举可能影响全球太阳能供应链，并涉及中国企业在这些地区的布局。",
+      "summary_en": "The US has set preliminary duties on solar imports from India, Indonesia, and Laos. This move may impact the global solar supply chain and involve Chinese companies' operations in these regions.",
+      "fetched_at": "2026-05-25 01:10:25",
       "tags": [
         "关税变动",
         "光伏储能",
@@ -400,38 +400,14 @@
       "category": "industry",
       "lang_orig": "en",
       "title_cn": "巴淡岛对中国投资者的吸引力",
-      "title_en": "Batam's appeal to Chinese investors",
-      "summary_cn": "巴淡岛作为印度尼西亚的工业区，正吸引中国投资者关注，其地理位置靠近新加坡，具备物流和成本优势。该岛可能成为中国制造业出海东南亚的潜在目的地。",
-      "summary_en": "Batam, an industrial zone in Indonesia, is attracting Chinese investors due to its proximity to Singapore and advantages in logistics and costs. The island could become a potential destination for Chinese manufacturing expansion into Southeast Asia.",
-      "fetched_at": "2026-05-25 00:39:15",
+      "title_en": "Batam's appeal to Chinese investors - The Straits Times",
+      "summary_cn": "新加坡《海峡时报》报道，印尼巴淡岛凭借其战略位置、优惠政策和基础设施，正吸引中国投资者关注。该岛位于马六甲海峡附近，拥有自由贸易区地位，为制造业和物流业提供便利。中国企业在巴淡岛的投资可能涉及电子、纺织和金属加工等领域，以利用当地成本优势并拓展东南亚市场。",
+      "summary_en": "The Straits Times reports that Indonesia's Batam Island is attracting Chinese investors due to its strategic location, preferential policies, and infrastructure. Situated near the Malacca Strait, the island offers free trade zone status, facilitating manufacturing and logistics. Chinese investments in Batam may involve electronics, textiles, and metal processing, leveraging local cost advantages to expand into Southeast Asian markets.",
+      "fetched_at": "2026-05-25 01:10:25",
       "tags": [
         "海外建厂",
-        "本地化",
-        "行业趋势"
-      ]
-    },
-    {
-      "fingerprint": "65485407468edb3d7551b8da5dc61767",
-      "title_orig": "Navigating the storm: Southeast Asia and the global trade shocks - Lowy Institute",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTNTYjR0Njd1Sm5Kdk9ZM2Qxdnp5dExBLUtCQU45ZFJHTDNqcDJNNlpNem9ieTBlMWZSWkh3ZDNJcXNGMnpRU01SeU13TzBYclpMcV90RGQtMnpYUTl2ZHZaRkduRG00VXhaSzZiSFJGY3JvZjFJUjRyTGk1MmdUaHV2dzF5Y1pYU3BaWVJFRENpSXU3dkRhS3NB?oc=5",
-      "published_raw": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary_raw": "Navigating the storm: Southeast Asia and the global trade shocks &nbsp;&nbsp; Lowy Institute",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_id",
-      "country": "Indonesia",
-      "region": "Southeast Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "应对风暴：东南亚与全球贸易冲击",
-      "title_en": "Navigating the storm: Southeast Asia and the global trade shocks",
-      "summary_cn": "本文由Lowy Institute发布，探讨东南亚地区在全球贸易冲击下的应对策略。分析指出，东南亚国家面临关税变动和供应链重构等挑战，需通过本地化和行业趋势调整来增强韧性。",
-      "summary_en": "Published by the Lowy Institute, this article explores Southeast Asia's strategies in response to global trade shocks. It highlights challenges such as tariff changes and supply chain restructuring, emphasizing the need for localization and industry trend adjustments to enhance resilience.",
-      "fetched_at": "2026-05-25 00:39:15",
-      "tags": [
-        "关税变动",
-        "供应链",
-        "行业趋势"
+        "投资并购",
+        "一带一路"
       ]
     },
     {
@@ -447,11 +423,11 @@
       "region": "Southeast Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "面对美国残酷关税是什么体验？问问马来西亚。",
+      "title_cn": "面对美国严厉关税是什么体验？问问马来西亚。",
       "title_en": "What’s It Like to Deal With Brutal U.S. Tariffs? Ask Malaysia.",
-      "summary_cn": "本文探讨马来西亚如何应对美国施加的高额关税，分析其贸易策略和经济影响。文章可能涉及东南亚国家在关税压力下的调整，以及对中国工业出海企业的启示。",
-      "summary_en": "This article explores how Malaysia deals with high U.S. tariffs, analyzing its trade strategies and economic impacts. It may discuss adjustments by Southeast Asian countries under tariff pressure and implications for Chinese industrial enterprises going global.",
-      "fetched_at": "2026-05-25 00:39:16",
+      "summary_cn": "本文探讨马来西亚如何应对美国施加的严厉关税，分析其对制造业和出口的影响。文章可能涉及供应链调整和贸易策略，为中国企业出海提供参考。",
+      "summary_en": "This article explores how Malaysia copes with the severe U.S. tariffs, analyzing their impact on manufacturing and exports. It may involve supply chain adjustments and trade strategies, offering insights for Chinese companies going global.",
+      "fetched_at": "2026-05-25 01:10:26",
       "tags": [
         "关税变动",
         "供应链",
@@ -471,38 +447,38 @@
       "region": "Southeast Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "中国企业将马来西亚槟城视为全球基地，而不仅仅是关税对冲工具，槟城投资局CEO表示",
+      "title_cn": "中国企业将马来西亚槟城视为全球基地，而不仅仅是关税对冲，InvestPenang首席执行官表示",
       "title_en": "Chinese Firms Eye Malaysia's Penang as Global Base, Not Just Tariff Hedge, InvestPenang's CEO Says",
-      "summary_cn": "槟城投资局CEO指出，中国企业正将马来西亚槟城视为全球制造和运营基地，而不仅仅是规避关税的临时措施。这一趋势反映了中国工业出海战略的深化，槟城凭借其成熟的电子制造生态系统和地理位置优势，吸引了大量中国投资。",
-      "summary_en": "The CEO of InvestPenang stated that Chinese companies are viewing Malaysia's Penang as a global manufacturing and operational base, not just a temporary tariff hedge. This trend reflects the deepening of Chinese industrial overseas expansion, with Penang's mature electronics manufacturing ecosystem and geographic advantages attracting significant Chinese investment.",
-      "fetched_at": "2026-05-25 00:39:16",
+      "summary_cn": "InvestPenang首席执行官指出，中国企业正将马来西亚槟城视为全球制造和运营基地，而不仅仅是规避关税的临时策略。这一趋势反映了中国工业出海的深化，槟城凭借其成熟的电子制造生态系统和地理位置优势，吸引了大量中国投资。",
+      "summary_en": "The CEO of InvestPenang stated that Chinese companies are viewing Penang, Malaysia, as a global manufacturing and operational base, not merely a temporary tariff hedge. This trend reflects the deepening of Chinese industrial overseas expansion, with Penang attracting significant Chinese investment due to its mature electronics manufacturing ecosystem and strategic location.",
+      "fetched_at": "2026-05-25 01:10:26",
       "tags": [
         "海外建厂",
-        "关税变动",
+        "供应链",
         "头部企业动态"
       ]
     },
     {
-      "fingerprint": "683ca66ddf1bc3e55fb21fe95600d39a",
-      "title_orig": "5 American Companies Reshoring After Trump’s Tariffs (AAPl, GE, INTC, NVDA, WHR) - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamlwdnNQVWVQc1VtVEZXbmIwNEV0RlhOb0V5a1RmSG9XWGNNQkVYRVV6cWxqdGlDWWl6MFd2d0J0aGd3bG1pODNsajhCXzhLWW5ORk5SNHR6akZkM1FUajVPeC13d285c0pBTml5WnFBNVAxWTVCMDNfVWplSi1XemRTVURpSjUwbEJIbWdYUDNtMFBPbUdtVkMwV043X2E2Z3lOQnk5Wi1vTzFYR2xtcnMxaXRFRHNB?oc=5",
-      "published_raw": "Sun, 02 Nov 2025 07:00:00 GMT",
-      "summary_raw": "5 American Companies Reshoring After Trump’s Tariffs (AAPl, GE, INTC, NVDA, WHR) &nbsp;&nbsp; 24/7 Wall St.",
+      "fingerprint": "b525fe5020344a48873574edde9cc971",
+      "title_orig": "The Ministry of Investment of Saudi Arabia, the National Industrial Development Center, Stellantis, and Petromin Sign MoU to Explore Joint Vehicle Manufacturing Project in Saudi Arabia - Stellantis Media",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQQzR1TW5qcGNZbm9MRFNhSDFrSThEaGZvS0JjOTZHZlE2T0RqQ1hRZ2xTX1FWR3A0SXA1U0FGczVwelZLVWoyYUpmRF9YVE9VVkwwb0d6elFvY3JMTTZibEtqOFBKUVRqR2lrcHRYSHRQM3REMUdUQTlEblNoZWREb1VtSlI5dXpFVU9fQjJJYXFGc282d0lSNVVZbHlQRjdYNDQtZExodDQyWWFLa3FOQUhKam5pMTBhVC1LVm82el92T09EV0JpRHdWdWNneVU1dllpZFB5U0Iwc3hSU0g4UU1XdDl5N0VLMjJ5MmFDdUM5TzJwTHRXMG1HTzFQVXNSZVVKUUo2bllRVU03dmJiTk9jZWl3UzdoaGNoaUw2RHlINnVPRVpmN3JiemhpVHNGQUlOSjV5THNWYVVjWmVJUXdlYTl0OWdLa005TFQxUUltNHh1VDJF?oc=5",
+      "published_raw": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "summary_raw": "The Ministry of Investment of Saudi Arabia, the National Industrial Development Center, Stellantis, and Petromin Sign MoU to Explore Joint Vehicle Manufacturing Project in Saudi Arabia &nbsp;&nbsp; Stellantis Media",
       "source_domain": "news.google.com",
       "authority": 5,
-      "feed_id": "google_industrial_my",
-      "country": "Malaysia",
-      "region": "Southeast Asia",
+      "feed_id": "google_industrial_sa",
+      "country": "Saudi Arabia",
+      "region": "Middle East",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "特朗普关税后五家美国公司回流（AAPL, GE, INTC, NVDA, WHR）",
-      "title_en": "5 American Companies Reshoring After Trump’s Tariffs (AAPL, GE, INTC, NVDA, WHR) - 24/7 Wall St.",
-      "summary_cn": "受特朗普关税政策影响，五家美国公司（苹果、通用电气、英特尔、英伟达、惠而浦）正在将生产或供应链迁回美国。此举旨在规避进口成本上升，并响应制造业回流趋势。",
-      "summary_en": "Driven by Trump's tariffs, five American companies (Apple, GE, Intel, Nvidia, Whirlpool) are reshoring production or supply chains to the U.S. to avoid rising import costs and align with the manufacturing repatriation trend.",
-      "fetched_at": "2026-05-25 00:39:16",
+      "title_cn": "沙特投资部、国家工业发展中心、Stellantis与Petromin签署谅解备忘录，探索在沙特开展联合汽车制造项目",
+      "title_en": "The Ministry of Investment of Saudi Arabia, the National Industrial Development Center, Stellantis, and Petromin Sign MoU to Explore Joint Vehicle Manufacturing Project in Saudi Arabia",
+      "summary_cn": "沙特阿拉伯投资部、国家工业发展中心、汽车制造商Stellantis与Petromin签署了一份谅解备忘录，旨在探索在沙特联合开展汽车制造项目的可行性。该项目有望推动沙特汽车产业本地化发展，并吸引国际车企参与其工业多元化战略。",
+      "summary_en": "The Ministry of Investment of Saudi Arabia, the National Industrial Development Center, Stellantis, and Petromin signed an MoU to explore a joint vehicle manufacturing project in Saudi Arabia. This initiative aims to boost local automotive industry development and attract international automakers as part of Saudi Arabia's industrial diversification strategy.",
+      "fetched_at": "2026-05-25 01:10:27",
       "tags": [
-        "关税变动",
-        "供应链",
+        "海外建厂",
+        "本地化",
         "头部企业动态"
       ]
     },
@@ -521,13 +497,15 @@
       "lang_orig": "en",
       "title_cn": "沙特阿拉伯工业电机市场：智能制造、电气化与2030愿景推动力",
       "title_en": "Industrial Motors Market in Saudi Arabia: Smart Manufacturing, Electrification & Vision 2030 Momentum",
-      "summary_cn": "沙特阿拉伯工业电机市场正受益于其“2030愿景”推动的智能制造和电气化进程。该市场预计将迎来显著增长，涉及高效电机、变频驱动等产品。这一趋势为中国工业电机及自动化设备企业提供了出海机遇。",
-      "summary_en": "The industrial motors market in Saudi Arabia is benefiting from the country's Vision 2030-driven smart manufacturing and electrification initiatives. The market is expected to see significant growth, involving products like high-efficiency motors and variable frequency drives. This trend presents opportunities for Chinese industrial motor and automation equipment companies to expand overseas.",
-      "fetched_at": "2026-05-25 00:39:17",
+      "summary_cn": "沙特阿拉伯工业电机市场正受益于其“2030愿景”推动的智能制造和电气化趋势。该市场增长迅速，涉及机械设备、自动化和新能源汽车等领域，为工业出海企业提供机遇。",
+      "summary_en": "The industrial motors market in Saudi Arabia is benefiting from the smart manufacturing and electrification trends driven by its Vision 2030. The market is growing rapidly, involving sectors such as machinery, automation, and new energy vehicles, offering opportunities for industrial enterprises going global.",
+      "fetched_at": "2026-05-25 01:10:27",
       "tags": [
         "智能制造",
-        "行业趋势",
-        "海外建厂"
+        "机械设备",
+        "自动化",
+        "新能源汽车",
+        "行业趋势"
       ]
     },
     {
@@ -543,11 +521,11 @@
       "region": "Middle East",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "沙特阿拉伯在汉诺威工业博览会签署谅解备忘录以推进工业本地化",
+      "title_cn": "沙特阿拉伯在汉诺威工业博览会上签署谅解备忘录以推进工业本地化",
       "title_en": "Saudi Arabia signs MoUs at Hannover Messe to advance industrial localization",
-      "summary_cn": "沙特阿拉伯在汉诺威工业博览会期间签署多项谅解备忘录，旨在推动工业本地化进程。此举体现了沙特在制造业领域加强国际合作、减少对外依赖的战略意图。",
-      "summary_en": "Saudi Arabia signed multiple memorandums of understanding at Hannover Messe to advance industrial localization. This move reflects the kingdom's strategic intent to strengthen international cooperation in manufacturing and reduce external dependence.",
-      "fetched_at": "2026-05-25 00:39:17",
+      "summary_cn": "沙特阿拉伯在汉诺威工业博览会上签署多项谅解备忘录，旨在推进工业本地化进程。此举是沙特“2030愿景”的一部分，重点吸引国际投资和技术转移，以增强本土制造业能力。",
+      "summary_en": "Saudi Arabia signed multiple Memorandums of Understanding at Hannover Messe to advance industrial localization. This move is part of Saudi Vision 2030, focusing on attracting international investment and technology transfer to boost local manufacturing capabilities.",
+      "fetched_at": "2026-05-25 01:10:27",
       "tags": [
         "海外建厂",
         "本地化",
@@ -555,83 +533,11 @@
       ]
     },
     {
-      "fingerprint": "da5c04dc0821e9ce6334ad8dbe0c98f1",
-      "title_orig": "Saudi Arabia Foundry Equipment Market: Automation Integration, Precision Casting & Industrial Expansion - vocal.media",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdDNvd09uSmVYbU1CR3NKdlRrZ08yWXNrckRyTW1KUWp2RGpUZHFaX29pQUNfN05CV0VUNWV3V2FtcW1WaF85djRnSkE3Zl9QQWwxWUVYODlBYTlkS2RkWGV1akN4bFBvWXhGNzZPY0duQUM0NUFPaGJMM0JtUHlQSGZiRkpod19KcExPZkxrVlJ3Tm5IWU1IQTFLaVl6Z2ZfNjdySjFvMTRDT0EySnpNdk1fWTN1TjRLZTVadTk4WWhoMERRcnV6dU8yako?oc=5",
-      "published_raw": "Sat, 16 May 2026 07:09:16 GMT",
-      "summary_raw": "Saudi Arabia Foundry Equipment Market: Automation Integration, Precision Casting & Industrial Expansion &nbsp;&nbsp; vocal.media",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_sa",
-      "country": "Saudi Arabia",
-      "region": "Middle East",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "沙特阿拉伯铸造设备市场：自动化集成、精密铸造与工业扩张",
-      "title_en": "Saudi Arabia Foundry Equipment Market: Automation Integration, Precision Casting & Industrial Expansion",
-      "summary_cn": "沙特阿拉伯铸造设备市场正经历自动化集成、精密铸造与工业扩张的显著趋势。该市场的发展受到当地工业化和基础设施建设的推动，为铸造设备供应商提供了机遇。",
-      "summary_en": "The Saudi Arabia foundry equipment market is experiencing significant trends in automation integration, precision casting, and industrial expansion. The market's growth is driven by local industrialization and infrastructure development, offering opportunities for foundry equipment suppliers.",
-      "fetched_at": "2026-05-25 00:39:17",
-      "tags": [
-        "智能制造",
-        "自动化",
-        "行业趋势"
-      ]
-    },
-    {
-      "fingerprint": "99d96cd092d3ebc9ee49f1be09616b2e",
-      "title_orig": "Rosond Saudi Industrial Expansion Accelerates Vision 2030 Manufacturing Goals - Discovery Alert",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMS1ISVYxZVE1ME8zVzBpMm1hUUpQZGFyRmt1Zk0xdHppSHBRcXMzajJ2RVZybFlsalFfaGZfVWloZmo5b09qTUs1ZDZpV0xZM0ZyLWdoY3lNbFNmQVdVYmNuTmRFWW5rYVMySS1sWHBVTVJ3NjdRSVlGX0FMeWQ1X2lvOUQweldaaVZQVTdrcjNLbUk?oc=5",
-      "published_raw": "Sat, 07 Feb 2026 08:00:00 GMT",
-      "summary_raw": "Rosond Saudi Industrial Expansion Accelerates Vision 2030 Manufacturing Goals &nbsp;&nbsp; Discovery Alert",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_sa",
-      "country": "Saudi Arabia",
-      "region": "Middle East",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "Rosond沙特工业扩张加速实现2030愿景制造业目标 - 发现警报",
-      "title_en": "Rosond Saudi Industrial Expansion Accelerates Vision 2030 Manufacturing Goals - Discovery Alert",
-      "summary_cn": "Rosond在沙特阿拉伯的工业扩张项目正在加速推进，旨在支持沙特2030愿景中的制造业目标。该扩张涉及增加产能和本地化生产，以促进经济多元化。",
-      "summary_en": "Rosond's industrial expansion in Saudi Arabia is accelerating to support the manufacturing goals of Vision 2030. The expansion involves increasing capacity and localizing production to promote economic diversification.",
-      "fetched_at": "2026-05-25 00:39:17",
-      "tags": [
-        "海外建厂",
-        "本地化",
-        "行业趋势"
-      ]
-    },
-    {
-      "fingerprint": "0951b1e71a07a092908782f73b286cf9",
-      "title_orig": "Saudi Arabia Metallurgical Equipment Market: Steel Production, Industrial Expansion & Growth Outlook - vocal.media",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON2V6ZXR0dWhERm13dWZTN0s5cDZaeUY0Z1Z1S3J6QUMwTEZXaGZvZG1RMWt0Vk5FWTBBTGFydGZoS2cyUmVDTGpaakt5QUE1dEtmTmFZZWlqUk1Pdkl6elpPU0lZUUlhQXZ1QjRuanVKdjlFTzlQa0xjVlVGS0NTVDZ3YXVCQ05rZ3BxMG1ONVR4UEs3NDlNd05WMzYtRUttOHlYSkJBSkJ1RGJOc3ctYW8tVWNPQmFvelRGazdtTjRtY1JPbDBXRQ?oc=5",
-      "published_raw": "Mon, 11 May 2026 15:14:20 GMT",
-      "summary_raw": "Saudi Arabia Metallurgical Equipment Market: Steel Production, Industrial Expansion & Growth Outlook &nbsp;&nbsp; vocal.media",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_sa",
-      "country": "Saudi Arabia",
-      "region": "Middle East",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "沙特冶金设备市场：钢铁生产、工业扩张与增长展望",
-      "title_en": "Saudi Arabia Metallurgical Equipment Market: Steel Production, Industrial Expansion & Growth Outlook",
-      "summary_cn": "沙特阿拉伯冶金设备市场正受益于钢铁生产扩张和工业增长。该市场预计将随着沙特“2030愿景”推动本地化制造和基础设施建设而持续发展。关键驱动因素包括钢铁产能提升和工业设备需求增加。",
-      "summary_en": "The Saudi Arabia metallurgical equipment market is benefiting from steel production expansion and industrial growth. The market is expected to continue developing as Saudi Vision 2030 drives localization of manufacturing and infrastructure construction. Key drivers include increased steel capacity and demand for industrial equipment.",
-      "fetched_at": "2026-05-25 00:39:17",
-      "tags": [
-        "行业趋势",
-        "机械设备",
-        "本地化"
-      ]
-    },
-    {
-      "fingerprint": "b525fe5020344a48873574edde9cc971",
-      "title_orig": "The Ministry of Investment of Saudi Arabia, the National Industrial Development Center, Stellantis, and Petromin Sign MoU to Explore Joint Vehicle Manufacturing Project in Saudi Arabia - Stellantis Media",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQQzR1TW5qcGNZbm9MRFNhSDFrSThEaGZvS0JjOTZHZlE2T0RqQ1hRZ2xTX1FWR3A0SXA1U0FGczVwelZLVWoyYUpmRF9YVE9VVkwwb0d6elFvY3JMTTZibEtqOFBKUVRqR2lrcHRYSHRQM3REMUdUQTlEblNoZWREb1VtSlI5dXpFVU9fQjJJYXFGc282d0lSNVVZbHlQRjdYNDQtZExodDQyWWFLa3FOQUhKam5pMTBhVC1LVm82el92T09EV0JpRHdWdWNneVU1dllpZFB5U0Iwc3hSU0g4UU1XdDl5N0VLMjJ5MmFDdUM5TzJwTHRXMG1HTzFQVXNSZVVKUUo2bllRVU03dmJiTk9jZWl3UzdoaGNoaUw2RHlINnVPRVpmN3JiemhpVHNGQUlOSjV5THNWYVVjWmVJUXdlYTl0OWdLa005TFQxUUltNHh1VDJF?oc=5",
+      "fingerprint": "9aa7b3a8b85b094e1ffdbc1ed32fdd2e",
+      "title_orig": "Saudi Arabia's big move? Stellantis assembly plant - Automotive Manufacturing Solutions",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzY4S2taRkRwMWlneEZ0bEJ1ems0MkFTYVlyeVphSVUzQi0zaXlxcDhhUnJRQnNXN09tY3pBVkdWNXpxT080R3Rob2VHTngzT092d2k3eldTb25ITHMxZERYVGdyRi1YNl9IYUVKUzFRREVNZGpWZ0VTeGtHQlBoMFhGQnUtVjR3VGhwZlZOMlBLSXlyV1c3bTlYVGh6Z0JfNTFGTGt3bjlWSXdZUWx0MmVBcmE4a2E4Y3JLYg?oc=5",
       "published_raw": "Thu, 20 Nov 2025 08:00:00 GMT",
-      "summary_raw": "The Ministry of Investment of Saudi Arabia, the National Industrial Development Center, Stellantis, and Petromin Sign MoU to Explore Joint Vehicle Manufacturing Project in Saudi Arabia &nbsp;&nbsp; Stellantis Media",
+      "summary_raw": "Saudi Arabia's big move? Stellantis assembly plant &nbsp;&nbsp; Automotive Manufacturing Solutions",
       "source_domain": "news.google.com",
       "authority": 5,
       "feed_id": "google_industrial_sa",
@@ -639,15 +545,63 @@
       "region": "Middle East",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "沙特投资部、国家工业发展中心、Stellantis与Petromin签署谅解备忘录，探索在沙特联合汽车制造项目",
-      "title_en": "The Ministry of Investment of Saudi Arabia, the National Industrial Development Center, Stellantis, and Petromin Sign MoU to Explore Joint Vehicle Manufacturing Project in Saudi Arabia",
-      "summary_cn": "沙特投资部、国家工业发展中心、Stellantis与Petromin签署谅解备忘录，计划在沙特探索联合汽车制造项目。此举旨在推动沙特本地汽车产业发展，吸引国际投资。",
-      "summary_en": "The Ministry of Investment of Saudi Arabia, the National Industrial Development Center, Stellantis, and Petromin have signed an MoU to explore a joint vehicle manufacturing project in Saudi Arabia. This initiative aims to boost the local automotive industry and attract international investment.",
-      "fetched_at": "2026-05-25 00:39:17",
+      "title_cn": "沙特的大动作？Stellantis装配厂",
+      "title_en": "Saudi Arabia's big move? Stellantis assembly plant",
+      "summary_cn": "沙特阿拉伯可能迎来重大工业举措，Stellantis计划在当地建设装配厂。此举将增强沙特汽车制造能力，并可能吸引中国零部件供应商参与供应链。",
+      "summary_en": "Saudi Arabia is poised for a major industrial move with Stellantis planning an assembly plant. This will boost local automotive manufacturing and potentially attract Chinese parts suppliers into the supply chain.",
+      "fetched_at": "2026-05-25 01:10:27",
       "tags": [
         "海外建厂",
         "新能源汽车",
         "头部企业动态"
+      ]
+    },
+    {
+      "fingerprint": "aa495f627124d123288021f38b3bd30a",
+      "title_orig": "HP is betting on Saudi manufacturing as the kingdom pitches itself as the Middle East's tech factory - TechSpot",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS3RCbEFxdjBYZVVrR1ZZTVliZDdqZ0xIQkc1RUgyUEJlc0ZlMTdXbkRIWlZkT3dvanBCaGhVUG0zY3Y2aWI4Q3dhbDIzRl9ZWkM0d0QzVzBhd1BVN3ZDRGFWeUJKaFBlZkRIRVplaVVvMU00OWFYelRNQTRsdzBDMlNmZnVKcVdwWUF5TTNzanlJcUpjbkZXeUNOQjFrdw?oc=5",
+      "published_raw": "Sat, 25 Oct 2025 07:00:00 GMT",
+      "summary_raw": "HP is betting on Saudi manufacturing as the kingdom pitches itself as the Middle East's tech factory &nbsp;&nbsp; TechSpot",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_sa",
+      "country": "Saudi Arabia",
+      "region": "Middle East",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "惠普押注沙特制造，沙特自诩中东科技工厂",
+      "title_en": "HP is betting on Saudi manufacturing as the kingdom pitches itself as the Middle East's tech factory",
+      "summary_cn": "惠普公司正加大对沙特阿拉伯的制造投资，利用该国打造中东科技工厂的愿景。此举反映了沙特在吸引高科技制造业方面的努力，以及全球供应链向中东地区转移的趋势。",
+      "summary_en": "HP is increasing its manufacturing investment in Saudi Arabia, leveraging the kingdom's ambition to become the Middle East's tech factory. This move reflects Saudi efforts to attract high-tech manufacturing and the global supply chain shift toward the Middle East.",
+      "fetched_at": "2026-05-25 01:10:27",
+      "tags": [
+        "海外建厂",
+        "头部企业动态",
+        "供应链"
+      ]
+    },
+    {
+      "fingerprint": "a5efdec6140d1fae99463086c19f5378",
+      "title_orig": "Make it in the Emirates 2026: Sharjah attracts Dh3.5 billion in industrial investment over five years - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeHhXNjNCa2VYdWI4M3dPU2pZU1B6RFRvMElsaU1MOFppVmtjTXM2WkhHS2ZOaHd6MENPTnZtUy1JTHJHekNOa21GOEctRFVuNHUyUV9XQ3dMNmd5MHlac2FfZXZnbGt5ZEZMdVlFT1F5WGhVZzN6RlFsRFhrQlQxU25uUjRqaXY2SFBpWWZWMzFCMFlnQVp0cFk4SERLSDFFTjBhN1dVNTM3dlNKMGxkOS1rc1FvekpEYkEyUHMtZk9HMWlqUnczUktOLXRIdU94ZmfSAeIBQVVfeXFMTkF0a3IzU3FtQlJEOU5XVTVZcWl1ejd2QXhWRUNCaktwMHVtVGRJeExjbXpEeFhmUzB3WWZzenh4YlgzYW94VWE5UXI1MTBMdzlGTHo4NEJFWWJNd2UySE15VVNzd1U5RjVLcTA0X2hkcXBxRFBaNVZwSjM5R0V2VHhQVUFyM2FGdG9MTUlhZ1RvOXFtalNxNVhtc0dLMkdKdEdGWk9SX2ZjLU5aMXhFa1FOUzI3VTBMdFZXOW5ENjhNSFZiTzR1REtEVVFfS2U4eDNRVTRGaWhTN3NFREM2bXFXUQ?oc=5",
+      "published_raw": "Tue, 05 May 2026 07:00:00 GMT",
+      "summary_raw": "Make it in the Emirates 2026: Sharjah attracts Dh3.5 billion in industrial investment over five years &nbsp;&nbsp; Gulf News",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_ae",
+      "country": "UAE",
+      "region": "Middle East",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "阿联酋制造2026：沙迦五年吸引35亿迪拉姆工业投资",
+      "title_en": "Make it in the Emirates 2026: Sharjah attracts Dh3.5 billion in industrial investment over five years - Gulf News",
+      "summary_cn": "沙迦在五年内吸引了35亿迪拉姆的工业投资，作为“阿联酋制造2026”倡议的一部分。该投资旨在推动当地制造业发展，增强工业竞争力。",
+      "summary_en": "Sharjah has attracted Dh3.5 billion in industrial investment over five years as part of the 'Make it in the Emirates 2026' initiative. The investment aims to boost local manufacturing and enhance industrial competitiveness.",
+      "fetched_at": "2026-05-25 01:10:27",
+      "tags": [
+        "海外建厂",
+        "投资并购",
+        "行业趋势"
       ]
     },
     {
@@ -665,61 +619,13 @@
       "lang_orig": "en",
       "title_cn": "阿联酋与中国签署清洁能源工业平台协议，推动先进制造业发展",
       "title_en": "UAE signs China deal for clean energy industrial platform to boost advanced manufacturing",
-      "summary_cn": "阿联酋与中国签署了一项关于清洁能源工业平台的协议，旨在促进先进制造业的发展。该合作将聚焦于清洁能源领域的工业创新与制造升级，有助于推动两国在绿色技术和智能制造方面的合作。",
-      "summary_en": "The UAE has signed an agreement with China for a clean energy industrial platform aimed at boosting advanced manufacturing. The cooperation will focus on industrial innovation and manufacturing upgrades in the clean energy sector, promoting collaboration between the two countries in green technology and smart manufacturing.",
-      "fetched_at": "2026-05-25 00:39:17",
+      "summary_cn": "阿联酋与中国签署了一项关于清洁能源工业平台的协议，旨在推动先进制造业的发展。该合作将聚焦于清洁能源技术及工业升级，促进双方在绿色经济和高端制造领域的协同。此举有助于中国工业出海，拓展中东市场。",
+      "summary_en": "The UAE has signed an agreement with China to establish a clean energy industrial platform aimed at boosting advanced manufacturing. The collaboration focuses on clean energy technologies and industrial upgrading, promoting synergy in green economy and high-end manufacturing. This move supports Chinese industrial expansion into the Middle East market.",
+      "fetched_at": "2026-05-25 01:10:27",
       "tags": [
-        "海外建厂",
-        "清洁能源",
-        "智能制造"
-      ]
-    },
-    {
-      "fingerprint": "89b139ff55058d27ca26ebf3c7372a61",
-      "title_orig": "Eaton begins construction of sustainable advanced manufacturing hub in Dubai’s Jafza - Gulf Business",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjlNa0tMS3JrMkc4M1RWdjdUZHVnZXFiRmdKWnpzalpTbWRxVmpTR3RSRV9NMko1QnRfU1hQZnhsbDdrUVBLVmdKZDFSYXE2TW5sOTc5YmpxcTZlR0V0RlBCZ0MwZFQ2UGlDaXEtNEp2bUtadC1LQm5hVldLLXJ0eWprcTdkbUhWRDFBM3g2YWlyNUJZMGVOMkJxRGJvcmdRSW5Lci11LTVXY1l3cTNseTBlb2QybEVCSXBkVEpNajd6dUpEdGc?oc=5",
-      "published_raw": "Mon, 13 Apr 2026 18:49:29 GMT",
-      "summary_raw": "Eaton begins construction of sustainable advanced manufacturing hub in Dubai’s Jafza &nbsp;&nbsp; Gulf Business",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_ae",
-      "country": "UAE",
-      "region": "Middle East",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "伊顿在迪拜杰贝阿里自贸区启动可持续先进制造中心建设",
-      "title_en": "Eaton begins construction of sustainable advanced manufacturing hub in Dubai’s Jafza",
-      "summary_cn": "伊顿公司宣布在迪拜杰贝阿里自贸区（Jafza）启动建设可持续先进制造中心。该项目将采用绿色建筑标准，专注于智能制造与工业4.0技术，旨在提升区域制造能力。此举标志着伊顿在中东地区的本地化布局进一步深化。",
-      "summary_en": "Eaton has announced the start of construction on a sustainable advanced manufacturing hub in Dubai's Jebel Ali Free Zone (Jafza). The project will adopt green building standards and focus on smart manufacturing and Industry 4.0 technologies to enhance regional manufacturing capabilities. This move marks a further deepening of Eaton's localization in the Middle East.",
-      "fetched_at": "2026-05-25 00:39:17",
-      "tags": [
-        "海外建厂",
-        "智能制造",
-        "本地化"
-      ]
-    },
-    {
-      "fingerprint": "31ca7b45edc96109106468a3700955db",
-      "title_orig": "India’s cautious embrace of trade - Lowy Institute",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWlV2bnNXb0FtY09sN29UU05tXzZ1d3BPUEdPT0Q0N3Q1eEViTWZwMUlHNnE2LXQ5OEV0S0g5Uk1GM3ZTUTQwY2FZb0xEdFZNcTZTNlhEMkRHbkRPZllLamlKOE5FZXpvVkJlbjRlMHBYSW0yYy0yOE42QjZtdGZ6ZFVR?oc=5",
-      "published_raw": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "summary_raw": "India’s cautious embrace of trade &nbsp;&nbsp; Lowy Institute",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_in",
-      "country": "India",
-      "region": "South Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "印度谨慎拥抱贸易 - 洛伊研究所",
-      "title_en": "India’s cautious embrace of trade - Lowy Institute",
-      "summary_cn": "印度正在采取谨慎态度参与全球贸易，洛伊研究所的分析指出其政策平衡国内利益与国际合作。这一趋势可能影响中国工业企业在印度市场的出海策略，尤其是在制造业和供应链领域。",
-      "summary_en": "India is cautiously engaging in global trade, with the Lowy Institute analyzing its policy balance between domestic interests and international cooperation. This trend may impact Chinese industrial enterprises' strategies in the Indian market, particularly in manufacturing and supply chains.",
-      "fetched_at": "2026-05-25 00:39:18",
-      "tags": [
-        "行业趋势",
         "政策法规",
-        "本地化"
+        "海外建厂",
+        "清洁能源"
       ]
     },
     {
@@ -735,15 +641,15 @@
       "region": "South Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "印度汽车热潮：全球OEM竞相投资扩张",
+      "title_cn": "印度汽车热潮：全球原始设备制造商竞相投资扩张",
       "title_en": "India’s car boom: Global OEMs race to invest and expand - Automotive Manufacturing Solutions",
-      "summary_cn": "印度汽车市场迎来繁荣，全球原始设备制造商（OEM）正竞相投资和扩张。这一趋势反映了印度作为新兴汽车制造中心的吸引力，可能影响中国汽车企业的海外布局策略。",
-      "summary_en": "India's car market is booming, with global OEMs racing to invest and expand. This trend highlights India's appeal as an emerging automotive manufacturing hub, potentially impacting Chinese automakers' overseas strategies.",
-      "fetched_at": "2026-05-25 00:39:18",
+      "summary_cn": "印度汽车市场迎来繁荣，全球原始设备制造商（OEM）正加速投资和扩张。这一趋势吸引了多家国际车企在印度设立或扩大生产基地，以抢占市场份额。",
+      "summary_en": "India's car market is experiencing a boom, with global OEMs racing to invest and expand. This trend has attracted multiple international automakers to set up or expand production bases in India to capture market share.",
+      "fetched_at": "2026-05-25 01:10:28",
       "tags": [
-        "行业趋势",
         "海外建厂",
-        "头部企业动态"
+        "投资并购",
+        "行业趋势"
       ]
     },
     {
@@ -761,13 +667,13 @@
       "lang_orig": "en",
       "title_cn": "欧盟-印度贸易协定以关税削减和零关税重塑汽车制造业",
       "title_en": "EU-India trade deal reshapes automotive manufacturing with tariff cuts and zero duties",
-      "summary_cn": "欧盟与印度达成贸易协定，通过大幅削减关税和实行零关税政策，重塑汽车制造业格局。该协议旨在促进双方汽车及零部件贸易，降低生产成本，并可能推动印度成为全球汽车制造中心。此举将影响中国汽车零部件企业在印度市场的竞争环境。",
-      "summary_en": "The EU-India trade deal reshapes automotive manufacturing through significant tariff cuts and zero duties, aiming to boost bilateral trade in vehicles and components. This agreement reduces production costs and could position India as a global automotive hub, impacting Chinese auto parts companies' competitiveness in the Indian market.",
-      "fetched_at": "2026-05-25 00:39:18",
+      "summary_cn": "欧盟与印度达成贸易协定，通过大幅削减关税和实行零关税政策，将深刻影响汽车制造业格局。该协议旨在促进双边贸易，降低汽车及零部件成本，可能推动中国汽车零部件企业调整出海策略。关键数据包括具体关税削减幅度和零关税覆盖范围，但原文未提供详细数字。",
+      "summary_en": "The EU-India trade deal, featuring significant tariff cuts and zero duties, is set to reshape the automotive manufacturing landscape. Aimed at boosting bilateral trade and reducing costs for vehicles and components, this agreement may prompt Chinese auto parts firms to adjust their overseas strategies. Key data includes specific tariff reduction rates and zero-duty coverage, though detailed figures are not provided in the original text.",
+      "fetched_at": "2026-05-25 01:10:28",
       "tags": [
         "政策法规",
         "关税变动",
-        "行业趋势"
+        "新能源汽车"
       ]
     },
     {
@@ -783,15 +689,15 @@
       "region": "South Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "印度曾是中国的经济替代选择，特朗普终结了这一点",
-      "title_en": "India Was the Economic Alternative to China. Trump Ended That.",
-      "summary_cn": "本文探讨了特朗普政策如何改变了印度作为中国替代经济体的地位。分析指出，贸易摩擦和地缘政治变化削弱了印度吸引外资的优势。关键数据和名称包括印度、中国、特朗普。",
-      "summary_en": "This article discusses how Trump's policies altered India's position as an economic alternative to China. It analyzes that trade frictions and geopolitical shifts have weakened India's advantages in attracting foreign investment. Key data and names include India, China, and Trump.",
-      "fetched_at": "2026-05-25 00:39:18",
+      "title_cn": "印度曾是中国经济的替代选择，特朗普终结了这一点。 - 纽约时报",
+      "title_en": "India Was the Economic Alternative to China. Trump Ended That. - The New York Times",
+      "summary_cn": "本文探讨了特朗普政策如何改变了印度作为中国经济替代选项的地位。文章指出，特朗普的贸易政策和经济策略削弱了印度在吸引外资和制造业转移方面的优势，使得印度不再被视为可靠的中国替代方案。这一变化对全球供应链布局产生了深远影响。",
+      "summary_en": "This article explores how Trump's policies have altered India's position as an economic alternative to China. It points out that Trump's trade policies and economic strategies have undermined India's advantages in attracting foreign investment and manufacturing relocation, making India no longer seen as a reliable alternative to China. This shift has profound implications for global supply chain reconfiguration.",
+      "fetched_at": "2026-05-25 01:10:28",
       "tags": [
         "行业趋势",
-        "政策法规",
-        "供应链"
+        "供应链",
+        "头部企业动态"
       ]
     },
     {
@@ -807,39 +713,15 @@
       "region": "South Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "苹果多年前决定在印度生产iPhone，抢先应对关税",
+      "title_cn": "苹果提前应对关税，多年前决定在印度生产iPhone",
       "title_en": "Apple Got the Jump on Tariffs, Deciding Years Ago to Make iPhones in India - WSJ",
-      "summary_cn": "苹果公司多年前已决定在印度生产iPhone，以规避关税影响。这一战略布局使其在关税变动中占据先机，体现了供应链多元化的趋势。",
-      "summary_en": "Apple decided years ago to manufacture iPhones in India to get ahead of tariffs. This strategic move gives it an advantage amid tariff changes, reflecting a trend of supply chain diversification.",
-      "fetched_at": "2026-05-25 00:39:18",
+      "summary_cn": "苹果公司多年前已决定在印度生产iPhone，以规避关税风险。这一战略布局使其在当前贸易环境下占据先机，体现了跨国企业供应链多元化的趋势。",
+      "summary_en": "Apple decided years ago to manufacture iPhones in India to get ahead of tariffs. This strategic move gives it an advantage in the current trade environment, reflecting a trend of supply chain diversification among multinational corporations.",
+      "fetched_at": "2026-05-25 01:10:28",
       "tags": [
-        "关税变动",
         "供应链",
+        "海外建厂",
         "头部企业动态"
-      ]
-    },
-    {
-      "fingerprint": "ed2ba696e7ab0649a75add184d79b0dc",
-      "title_orig": "India pushes for further reforms amid US tariffs - fDi Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQWwzZlF1Uko4UXZLTEZYbGJ2WlF4NXlQWVFJVlVWZFVfaHIwdVplWWtzSWFndTFnc2JyUjZwQk85MmVhQzZoYkk2UUtQWTRjU3gzWjhUX2R2OHlBQUhBQ2FxMWE4SEJ3UVhqT1NqQ0t5VHlnWXltTzR6bDNPbHliU1BR?oc=5",
-      "published_raw": "Wed, 27 Aug 2025 07:00:00 GMT",
-      "summary_raw": "India pushes for further reforms amid US tariffs &nbsp;&nbsp; fDi Intelligence",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_in",
-      "country": "India",
-      "region": "South Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "印度在美国关税压力下推动进一步改革",
-      "title_en": "India pushes for further reforms amid US tariffs",
-      "summary_cn": "面对美国关税政策，印度正加速推进经济改革，以增强其制造业竞争力和吸引外资。此举可能影响中国工业企业在印度市场的布局和出海策略。",
-      "summary_en": "In response to US tariffs, India is accelerating economic reforms to boost manufacturing competitiveness and attract foreign investment. This move may impact Chinese industrial enterprises' strategies in the Indian market.",
-      "fetched_at": "2026-05-25 00:39:18",
-      "tags": [
-        "政策法规",
-        "关税变动",
-        "行业趋势"
       ]
     },
     {
@@ -855,15 +737,15 @@
       "region": "South Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "苹果将在美国追加投资1000亿美元，特朗普宣布对芯片征收关税",
+      "title_cn": "苹果将在美国额外投资1000亿美元，特朗普宣布对芯片征收关税",
       "title_en": "Apple to invest extra $100bn in the US as Trump announces tariffs on chips",
-      "summary_cn": "苹果公司宣布将在美国追加投资1000亿美元，此举正值特朗普政府宣布对进口芯片征收关税。该投资旨在扩大美国本土制造能力，减少对海外供应链的依赖。这一动态可能影响全球电子制造业格局，对中国工业出海企业构成竞争压力。",
-      "summary_en": "Apple announced an additional $100 billion investment in the US, coinciding with Trump's announcement of tariffs on imported chips. The investment aims to boost domestic manufacturing and reduce reliance on overseas supply chains. This move could reshape global electronics manufacturing, posing competitive pressure on Chinese industrial firms expanding overseas.",
-      "fetched_at": "2026-05-25 00:39:18",
+      "summary_cn": "苹果公司宣布将在美国额外投资1000亿美元，以应对特朗普政府对芯片征收的关税。此举旨在加强美国本土制造能力，并可能影响全球供应链布局。",
+      "summary_en": "Apple announces an additional $100 billion investment in the US in response to Trump's tariffs on chips. This move aims to boost domestic manufacturing and may impact global supply chains.",
+      "fetched_at": "2026-05-25 01:10:28",
       "tags": [
-        "头部企业动态",
         "关税变动",
-        "供应链"
+        "供应链",
+        "头部企业动态"
       ]
     },
     {
@@ -879,15 +761,15 @@
       "region": "South Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "AMANN集团计划在孟加拉国扩建工厂并增加新投资",
-      "title_en": "AMANN Group plans factory expansion and new investments in Bangladesh",
-      "summary_cn": "AMANN集团宣布计划在孟加拉国进行工厂扩建和新投资。此举旨在扩大其在纺织领域的产能，并进一步巩固市场地位。",
-      "summary_en": "AMANN Group announces plans for factory expansion and new investments in Bangladesh. This move aims to increase production capacity in the textile sector and strengthen its market position.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "title_cn": "AMANN集团计划在孟加拉国扩建工厂并进行新投资",
+      "title_en": "AMANN Group plans factory expansion and new investments in Bangladesh - Textile Today",
+      "summary_cn": "AMANN集团宣布计划在孟加拉国进行工厂扩建和新投资。此举旨在扩大其在南亚市场的产能，并加强本地化生产布局。",
+      "summary_en": "AMANN Group announces plans for factory expansion and new investments in Bangladesh. This move aims to increase production capacity in the South Asian market and strengthen local manufacturing presence.",
+      "fetched_at": "2026-05-25 01:10:29",
       "tags": [
         "海外建厂",
-        "投资并购",
-        "行业趋势"
+        "本地化",
+        "头部企业动态"
       ]
     },
     {
@@ -905,12 +787,12 @@
       "lang_orig": "en",
       "title_cn": "中国投资者关注孟加拉国制造业和基础设施扩张机遇：CEAB主席",
       "title_en": "Chinese investors eye Bangladesh's expanding manufacturing, infrastructure opportunities: CEAB President",
-      "summary_cn": "孟加拉国工程建筑师协会（CEAB）主席表示，中国投资者正密切关注孟加拉国制造业和基础设施领域的扩张机遇。这一趋势反映了中国资本对南亚新兴市场的兴趣，可能带动中国工业设备、技术和管理经验的出海。",
-      "summary_en": "The President of the CEAB stated that Chinese investors are closely eyeing expanding opportunities in Bangladesh's manufacturing and infrastructure sectors. This trend reflects Chinese capital's interest in South Asian emerging markets, potentially driving the export of Chinese industrial equipment, technology, and management expertise.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "summary_cn": "孟加拉国工程建筑师协会（CEAB）主席表示，中国投资者正密切关注孟加拉国制造业和基础设施领域的扩张机遇。这一趋势反映了中国资本在“一带一路”框架下对南亚市场的持续关注，可能带动中国工业设备、技术和管理经验的出海。",
+      "summary_en": "The President of the CEAB stated that Chinese investors are closely eyeing expanding opportunities in Bangladesh's manufacturing and infrastructure sectors. This trend reflects Chinese capital's sustained interest in the South Asian market under the Belt and Road Initiative, potentially driving the export of Chinese industrial equipment, technology, and management expertise.",
+      "fetched_at": "2026-05-25 01:10:29",
       "tags": [
-        "海外建厂",
         "一带一路",
+        "海外建厂",
         "行业趋势"
       ]
     },
@@ -927,11 +809,11 @@
       "region": "South Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "香港汉达工业将在孟加拉国投资2.5亿美元",
+      "title_cn": "香港汉达工业投资2.5亿美元在孟加拉国建厂",
       "title_en": "Hong Kong-based Handa Industries to invest US $ 250 million in Bangladesh",
-      "summary_cn": "香港汉达工业计划在孟加拉国投资2.5亿美元，用于扩大服装制造业务。该投资将促进当地就业和产业链发展。",
-      "summary_en": "Hong Kong-based Handa Industries plans to invest US $250 million in Bangladesh to expand its apparel manufacturing operations. The investment is expected to boost local employment and supply chain development.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "summary_cn": "香港汉达工业宣布将在孟加拉国投资2.5亿美元，用于建设服装制造设施。该投资旨在扩大产能并利用当地成本优势，进一步拓展国际市场。",
+      "summary_en": "Hong Kong-based Handa Industries plans to invest US $250 million in Bangladesh to set up garment manufacturing facilities. The investment aims to expand production capacity and leverage local cost advantages for global market expansion.",
+      "fetched_at": "2026-05-25 01:10:29",
       "tags": [
         "海外建厂",
         "投资并购",
@@ -953,13 +835,13 @@
       "lang_orig": "en",
       "title_cn": "中国进出口银行副行长：计划对孟加拉国黄麻制造业进行重大投资",
       "title_en": "Major investment planned in Bangladesh's jute-based manufacturing: China Exim Bank VP",
-      "summary_cn": "中国进出口银行副行长表示，计划对孟加拉国的黄麻制造业进行重大投资。此举旨在支持当地产业发展，并加强中孟经济合作。",
-      "summary_en": "The Vice President of China Exim Bank announced plans for a major investment in Bangladesh's jute-based manufacturing sector. This initiative aims to support local industrial development and strengthen economic cooperation between China and Bangladesh.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "summary_cn": "中国进出口银行副行长表示，计划对孟加拉国的黄麻制造业进行重大投资。此举旨在支持孟加拉国的工业发展，并加强中孟经济合作。该投资将聚焦于黄麻基产品的制造，可能涉及技术转移和本地化生产。",
+      "summary_en": "The Vice President of China Exim Bank announced plans for a major investment in Bangladesh's jute-based manufacturing sector. This initiative aims to support Bangladesh's industrial development and strengthen China-Bangladesh economic cooperation. The investment will focus on jute-based product manufacturing, potentially involving technology transfer and localized production.",
+      "fetched_at": "2026-05-25 01:10:29",
       "tags": [
         "投资并购",
-        "一带一路",
-        "海外建厂"
+        "海外建厂",
+        "一带一路"
       ]
     },
     {
@@ -976,14 +858,14 @@
       "category": "industry",
       "lang_orig": "en",
       "title_cn": "孟加拉国正成为中国企业的投资目的地",
-      "title_en": "Bangladesh emerging as Chinese firms' investment destination - The Financial Express",
-      "summary_cn": "据《金融快报》报道，孟加拉国正逐渐成为中国企业的投资目的地。这一趋势反映了中国工业出海的新动向，涉及多个制造业领域。",
-      "summary_en": "According to The Financial Express, Bangladesh is emerging as an investment destination for Chinese firms. This trend reflects a new direction in Chinese industrial overseas expansion, covering multiple manufacturing sectors.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "title_en": "Bangladesh emerging as Chinese firms' investment destination",
+      "summary_cn": "据《金融快报》报道，孟加拉国正逐渐成为中国企业的投资目的地。这一趋势反映了中国工业出海的新方向，尤其是在制造业和基础设施领域。",
+      "summary_en": "According to The Financial Express, Bangladesh is emerging as a destination for Chinese firms' investments. This trend reflects a new direction for Chinese industrial outbound expansion, particularly in manufacturing and infrastructure sectors.",
+      "fetched_at": "2026-05-25 01:10:29",
       "tags": [
         "海外建厂",
         "投资并购",
-        "行业趋势"
+        "一带一路"
       ]
     },
     {
@@ -999,14 +881,14 @@
       "region": "South Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "中国投资迄今对孟加拉国经济贡献甚微",
+      "title_cn": "中国投资迄今对孟加拉国经济贡献有限",
       "title_en": "Chinese investments so far offer little to Bangladesh economy",
-      "summary_cn": "据《每日伊特法克》报道，中国在孟加拉国的投资目前对当地经济贡献有限。文章指出，尽管中国投资规模较大，但未能有效转化为显著的经济增长或就业机会。",
-      "summary_en": "According to The Daily Ittefaq, Chinese investments in Bangladesh have so far offered little benefit to the local economy. The article notes that despite the large scale of Chinese investments, they have not effectively translated into significant economic growth or job opportunities.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "summary_cn": "据《每日伊特法克》报道，中国在孟加拉国的投资目前对该国经济贡献有限。文章指出，尽管中国投资规模较大，但未能显著推动当地经济增长或就业。",
+      "summary_en": "According to The Daily Ittefaq, Chinese investments in Bangladesh have so far offered little to the country's economy. The report indicates that despite the scale of Chinese investments, they have not significantly boosted local economic growth or employment.",
+      "fetched_at": "2026-05-25 01:10:29",
       "tags": [
         "投资并购",
-        "一带一路",
+        "海外建厂",
         "行业趋势"
       ]
     },
@@ -1025,9 +907,9 @@
       "lang_orig": "en",
       "title_cn": "西卡孟加拉在索纳尔冈梅格纳工业区开设制造工厂",
       "title_en": "Sika Bangladesh opens manufacturing plant at Meghna Industrial EZ in Sonargaon",
-      "summary_cn": "西卡孟加拉在索纳尔冈的梅格纳工业区开设了一家制造工厂。该工厂将生产建筑化学品和工业解决方案，服务于当地市场。此举旨在扩大西卡在孟加拉国的业务布局。",
-      "summary_en": "Sika Bangladesh has opened a manufacturing plant at the Meghna Industrial EZ in Sonargaon. The facility will produce construction chemicals and industrial solutions for the local market. This move aims to expand Sika's footprint in Bangladesh.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "summary_cn": "西卡孟加拉在索纳尔冈的梅格纳工业经济区开设了一家制造工厂。该工厂将生产建筑化学品和工业解决方案，服务于当地市场。此举旨在扩大西卡在南亚地区的产能和影响力。",
+      "summary_en": "Sika Bangladesh has opened a manufacturing plant at the Meghna Industrial Economic Zone in Sonargaon. The facility will produce construction chemicals and industrial solutions for the local market. This move aims to expand Sika's production capacity and presence in South Asia.",
+      "fetched_at": "2026-05-25 01:10:29",
       "tags": [
         "海外建厂",
         "本地化",
@@ -1047,11 +929,11 @@
       "region": "Central Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "中国一带一路再校准：为何哈萨克斯坦成为新的金属前沿",
+      "title_cn": "中国一带一路战略调整：为何哈萨克斯坦成为新的金属前沿",
       "title_en": "China’s Belt and Road Recalibration: Why Kazakhstan is the New Metals Frontier",
-      "summary_cn": "本文探讨中国一带一路倡议的重新调整，聚焦哈萨克斯坦作为金属资源新前沿的战略地位。分析指出，哈萨克斯坦丰富的矿产资源和地理位置使其成为中国工业出海的关键节点。",
-      "summary_en": "This article explores the recalibration of China's Belt and Road Initiative, focusing on Kazakhstan's strategic role as a new frontier for metals. It highlights Kazakhstan's abundant mineral resources and geographic position as key factors for China's industrial expansion.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "summary_cn": "本文探讨中国一带一路倡议的战略调整，聚焦哈萨克斯坦作为金属资源新前沿的重要性。分析指出，哈萨克斯坦凭借丰富的矿产资源和地理位置，成为中国工业出海的关键节点。",
+      "summary_en": "This article explores the strategic recalibration of China's Belt and Road Initiative, focusing on Kazakhstan's emergence as a new frontier for metals. It highlights Kazakhstan's abundant mineral resources and geographic position as key factors for China's industrial expansion overseas.",
+      "fetched_at": "2026-05-25 01:10:30",
       "tags": [
         "一带一路",
         "海外建厂",
@@ -1073,13 +955,13 @@
       "lang_orig": "en",
       "title_cn": "债务与发展：中国在中亚投资的新篇章 - 外交政策研究所",
       "title_en": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia - Foreign Policy Research Institute",
-      "summary_cn": "本文探讨了中国在中亚地区的投资动态，聚焦于债务与发展之间的平衡。分析指出，中国通过基础设施项目和贷款深化与中亚国家的经济联系，但债务可持续性问题日益凸显。该研究为理解中国工业出海在中亚的本地化策略提供了视角。",
-      "summary_en": "This article examines the dynamics of Chinese investments in Central Asia, focusing on the balance between debt and development. It notes that China deepens economic ties through infrastructure projects and loans, while debt sustainability issues become prominent. The study offers insights into the localization strategies of Chinese industrial expansion in the region.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "summary_cn": "本文探讨了中国在中亚地区的投资动态，聚焦于债务与发展之间的平衡。报告分析了中国通过基础设施项目（如一带一路倡议）对中亚国家的投资，并评估了这些投资对当地经济的影响。关键数据包括中国在中亚的贷款规模和项目进展，以及可能引发的债务可持续性问题。",
+      "summary_en": "This article explores the dynamics of Chinese investments in Central Asia, focusing on the balance between debt and development. It analyzes China's investments in Central Asian countries through infrastructure projects such as the Belt and Road Initiative, assessing their impact on local economies. Key data includes the scale of Chinese loans and project progress, as well as potential debt sustainability issues.",
+      "fetched_at": "2026-05-25 01:10:30",
       "tags": [
         "一带一路",
         "投资并购",
-        "本地化"
+        "行业趋势"
       ]
     },
     {
@@ -1097,13 +979,13 @@
       "lang_orig": "en",
       "title_cn": "超越一带一路：中国在中亚的新策略",
       "title_en": "Beyond the Belt and Road: China’s New Playbook in Central Asia",
-      "summary_cn": "本文探讨了中国在中亚地区超越传统“一带一路”框架的新策略，涉及投资、贸易和区域合作的新动向。关键数据包括中国与中亚国家的贸易增长和基础设施项目进展。",
-      "summary_en": "This article explores China's new strategies in Central Asia beyond the traditional Belt and Road Initiative, covering new trends in investment, trade, and regional cooperation. Key data includes trade growth between China and Central Asian countries and progress on infrastructure projects.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "summary_cn": "本文探讨了中国在中亚地区超越传统一带一路框架的新策略，包括深化经济合作、推动本地化生产和加强供应链整合。这些举措旨在提升中国工业企业在区域的影响力，并应对全球贸易环境的变化。",
+      "summary_en": "This article explores China's new strategies in Central Asia beyond the traditional Belt and Road framework, including deepening economic cooperation, promoting localized production, and strengthening supply chain integration. These initiatives aim to enhance the influence of Chinese industrial enterprises in the region and respond to changes in the global trade environment.",
+      "fetched_at": "2026-05-25 01:10:30",
       "tags": [
         "一带一路",
-        "行业趋势",
-        "投资并购"
+        "本地化",
+        "供应链"
       ]
     },
     {
@@ -1121,9 +1003,9 @@
       "lang_orig": "en",
       "title_cn": "中国-哈萨克斯坦战略伙伴关系与工业合作",
       "title_en": "China-Kazakhstan Strategic Partnership & Industrial Cooperation - The Diplomatic Insight",
-      "summary_cn": "本文探讨了中国与哈萨克斯坦之间的战略伙伴关系，重点聚焦于工业合作领域。双方在能源、基础设施和制造业等关键行业深化合作，推动区域经济一体化。这一合作有助于中国工业企业拓展中亚市场，实现本地化布局。",
-      "summary_en": "This article discusses the strategic partnership between China and Kazakhstan, with a focus on industrial cooperation. Both sides deepen collaboration in key sectors such as energy, infrastructure, and manufacturing, promoting regional economic integration. This cooperation helps Chinese industrial enterprises expand into the Central Asian market and achieve localization.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "summary_cn": "本文探讨了中国与哈萨克斯坦之间的战略伙伴关系，重点聚焦于工业合作领域。双方在能源、基础设施和制造业等关键行业深化合作，推动区域经济一体化。这一伙伴关系为中国工业企业拓展中亚市场提供了机遇。",
+      "summary_en": "This article explores the strategic partnership between China and Kazakhstan, with a focus on industrial cooperation. The two sides deepen collaboration in key sectors such as energy, infrastructure, and manufacturing, promoting regional economic integration. This partnership offers opportunities for Chinese industrial enterprises to expand into the Central Asian market.",
+      "fetched_at": "2026-05-25 01:10:30",
       "tags": [
         "一带一路",
         "海外建厂",
@@ -1145,9 +1027,9 @@
       "lang_orig": "en",
       "title_cn": "中国-中亚每周新闻：培养技能与本地能力——中国-全球南方项目",
       "title_en": "China-Central Asia Weekly News: Building Skills and Local Capacity - The China-Global South Project",
-      "summary_cn": "本周中国-中亚新闻聚焦于技能培养和本地能力建设，涉及中国与全球南方国家的合作项目。报道强调了通过技术转移和培训提升中亚地区工业自主性的努力。",
-      "summary_en": "This week's China-Central Asia news focuses on skill building and local capacity development, involving cooperation projects between China and Global South countries. The reports highlight efforts to enhance industrial autonomy in Central Asia through technology transfer and training.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "summary_cn": "该新闻聚焦中国与中亚地区的合作，强调通过技能培训和本地能力建设来支持区域发展。内容涉及中国-全球南方项目下的具体举措，旨在促进技术转移和人才培养。",
+      "summary_en": "This news focuses on China-Central Asia cooperation, emphasizing skill training and local capacity building to support regional development. It covers specific initiatives under the China-Global South Project aimed at promoting technology transfer and talent cultivation.",
+      "fetched_at": "2026-05-25 01:10:30",
       "tags": [
         "一带一路",
         "本地化",
@@ -1169,13 +1051,37 @@
       "lang_orig": "en",
       "title_cn": "哈萨克斯坦与中国签署多项谷物和油籽加工协议",
       "title_en": "Kazakhstan and China signed several agreements on grain and oilseed processing",
-      "summary_cn": "哈萨克斯坦与中国签署了多项关于谷物和油籽加工的协议，旨在加强两国在农业加工领域的合作。这些协议将促进中国企业在哈萨克斯坦的投资与本地化生产，推动相关产业链发展。",
-      "summary_en": "Kazakhstan and China signed several agreements on grain and oilseed processing, aiming to strengthen cooperation in agricultural processing. These agreements will facilitate Chinese enterprises' investment and localized production in Kazakhstan, boosting the related industrial chain.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "summary_cn": "哈萨克斯坦与中国签署了多项关于谷物和油籽加工的协议，旨在加强两国在农业领域的合作。这些协议涉及加工技术、投资及贸易等方面，有助于推动中国农业机械和加工设备出海。",
+      "summary_en": "Kazakhstan and China signed several agreements on grain and oilseed processing to enhance agricultural cooperation. The agreements cover processing technology, investment, and trade, facilitating the export of Chinese agricultural machinery and processing equipment.",
+      "fetched_at": "2026-05-25 01:10:30",
       "tags": [
         "海外建厂",
         "投资并购",
-        "一带一路"
+        "行业趋势"
+      ]
+    },
+    {
+      "fingerprint": "a9dbf463bf9f1027104ac68aa89368bc",
+      "title_orig": "Nickel Asia enters Kazakhstan’s copper mining industry - Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjBGalBCRk9aYXR3UlNFUzIxQWxxem5CbUtYZGpOUUdHdnFzQnFGNDlEcGphRzRCU1BSekI3OTBqRWJsYVh1MlZRS0M0cHZzcGZKbkFfQUtJeDR0RlhYbExleDdOc3JpeGxUMUxQbG1ueE1iOEpyUV9KY3FhWkd3dEx4WmVnUUlkM1U0UndhSXJQOUN30gGaAUFVX3lxTE9MdHN6SlU2YWxzalM3aEF6N3NZR0djaGIwRzN6ME9XN05IcV9DMEY4Z05sTnpLYldiSDVDUXIyWFR5c3VNekRMYXlaUWgwZ19ncXNqUFRrM2tNWmNBNHY0enYtb3phdlhQUWFmWlU2QXdtMGNCSEJybmd0RVF3cmc2bk82dUlsR0h6T0p3T241N0I2NV9sVDNQZXc?oc=5",
+      "published_raw": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "summary_raw": "Nickel Asia enters Kazakhstan’s copper mining industry &nbsp;&nbsp; Inquirer.net",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_kz",
+      "country": "Kazakhstan",
+      "region": "Central Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "镍亚洲公司进入哈萨克斯坦铜矿产业",
+      "title_en": "Nickel Asia enters Kazakhstan’s copper mining industry - Inquirer.net",
+      "summary_cn": "镍亚洲公司（Nickel Asia）宣布进入哈萨克斯坦的铜矿开采行业。此举标志着该公司业务向中亚地区的拓展，并涉足铜矿领域。",
+      "summary_en": "Nickel Asia has announced its entry into Kazakhstan's copper mining industry. This move marks the company's expansion into Central Asia and the copper sector.",
+      "fetched_at": "2026-05-25 01:10:30",
+      "tags": [
+        "海外建厂",
+        "投资并购",
+        "头部企业动态"
       ]
     },
     {
@@ -1193,61 +1099,13 @@
       "lang_orig": "en",
       "title_cn": "中国庞大的“一带一路”倡议——外交关系委员会",
       "title_en": "China’s Massive Belt and Road Initiative - Council on Foreign Relations",
-      "summary_cn": "本文由外交关系委员会发布，概述了中国庞大的“一带一路”倡议，该倡议旨在通过基础设施建设和经济合作加强全球互联互通。文章可能涉及该倡议的规模、影响及国际反应。",
-      "summary_en": "This article from the Council on Foreign Relations provides an overview of China's massive Belt and Road Initiative, which aims to enhance global connectivity through infrastructure development and economic cooperation. It may cover the scale, impact, and international responses to the initiative.",
-      "fetched_at": "2026-05-25 00:39:19",
+      "summary_cn": "本文由外交关系委员会发布，概述了中国庞大的“一带一路”倡议，该倡议旨在通过基础设施投资和合作项目，加强中国与沿线国家的经济联系。文章可能涉及该倡议的规模、影响及国际反应。",
+      "summary_en": "This article by the Council on Foreign Relations outlines China's massive Belt and Road Initiative, which aims to strengthen economic ties with countries along the route through infrastructure investment and cooperation projects. It likely covers the scale, impact, and international responses to the initiative.",
+      "fetched_at": "2026-05-25 01:10:30",
       "tags": [
         "一带一路",
         "行业趋势",
         "头部企业动态"
-      ]
-    },
-    {
-      "fingerprint": "a9dbf463bf9f1027104ac68aa89368bc",
-      "title_orig": "Nickel Asia enters Kazakhstan’s copper mining industry - Inquirer.net",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjBGalBCRk9aYXR3UlNFUzIxQWxxem5CbUtYZGpOUUdHdnFzQnFGNDlEcGphRzRCU1BSekI3OTBqRWJsYVh1MlZRS0M0cHZzcGZKbkFfQUtJeDR0RlhYbExleDdOc3JpeGxUMUxQbG1ueE1iOEpyUV9KY3FhWkd3dEx4WmVnUUlkM1U0UndhSXJQOUN30gGaAUFVX3lxTE9MdHN6SlU2YWxzalM3aEF6N3NZR0djaGIwRzN6ME9XN05IcV9DMEY4Z05sTnpLYldiSDVDUXIyWFR5c3VNekRMYXlaUWgwZ19ncXNqUFRrM2tNWmNBNHY0enYtb3phdlhQUWFmWlU2QXdtMGNCSEJybmd0RVF3cmc2bk82dUlsR0h6T0p3T241N0I2NV9sVDNQZXc?oc=5",
-      "published_raw": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "summary_raw": "Nickel Asia enters Kazakhstan’s copper mining industry &nbsp;&nbsp; Inquirer.net",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_kz",
-      "country": "Kazakhstan",
-      "region": "Central Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "镍亚洲公司进入哈萨克斯坦铜矿产业",
-      "title_en": "Nickel Asia enters Kazakhstan’s copper mining industry",
-      "summary_cn": "镍亚洲公司（Nickel Asia）宣布进入哈萨克斯坦的铜矿开采行业。此举标志着该公司业务向铜矿领域的拓展，可能涉及海外投资与资源布局。",
-      "summary_en": "Nickel Asia has announced its entry into Kazakhstan's copper mining industry. This move marks the company's expansion into the copper sector, potentially involving overseas investment and resource allocation.",
-      "fetched_at": "2026-05-25 00:39:19",
-      "tags": [
-        "投资并购",
-        "海外建厂",
-        "头部企业动态"
-      ]
-    },
-    {
-      "fingerprint": "25f30331afc1a39fde8c6f6c4b8b4958",
-      "title_orig": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories - Hasht-e Subh Daily",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmF5ckRfWFc5UVNCTFFQdFNUVEU3Q2ItOU05eUZ0NC0wMHBCMWtQcGpMOWlKaEtxUHVrS1M5bEo5dFg5MWRzRDFlQmFOdWpGT1ZmMlB6UU9TQkpXWkVlcXFnaF90TGhPRmx2STNkamJ2aVdUeWVUNEJxRUZJbFEyT1dndWpteDFWcEdVekZZbzRVcVlIa3gyWW1IYzV2OGh4Tmx1MkFyVQ?oc=5",
-      "published_raw": "Thu, 21 May 2026 13:24:15 GMT",
-      "summary_raw": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories &nbsp;&nbsp; Hasht-e Subh Daily",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_uz",
-      "country": "Uzbekistan",
-      "region": "Central Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "塔利班声称与乌兹别克斯坦达成20家制造工厂转让协议",
-      "title_en": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories",
-      "summary_cn": "塔利班宣称与乌兹别克斯坦达成协议，将转让20家制造工厂。该协议涉及工厂的转移，具体细节尚未披露。此举可能影响中亚地区的工业布局。",
-      "summary_en": "The Taliban claims to have reached an agreement with Uzbekistan for the transfer of 20 manufacturing factories. The deal involves the relocation of these factories, with specific details yet to be disclosed. This move could impact the industrial landscape in Central Asia.",
-      "fetched_at": "2026-05-25 00:39:20",
-      "tags": [
-        "海外建厂",
-        "行业趋势",
-        "一带一路"
       ]
     },
     {
@@ -1263,15 +1121,15 @@
       "region": "Central Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "IFC支持乌兹别克斯坦首家铝罐厂，助力本地制造与可持续发展",
+      "title_cn": "IFC支持乌兹别克斯坦首家铝罐厂以促进本地制造和可持续发展",
       "title_en": "IFC Supports Uzbekistan’s First Aluminum Can Plant to Boost Local Manufacturing and Sustainability",
-      "summary_cn": "国际金融公司（IFC）宣布支持乌兹别克斯坦建设首家铝罐厂，旨在提升本地制造能力并推动可持续发展。该项目将促进当地工业升级，减少进口依赖，并创造就业机会。",
-      "summary_en": "The International Finance Corporation (IFC) announced support for Uzbekistan's first aluminum can plant to enhance local manufacturing and sustainability. The project aims to upgrade local industry, reduce import dependence, and create job opportunities.",
-      "fetched_at": "2026-05-25 00:39:20",
+      "summary_cn": "国际金融公司（IFC）宣布支持乌兹别克斯坦建设首家铝罐厂，旨在提升本地制造能力并推动可持续发展。该项目将助力乌兹别克斯坦减少对进口包装材料的依赖，同时创造就业机会并促进绿色经济转型。",
+      "summary_en": "The International Finance Corporation (IFC) announced support for Uzbekistan's first aluminum can plant to enhance local manufacturing and sustainability. The project aims to reduce reliance on imported packaging materials, create jobs, and promote a green economy transition.",
+      "fetched_at": "2026-05-25 01:10:31",
       "tags": [
         "海外建厂",
-        "行业趋势",
-        "本地化"
+        "供应链",
+        "行业趋势"
       ]
     },
     {
@@ -1287,23 +1145,47 @@
       "region": "Central Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "中国如何将乌兹别克斯坦打造成其在中亚的主要工业中心",
+      "title_cn": "中国如何将乌兹别克斯坦打造成其中亚主要工业中心",
       "title_en": "How China is Turning Uzbekistan into its Main Industrial Hub in Central Asia",
-      "summary_cn": "中国正通过大规模投资和合作项目，将乌兹别克斯坦转变为其中亚地区的核心工业枢纽。这一战略涉及多个领域的产能转移与基础设施建设，旨在深化区域经济一体化并拓展市场。此举显著提升了乌兹别克斯坦的工业能力，同时为中国企业提供了新的出海通道。",
-      "summary_en": "China is transforming Uzbekistan into its primary industrial hub in Central Asia through massive investments and cooperative projects. This strategy involves capacity transfer and infrastructure development across multiple sectors, aiming to deepen regional economic integration and expand markets. It significantly boosts Uzbekistan's industrial capabilities while offering Chinese enterprises new overseas channels.",
-      "fetched_at": "2026-05-25 00:39:20",
+      "summary_cn": "中国正通过大规模投资和合作项目，将乌兹别克斯坦转变为其中亚地区的工业枢纽。这一战略涉及在乌兹别克斯坦建立制造业基地，推动当地工业化进程，并加强中国在中亚的经济影响力。关键举措包括建设工业园区和基础设施，促进双边贸易与投资。",
+      "summary_en": "China is transforming Uzbekistan into its primary industrial hub in Central Asia through massive investments and cooperative projects. This strategy involves establishing manufacturing bases in Uzbekistan, boosting local industrialization, and strengthening China's economic influence in the region. Key initiatives include building industrial parks and infrastructure to facilitate bilateral trade and investment.",
+      "fetched_at": "2026-05-25 01:10:31",
       "tags": [
-        "一带一路",
         "海外建厂",
-        "行业趋势"
+        "投资并购",
+        "一带一路"
       ]
     },
     {
-      "fingerprint": "d58b649c26c3247a2efce8034662a178",
-      "title_orig": "Europe looks East: Uzbekistan builds a new manufacturing bridge - Euronews",
+      "fingerprint": "27e3527bbc3a7f674c59b964adf486be",
+      "title_orig": "Akfa Group Begins Construction on $600 Million Factory in Kentucky, Expanding Global Reach - Construction Owners Club",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeTh3d3N5TElQUWlOUHJ0T3hMbTc1S2lUVWxhMUlkMXJkaWdpeFJhQ05Wb0dJWURxMGQtTHkwZkZOdzNVZnNHSUpJN2Z2NlM1T3NVbjJsNDdDeTdHaGE2TVJpaFdyVXpGNVVyTjRnLV9fTDI3S1owcnlxbGc1LWx4WXRzSVlISkJsYnZWQ2c5X3U2dlBueE1n?oc=5",
+      "published_raw": "Wed, 12 Nov 2025 08:00:00 GMT",
+      "summary_raw": "Akfa Group Begins Construction on $600 Million Factory in Kentucky, Expanding Global Reach &nbsp;&nbsp; Construction Owners Club",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_uz",
+      "country": "Uzbekistan",
+      "region": "Central Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "Akfa集团在肯塔基州启动6亿美元工厂建设，拓展全球布局",
+      "title_en": "Akfa Group Begins Construction on $600 Million Factory in Kentucky, Expanding Global Reach",
+      "summary_cn": "Akfa集团已开始在肯塔基州建设一座价值6亿美元的工厂，旨在扩大其全球业务版图。该项目标志着该集团在北美市场的重大投资，预计将创造大量就业机会并促进当地经济发展。",
+      "summary_en": "Akfa Group has commenced construction on a $600 million factory in Kentucky, aiming to expand its global footprint. This project represents a significant investment in the North American market, expected to create numerous jobs and boost local economic development.",
+      "fetched_at": "2026-05-25 01:10:31",
+      "tags": [
+        "海外建厂",
+        "投资并购",
+        "头部企业动态"
+      ]
+    },
+    {
+      "fingerprint": "324e8226d5705387691a1628d3d4341a",
+      "title_orig": "Europe looks East: Uzbekistan builds a new manufacturing bridge - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUdjQ2I1U0ktWW9MZ0xEVEFzTEZGUXpfVWVtV1NMdllSX0ZmYnNMS2ktd0lvV0FNSlBmN2J6ZTBQSl9iSU9DRGMyOUM2LWZvaVdyU01TdFdtNFlEMm9GRWUySXBLR1RQa0pOSTVZamxrbjNxckpGRE55NFl2ci1ZS3IyeUZBN0o3eXlkS2k5b0Z5ZFllV2J3ZFVZRVBaSHpkVmVyLV9WaTBFZW8?oc=5",
       "published_raw": "Thu, 09 Oct 2025 07:00:00 GMT",
-      "summary_raw": "Europe looks East: Uzbekistan builds a new manufacturing bridge &nbsp;&nbsp; Euronews",
+      "summary_raw": "Europe looks East: Uzbekistan builds a new manufacturing bridge &nbsp;&nbsp; Euronews.com",
       "source_domain": "news.google.com",
       "authority": 5,
       "feed_id": "google_industrial_uz",
@@ -1313,13 +1195,13 @@
       "lang_orig": "en",
       "title_cn": "欧洲向东看：乌兹别克斯坦搭建新的制造业桥梁",
       "title_en": "Europe looks East: Uzbekistan builds a new manufacturing bridge",
-      "summary_cn": "乌兹别克斯坦正在积极构建新的制造业桥梁，吸引欧洲企业向东拓展。这一举措旨在加强区域工业合作，并可能为中国工业出海提供新的机遇。",
-      "summary_en": "Uzbekistan is actively building a new manufacturing bridge to attract European companies looking east. This initiative aims to strengthen regional industrial cooperation and may offer new opportunities for Chinese industrial expansion overseas.",
-      "fetched_at": "2026-05-25 00:39:20",
+      "summary_cn": "乌兹别克斯坦正在成为欧洲制造业向东转移的新桥梁，吸引欧洲企业投资建厂。这一趋势可能为中国工业出海提供竞争与合作的新视角。",
+      "summary_en": "Uzbekistan is emerging as a new bridge for European manufacturing shifting eastward, attracting European companies to invest and build factories. This trend may offer new perspectives for Chinese industrial enterprises going global in terms of competition and cooperation.",
+      "fetched_at": "2026-05-25 01:10:31",
       "tags": [
         "海外建厂",
-        "一带一路",
-        "行业趋势"
+        "行业趋势",
+        "一带一路"
       ]
     },
     {
@@ -1337,13 +1219,109 @@
       "lang_orig": "en",
       "title_cn": "关税推动企业在美国扩大制造业，Gerdau表示",
       "title_en": "Tariffs drive companies to expand manufacturing in U.S., Gerdau says",
-      "summary_cn": "据Valor International报道，钢铁制造商Gerdau表示，关税正促使企业在美国扩大制造业。这一趋势反映了贸易政策对工业布局的影响，可能涉及中国企业在美国市场的竞争与投资考量。",
-      "summary_en": "According to Valor International, steelmaker Gerdau says tariffs are driving companies to expand manufacturing in the U.S. This trend reflects the impact of trade policies on industrial布局, potentially involving Chinese companies' competition and investment considerations in the U.S. market.",
-      "fetched_at": "2026-05-25 00:39:21",
+      "summary_cn": "据Valor International报道，钢铁制造商Gerdau指出，关税正在促使企业在美国扩大制造业。这一趋势反映了贸易政策对工业布局的影响。",
+      "summary_en": "According to Valor International, steelmaker Gerdau says tariffs are driving companies to expand manufacturing in the U.S. This trend reflects the impact of trade policies on industrial布局.",
+      "fetched_at": "2026-05-25 01:10:31",
       "tags": [
         "关税变动",
         "海外建厂",
         "行业趋势"
+      ]
+    },
+    {
+      "fingerprint": "891ba4d0ef399bb52f6a62a1b082d21f",
+      "title_orig": "Brazil and India Strengthen Ties After Trump’s Tariffs Upend Global Trade - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9idm1nbFhiemdpVVdReTE5aDU4ZXd3WnV3SEVHWllfS3BaMlV3elV0NmVuUzE0SUN5ajJGVU1CUm9wdTVoeE5pVEdTb091Vm5TVUZVLWRYQVM3cDVkSF82RXNyZ2hESnE4VnNlanpJdFNLUTV3SG9B?oc=5",
+      "published_raw": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "summary_raw": "Brazil and India Strengthen Ties After Trump’s Tariffs Upend Global Trade &nbsp;&nbsp; The New York Times",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_br",
+      "country": "Brazil",
+      "region": "Latin America",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "特朗普关税颠覆全球贸易后，巴西与印度加强联系",
+      "title_en": "Brazil and India Strengthen Ties After Trump’s Tariffs Upend Global Trade",
+      "summary_cn": "在特朗普关税政策扰乱全球贸易格局的背景下，巴西和印度正在加强双边关系。此举可能影响国际供应链和新兴市场合作，为中国工业出海带来新的竞争与合作环境。",
+      "summary_en": "Amid global trade disruptions caused by Trump's tariffs, Brazil and India are strengthening bilateral ties. This move may impact international supply chains and emerging market cooperation, presenting both competition and opportunities for Chinese industrial expansion overseas.",
+      "fetched_at": "2026-05-25 01:10:31",
+      "tags": [
+        "关税变动",
+        "供应链",
+        "行业趋势"
+      ]
+    },
+    {
+      "fingerprint": "d749bb5a27f91317a77cfc3c9c6d1507",
+      "title_orig": "Higher tariffs in U.S., Mexico part of global response to China export surge - Federal Reserve Bank of Dallas",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sRnFBY3h6aDYxcGZxQ0UyWnNzVGlUM0Q5OEdPRHVOUGp4aDZmQ1dBRkFLRDgtRWNPeGhTcC1mYUxseW1nYkhhbkdOTWpCbm1yZThuNU1Oc19yVUFGQkRn?oc=5",
+      "published_raw": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "summary_raw": "Higher tariffs in U.S., Mexico part of global response to China export surge &nbsp;&nbsp; Federal Reserve Bank of Dallas",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_br",
+      "country": "Brazil",
+      "region": "Latin America",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "美国、墨西哥提高关税是全球应对中国出口激增的一部分——达拉斯联邦储备银行",
+      "title_en": "Higher tariffs in U.S., Mexico part of global response to China export surge - Federal Reserve Bank of Dallas",
+      "summary_cn": "达拉斯联邦储备银行指出，美国与墨西哥提高关税是全球应对中国出口激增的举措之一。这一趋势反映了中国工业品出口增长引发的国际贸易紧张局势，可能影响中国制造业企业的海外市场策略。",
+      "summary_en": "The Federal Reserve Bank of Dallas notes that higher tariffs in the U.S. and Mexico are part of a global response to China's export surge. This trend reflects international trade tensions triggered by the growth of Chinese industrial exports, potentially impacting overseas market strategies for Chinese manufacturing firms.",
+      "fetched_at": "2026-05-25 01:10:31",
+      "tags": [
+        "关税变动",
+        "行业趋势",
+        "政策法规"
+      ]
+    },
+    {
+      "fingerprint": "fea6b163dcc5ae9a980e4e07ea8ef879",
+      "title_orig": "Brazil’s WEG to invest $77 million to boost US plant capacity due to AI demand - Brazil Energy Insight",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXFXMUFGeW0weFVYWmRUUkp3SHJydndrSkp2VE1Oa0xpemN2VHo3MjNhVUswTGY3eDhfN0pZdWgxWkV4MTB3MzBvUjVjTWFYeXhaWnJ2SEtJbnZyd0hENVRyQ1hIS2xsT0R0eUZVcXdPQTJNQ2tQeG4yZTJFRmxKbHkyMmxOSFE3X1UyU0VpaGhQUlNUUS1NT2VvUnRfZEM0bUxzb3BLb01Qd0VMSno3cG42NnluV09sT2oycQ?oc=5",
+      "published_raw": "Tue, 23 Sep 2025 07:00:00 GMT",
+      "summary_raw": "Brazil’s WEG to invest $77 million to boost US plant capacity due to AI demand &nbsp;&nbsp; Brazil Energy Insight",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_br",
+      "country": "Brazil",
+      "region": "Latin America",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "巴西WEG因AI需求投资7700万美元提升美国工厂产能",
+      "title_en": "Brazil’s WEG to invest $77 million to boost US plant capacity due to AI demand",
+      "summary_cn": "巴西工业巨头WEG宣布投资7700万美元，用于扩大其美国工厂的产能，主要驱动力来自人工智能领域对相关设备和组件的需求增长。此举旨在加强WEG在北美市场的本地化供应能力，并抓住AI技术带来的工业机遇。",
+      "summary_en": "Brazilian industrial giant WEG announced a $77 million investment to expand capacity at its US plant, driven by growing demand for equipment and components from the AI sector. This move aims to strengthen local supply capabilities in North America and seize industrial opportunities from AI technology.",
+      "fetched_at": "2026-05-25 01:10:31",
+      "tags": [
+        "海外建厂",
+        "头部企业动态",
+        "行业趋势"
+      ]
+    },
+    {
+      "fingerprint": "68aec53615b2e42703387b2fe75d0625",
+      "title_orig": "Global Free Zones of the Year 2025 — Best industrial zones - fDi Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnE0UlNmNVVyZnV2azN4UkV1eHZFZVBJQ21zcjI2WURWZ1N5aFVHSUpOandUSVZCMDlJVXlQMTRZN2hsY1FBLUpKSWRqaG9YM3hQWjVwUjdBOXZLSG1KMVJIcE51elRwV0dDRjlNMkZjcDBYd3JIQlQxQlFkTTlGLWdR?oc=5",
+      "published_raw": "Thu, 09 Oct 2025 07:00:00 GMT",
+      "summary_raw": "Global Free Zones of the Year 2025 — Best industrial zones &nbsp;&nbsp; fDi Intelligence",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_br",
+      "country": "Brazil",
+      "region": "Latin America",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "2025年全球最佳自由区——最佳工业区",
+      "title_en": "Global Free Zones of the Year 2025 — Best industrial zones - fDi Intelligence",
+      "summary_cn": "fDi Intelligence发布了2025年全球最佳自由区评选结果，聚焦最佳工业区。该评选旨在表彰在投资吸引力、基础设施和营商环境方面表现突出的自由区。",
+      "summary_en": "fDi Intelligence has released the Global Free Zones of the Year 2025 awards, highlighting the best industrial zones. The awards recognize free zones that excel in investment attractiveness, infrastructure, and business environment.",
+      "fetched_at": "2026-05-25 01:10:31",
+      "tags": [
+        "行业趋势",
+        "海外建厂",
+        "供应链"
       ]
     },
     {
@@ -1361,9 +1339,9 @@
       "lang_orig": "en",
       "title_cn": "Shein试图将巴西打造成生产中心，当地工厂却选择退出",
       "title_en": "Shein tried to turn Brazil into a production hub. Local factories walked away",
-      "summary_cn": "快时尚电商Shein曾计划将巴西作为其海外生产中心，以缩短供应链并规避关税，但遭遇当地工厂的抵制。多家巴西工厂因合作条件苛刻、利润空间有限而选择退出，导致Shein的本地化战略受阻。这一事件反映了中国企业在海外建厂过程中面临的本地化挑战。",
-      "summary_en": "Fast-fashion e-commerce giant Shein attempted to establish Brazil as a production hub to shorten supply chains and avoid tariffs, but faced resistance from local factories. Several Brazilian factories withdrew due to harsh cooperation terms and limited profit margins, hindering Shein's localization strategy. This case highlights the localization challenges Chinese companies encounter when setting up overseas factories.",
-      "fetched_at": "2026-05-25 00:39:21",
+      "summary_cn": "快时尚巨头Shein曾计划将巴西作为其海外生产中心，以缩短供应链并规避关税，但遭遇当地工厂的抵制。多家巴西工厂因合作条件苛刻或利润微薄而选择退出，导致Shein的本地化战略受阻。这一事件反映了中国企业在海外建厂时面临的本地化挑战。",
+      "summary_en": "Fast-fashion giant Shein attempted to establish Brazil as an overseas production hub to shorten supply chains and avoid tariffs, but faced resistance from local factories. Several Brazilian factories withdrew due to harsh cooperation terms or thin profit margins, hindering Shein's localization strategy. This incident highlights the localization challenges Chinese companies encounter when building factories abroad.",
+      "fetched_at": "2026-05-25 01:10:31",
       "tags": [
         "海外建厂",
         "本地化",
@@ -1383,111 +1361,15 @@
       "region": "Latin America",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "独家：比亚迪在巴西工厂转向本地零部件，力争市场领导地位",
-      "title_en": "Exclusive: BYD shifts to local parts in Brazil factory in bid for market leadership - Reuters",
-      "summary_cn": "据路透社独家报道，比亚迪正在其巴西工厂增加本地零部件的使用比例，以提升竞争力并争取市场领导地位。这一策略有助于降低生产成本，并适应巴西本地化要求。",
-      "summary_en": "According to a Reuters exclusive, BYD is increasing the use of local parts in its Brazil factory to enhance competitiveness and pursue market leadership. This strategy helps reduce production costs and meet localization requirements in Brazil.",
-      "fetched_at": "2026-05-25 00:39:21",
+      "title_cn": "独家：比亚迪在巴西工厂转向本地零部件，力争市场领先地位",
+      "title_en": "Exclusive: BYD shifts to local parts in Brazil factory in bid for market leadership",
+      "summary_cn": "比亚迪在其巴西工厂增加本地零部件使用比例，以降低成本并提升竞争力，旨在巩固其在巴西电动汽车市场的领先地位。此举符合巴西本地化生产要求，并可能加速其海外扩张战略。",
+      "summary_en": "BYD is increasing the use of local parts in its Brazil factory to reduce costs and enhance competitiveness, aiming to solidify its leading position in Brazil's EV market. This move aligns with local content requirements and may accelerate its overseas expansion strategy.",
+      "fetched_at": "2026-05-25 01:10:31",
       "tags": [
         "海外建厂",
         "本地化",
-        "头部企业动态"
-      ]
-    },
-    {
-      "fingerprint": "ab76cfa8e7ec5b34df8c448d790a0488",
-      "title_orig": "Brazil scraps EV tariff break for Chinese carmaker BYD amid pressure from rivals - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORXo2YXI0Z2RPdlYxdlI2YzdaM3ZyamZ2ZXlzSkhYRk91d2ExalFqd29BOS1FSDdmYkcwbEUyTUZlVnNiMDBBYTlueFZXanllcVh6dzJ2bUkxREhWOGpZMjZhTTFINGhleldwWG9SQU9NVGJxSmNldVo3SDRra041cGF6X0xNRVN0cW5tQTd4YUtmY1piTUh0Q2hZc3ZRN3ZhaFViazdoSVk4dkFMUEFLUVZWQWlYaE1lMWFkaFA1RzFYWVpna3fSAcYBQVVfeXFMTnRaTzZlOFdiTTY5Ukc1SzBrR0d4Q2J4MHAxdG5OeHRwTTNrVnhrZEFMVmxDQ1J4dVJ5WU85U2lBWWQxc1ZFX0Q0cFJrVTV6NGdDbTRUc1VjcEx3LVZqeS1LOWVGbDdJanFzaGxvem1FaEtFZVRKdnowMXl1QmlJaFlzSG50Y1czSG5WNllZTmxYam5UbENVTHZIUWVubXdwdjh3bkl6eGpzWndvdmdsd3VnZVpjZHFBWmV6RVdzS3d0T2JNTzBn?oc=5",
-      "published_raw": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary_raw": "Brazil scraps EV tariff break for Chinese carmaker BYD amid pressure from rivals &nbsp;&nbsp; South China Morning Post",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_br",
-      "country": "Brazil",
-      "region": "Latin America",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "巴西在竞争对手压力下取消对中国汽车制造商比亚迪的电动汽车关税优惠",
-      "title_en": "Brazil scraps EV tariff break for Chinese carmaker BYD amid pressure from rivals",
-      "summary_cn": "巴西政府宣布取消对中国电动汽车制造商比亚迪的关税优惠，此举是在国内竞争对手的施压下做出的。该政策变动可能影响比亚迪在巴西市场的竞争力，并反映中国新能源汽车出海面临的贸易壁垒。",
-      "summary_en": "The Brazilian government has scrapped tariff breaks for Chinese EV maker BYD, under pressure from domestic rivals. This policy change may impact BYD's competitiveness in Brazil and highlights trade barriers faced by Chinese new energy vehicles going global.",
-      "fetched_at": "2026-05-25 00:39:21",
-      "tags": [
-        "关税变动",
-        "新能源汽车",
-        "头部企业动态"
-      ]
-    },
-    {
-      "fingerprint": "1902e00ae7b091580dfc1efab9a5311e",
-      "title_orig": "Brazilian Slab Exports Rise to US Amid Tariff Challenges - Discovery Alert",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTE1DaElvTGYzTG9IQjBZcU00aFRqZTJXN0ctcU15TmNVZ0V1OWdMd3lNeW9aNjVjd2VtU2NXby1OU0ZXSDhRRmJiMEl5d05LZzViVFFqeGotNkhZeFlOQWhaYXVkb3NsR055V2d5bTV2QThORzJ2SzVWMFo3STZyRVdPT1Q0UDho?oc=5",
-      "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
-      "summary_raw": "Brazilian Slab Exports Rise to US Amid Tariff Challenges &nbsp;&nbsp; Discovery Alert",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_br",
-      "country": "Brazil",
-      "region": "Latin America",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "巴西板坯出口在关税挑战下增加至美国 - 发现警报",
-      "title_en": "Brazilian Slab Exports Rise to US Amid Tariff Challenges - Discovery Alert",
-      "summary_cn": "巴西板坯对美出口在面临关税挑战的情况下仍有所增长。这一趋势反映了全球钢铁贸易的动态变化，可能影响中国钢铁企业的出口策略。",
-      "summary_en": "Brazilian slab exports to the US have increased despite tariff challenges. This trend reflects dynamic changes in global steel trade, potentially impacting export strategies of Chinese steel enterprises.",
-      "fetched_at": "2026-05-25 00:39:21",
-      "tags": [
-        "关税变动",
-        "行业趋势",
-        "供应链"
-      ]
-    },
-    {
-      "fingerprint": "d749bb5a27f91317a77cfc3c9c6d1507",
-      "title_orig": "Higher tariffs in U.S., Mexico part of global response to China export surge - Federal Reserve Bank of Dallas",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sRnFBY3h6aDYxcGZxQ0UyWnNzVGlUM0Q5OEdPRHVOUGp4aDZmQ1dBRkFLRDgtRWNPeGhTcC1mYUxseW1nYkhhbkdOTWpCbm1yZThuNU1Oc19yVUFGQkRn?oc=5",
-      "published_raw": "Fri, 31 Oct 2025 07:00:00 GMT",
-      "summary_raw": "Higher tariffs in U.S., Mexico part of global response to China export surge &nbsp;&nbsp; Federal Reserve Bank of Dallas",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_br",
-      "country": "Brazil",
-      "region": "Latin America",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "美国、墨西哥提高关税，是全球应对中国出口激增的一部分——达拉斯联邦储备银行",
-      "title_en": "Higher tariffs in U.S., Mexico part of global response to China export surge - Federal Reserve Bank of Dallas",
-      "summary_cn": "达拉斯联邦储备银行指出，美国与墨西哥提高关税是全球应对中国出口激增的举措之一。该报告强调，中国出口增长正引发多国贸易政策调整，关税变动成为主要应对手段。",
-      "summary_en": "The Federal Reserve Bank of Dallas notes that higher tariffs in the U.S. and Mexico are part of a global response to China's export surge. The report highlights that China's export growth is prompting trade policy adjustments in multiple countries, with tariff changes being a key measure.",
-      "fetched_at": "2026-05-25 00:39:21",
-      "tags": [
-        "关税变动",
-        "政策法规",
-        "行业趋势"
-      ]
-    },
-    {
-      "fingerprint": "cfac458318d22efbf30ec6bc1f5a4437",
-      "title_orig": "To move or not to move? Manufacturers hesitant to nearshore before USMCA review - Manufacturing Dive",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcmpVRFNOay1zRVBGank1Yk9WM0RWa0h4WnV4ZWUtUlJXZXlubzd4VHFQdU5sN19ON0t6QmYwMElSazJhaGhvSW5nWnczeElQVG9kRER3OGVKRUV1N3UzYXMwLVVJUThxUk1DMmVfcjZtYzNZOEQ0cmFFVFNiY2F3QmNvend0RjZJTHBiU2U2ejlTaGUxSksydlBjQ3M?oc=5",
-      "published_raw": "Tue, 14 Oct 2025 07:00:00 GMT",
-      "summary_raw": "To move or not to move? Manufacturers hesitant to nearshore before USMCA review &nbsp;&nbsp; Manufacturing Dive",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_mx",
-      "country": "Mexico",
-      "region": "Latin America",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "搬还是不搬？制造商在USMCA审查前对近岸外包犹豫不决",
-      "title_en": "To move or not to move? Manufacturers hesitant to nearshore before USMCA review",
-      "summary_cn": "在《美墨加协定》（USMCA）审查前夕，制造商对是否进行近岸外包持观望态度。该审查可能影响北美贸易规则，导致企业推迟搬迁决策。",
-      "summary_en": "Manufacturers are hesitant to pursue nearshoring ahead of the USMCA review, which could alter North American trade rules. This uncertainty is causing delays in relocation decisions.",
-      "fetched_at": "2026-05-25 00:39:22",
-      "tags": [
-        "政策法规",
-        "供应链",
-        "行业趋势"
+        "新能源汽车"
       ]
     },
     {
@@ -1505,13 +1387,13 @@
       "lang_orig": "en",
       "title_cn": "墨西哥挺过特朗普关税，如今更快地销售美国的未来",
       "title_en": "Mexico Survived Trump Tariffs and Now Sells America’s Future Faster",
-      "summary_cn": "墨西哥在特朗普关税冲击下幸存，并加速向美国出口未来产业产品。该趋势显示墨西哥正成为美国供应链的关键节点，可能影响中国工业出海布局。",
-      "summary_en": "Mexico survived Trump-era tariffs and is now accelerating exports of future-oriented products to the US. This trend highlights Mexico's growing role as a key node in US supply chains, potentially impacting Chinese industrial expansion overseas.",
-      "fetched_at": "2026-05-25 00:39:22",
+      "summary_cn": "墨西哥在特朗普关税冲击下幸存，并加速向美国出口未来产业产品。该新闻聚焦墨西哥制造业的韧性及其对美贸易增长，可能涉及供应链转移和本地化生产趋势。",
+      "summary_en": "Mexico has survived Trump-era tariffs and is now accelerating exports of future-oriented products to the United States. The news highlights Mexico's manufacturing resilience and growing trade with the US, potentially involving supply chain shifts and localization trends.",
+      "fetched_at": "2026-05-25 01:10:32",
       "tags": [
         "关税变动",
         "供应链",
-        "行业趋势"
+        "本地化"
       ]
     },
     {
@@ -1529,13 +1411,13 @@
       "lang_orig": "en",
       "title_cn": "近岸外包与谈判：墨西哥汽车供应链趋势",
       "title_en": "Nearshoring and negotiations: Trends in Mexico's automotive supply chains",
-      "summary_cn": "本文探讨了墨西哥汽车供应链中的近岸外包趋势，以及相关的谈判动态。墨西哥正成为全球汽车制造业的重要枢纽，吸引国际企业调整供应链布局。",
-      "summary_en": "This article explores nearshoring trends and negotiation dynamics in Mexico's automotive supply chains. Mexico is emerging as a key hub for global automotive manufacturing, attracting international companies to adjust their supply chain strategies.",
-      "fetched_at": "2026-05-25 00:39:22",
+      "summary_cn": "本文探讨了墨西哥汽车供应链中的近岸外包趋势，强调其作为中国工业出海潜在目的地的战略重要性。墨西哥正通过谈判调整供应链，以吸引更多外资，尤其是在新能源汽车和零部件领域。中国车企需关注墨西哥政策变化，以把握本地化生产机会。",
+      "summary_en": "This article explores nearshoring trends in Mexico's automotive supply chains, highlighting its strategic importance as a potential destination for Chinese industrial expansion. Mexico is adjusting its supply chains through negotiations to attract more foreign investment, especially in new energy vehicles and components. Chinese automakers should monitor policy changes in Mexico to seize localization opportunities.",
+      "fetched_at": "2026-05-25 01:10:32",
       "tags": [
+        "海外建厂",
         "供应链",
-        "行业趋势",
-        "本地化"
+        "新能源汽车"
       ]
     },
     {
@@ -1553,37 +1435,13 @@
       "lang_orig": "en",
       "title_cn": "墨西哥汽车业在2026年地缘政治压力下做好准备",
       "title_en": "Mexico’s Auto Industry Braces for 2026 Under Geopolitical Strain",
-      "summary_cn": "墨西哥汽车业正面临2026年地缘政治压力，包括美国可能加征关税和近岸外包趋势变化。行业需调整供应链以应对不确定性。",
-      "summary_en": "Mexico's auto industry is preparing for 2026 amid geopolitical strains, including potential US tariffs and shifts in nearshoring trends. The sector must adapt its supply chain to navigate uncertainties.",
-      "fetched_at": "2026-05-25 00:39:22",
+      "summary_cn": "墨西哥汽车业正面临2026年地缘政治紧张局势带来的挑战，包括贸易政策不确定性和供应链压力。该行业需调整策略以应对潜在影响。",
+      "summary_en": "Mexico's auto industry is bracing for challenges in 2026 due to geopolitical tensions, including trade policy uncertainties and supply chain pressures. The sector must adapt strategies to mitigate potential impacts.",
+      "fetched_at": "2026-05-25 01:10:32",
       "tags": [
         "行业趋势",
-        "关税变动",
-        "供应链"
-      ]
-    },
-    {
-      "fingerprint": "40219c308a745272419805c574888234",
-      "title_orig": "New US tariff threatens Mexico’s automotive industry starting Oct. 1 - Mexico News Daily",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGNU5wd25wenJYMXdJb0pncDF0dEJLbUtvN2NiZ0RTdmY4a0hUTG1MV2lmS3QwY1ZTTmtDaHdYQ0lKd1NDNVRXVllITml0MHc0X2cwMmxVUnJDMmNELVZxTGtLc2FMcEhUSG5Lag?oc=5",
-      "published_raw": "Fri, 26 Sep 2025 07:00:00 GMT",
-      "summary_raw": "New US tariff threatens Mexico’s automotive industry starting Oct. 1 &nbsp;&nbsp; Mexico News Daily",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_mx",
-      "country": "Mexico",
-      "region": "Latin America",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "美国新关税将于10月1日威胁墨西哥汽车产业",
-      "title_en": "New US tariff threatens Mexico’s automotive industry starting Oct. 1",
-      "summary_cn": "美国计划自10月1日起实施新关税，对墨西哥汽车产业构成威胁。此举可能影响墨西哥对美汽车出口及相关供应链。",
-      "summary_en": "The US plans to impose new tariffs starting October 1, threatening Mexico's automotive industry. This move could impact Mexico's auto exports to the US and related supply chains.",
-      "fetched_at": "2026-05-25 00:39:22",
-      "tags": [
-        "关税变动",
-        "新能源汽车",
-        "行业趋势"
+        "供应链",
+        "头部企业动态"
       ]
     },
     {
@@ -1599,15 +1457,39 @@
       "region": "Latin America",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "墨西哥：从短暂的近岸外包繁荣到美国的“安全外包” - 德国科学与政治基金会",
+      "title_cn": "墨西哥：从短暂的近岸外包繁荣到美国的“安全外包” - 科学与政治基金会",
       "title_en": "Mexico – From a Short Nearshoring Boom to US “Security-shoring” - Stiftung Wissenschaft und Politik",
-      "summary_cn": "本文分析墨西哥从近岸外包热潮转向美国“安全外包”政策的趋势。美国以国家安全为由，限制中国企业在墨西哥的投资，影响中国工业出海。",
-      "summary_en": "This article analyzes Mexico's shift from a nearshoring boom to the US 'security-shoring' policy. The US restricts Chinese investments in Mexico on national security grounds, impacting Chinese industrial expansion overseas.",
-      "fetched_at": "2026-05-25 00:39:22",
+      "summary_cn": "本文分析了墨西哥从短暂的近岸外包繁荣转向美国主导的“安全外包”趋势。研究指出，美国出于国家安全考虑，正在推动供应链从墨西哥向更可控的地区转移。这一变化可能影响中国企业在墨西哥的投资布局。",
+      "summary_en": "This article analyzes Mexico's shift from a brief nearshoring boom to a US-led 'security-shoring' trend. It notes that the US, driven by national security concerns, is pushing supply chains away from Mexico towards more controllable regions. This shift may impact Chinese companies' investments in Mexico.",
+      "fetched_at": "2026-05-25 01:10:32",
       "tags": [
-        "政策法规",
-        "海外建厂",
-        "行业趋势"
+        "供应链",
+        "行业趋势",
+        "头部企业动态"
+      ]
+    },
+    {
+      "fingerprint": "40219c308a745272419805c574888234",
+      "title_orig": "New US tariff threatens Mexico’s automotive industry starting Oct. 1 - Mexico News Daily",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGNU5wd25wenJYMXdJb0pncDF0dEJLbUtvN2NiZ0RTdmY4a0hUTG1MV2lmS3QwY1ZTTmtDaHdYQ0lKd1NDNVRXVllITml0MHc0X2cwMmxVUnJDMmNELVZxTGtLc2FMcEhUSG5Lag?oc=5",
+      "published_raw": "Fri, 26 Sep 2025 07:00:00 GMT",
+      "summary_raw": "New US tariff threatens Mexico’s automotive industry starting Oct. 1 &nbsp;&nbsp; Mexico News Daily",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_mx",
+      "country": "Mexico",
+      "region": "Latin America",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "美国新关税威胁墨西哥汽车工业，10月1日起生效",
+      "title_en": "New US tariff threatens Mexico’s automotive industry starting Oct. 1",
+      "summary_cn": "美国将于10月1日起对墨西哥汽车行业实施新关税，此举可能冲击墨西哥汽车出口。该政策引发行业担忧，或影响北美供应链格局。",
+      "summary_en": "The US will impose new tariffs on Mexico's automotive industry starting October 1, potentially impacting Mexican auto exports. The policy has raised industry concerns and may reshape North American supply chains.",
+      "fetched_at": "2026-05-25 01:10:32",
+      "tags": [
+        "关税变动",
+        "新能源汽车",
+        "供应链"
       ]
     },
     {
@@ -1623,15 +1505,15 @@
       "region": "Europe",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "欧盟工业加速器法案加速推进",
+      "title_cn": "欧盟工业加速法案踩下油门",
       "title_en": "The EU’s Industrial Accelerator Act Puts Pedal to the Metal",
-      "summary_cn": "欧盟推出《工业加速器法案》，旨在加速工业现代化和绿色转型。该法案强调通过政策激励和资金支持，推动关键领域的技术创新和产业升级。此举可能影响中国工业企业在欧盟市场的竞争环境。",
-      "summary_en": "The EU introduces the Industrial Accelerator Act to accelerate industrial modernization and green transition. The act emphasizes policy incentives and funding to drive technological innovation and industrial upgrading in key sectors. This move may impact the competitive environment for Chinese industrial enterprises in the EU market.",
-      "fetched_at": "2026-05-25 00:39:22",
+      "summary_cn": "欧盟推出《工业加速法案》，旨在加速工业转型与竞争力提升。该法案由美国德国马歇尔基金报道，强调欧盟在绿色和数字化工业领域的政策推进。",
+      "summary_en": "The EU introduces the Industrial Accelerator Act to accelerate industrial transformation and competitiveness. Reported by the German Marshall Fund of the United States, it highlights the EU's policy push in green and digital industrial sectors.",
+      "fetched_at": "2026-05-25 01:10:33",
       "tags": [
         "政策法规",
         "行业趋势",
-        "绿色建材"
+        "智能制造"
       ]
     },
     {
@@ -1647,14 +1529,14 @@
       "region": "Europe",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "欧洲排放交易体系是工业竞争力的盟友，而非敌人 - Bruegel",
+      "title_cn": "欧洲排放交易体系是工业竞争力的盟友而非敌人 - Bruegel",
       "title_en": "Europe’s emissions trading system is an ally, not an enemy, of industrial competitiveness - Bruegel",
-      "summary_cn": "布鲁盖尔研究所指出，欧洲排放交易体系（ETS）有助于提升工业竞争力，而非阻碍。该体系通过碳定价激励企业创新和减排，长期来看可降低绿色转型成本。",
-      "summary_en": "Bruegel argues that Europe's Emissions Trading System (ETS) enhances industrial competitiveness by incentivizing innovation and emission reductions through carbon pricing, ultimately lowering the cost of green transition in the long term.",
-      "fetched_at": "2026-05-25 00:39:22",
+      "summary_cn": "欧洲排放交易体系（ETS）被视为提升工业竞争力的工具，而非障碍。Bruegel的分析指出，合理设计碳市场可激励绿色创新，同时避免对制造业造成过度负担。该体系通过碳定价推动减排，并可能影响中国出口企业应对碳关税CBAM的策略。",
+      "summary_en": "Europe's Emissions Trading System (ETS) is framed as a tool to enhance industrial competitiveness, not hinder it. Bruegel's analysis suggests that well-designed carbon markets can incentivize green innovation while avoiding excessive burdens on manufacturing. The system drives emission reductions through carbon pricing and may influence Chinese exporters' strategies in response to carbon tariffs like CBAM.",
+      "fetched_at": "2026-05-25 01:10:33",
       "tags": [
-        "政策法规",
         "碳关税CBAM",
+        "政策法规",
         "行业趋势"
       ]
     },
@@ -1673,13 +1555,13 @@
       "lang_orig": "en",
       "title_cn": "伊朗战争：液化天然气获利 + 突尼斯：向意大利供电 + CBAM：化肥豁免受批评 - Table.Briefings",
       "title_en": "Iran war: Profits for LNG + Tunisia: Electricity for Italy + CBAM: Exemptions for fertilizers under criticism - Table.Briefings",
-      "summary_cn": "伊朗战争可能为液化天然气（LNG）行业带来利润；突尼斯计划向意大利出口电力；欧盟碳边境调节机制（CBAM）中对化肥的豁免条款受到批评。这些事件涉及能源贸易和碳关税政策，与中国工业出海相关。",
-      "summary_en": "The Iran war could bring profits to the LNG industry; Tunisia plans to export electricity to Italy; exemptions for fertilizers under the EU's CBAM are facing criticism. These events involve energy trade and carbon tariff policies, relevant to Chinese industrial overseas expansion.",
-      "fetched_at": "2026-05-25 00:39:22",
+      "summary_cn": "伊朗战争可能使液化天然气（LNG）供应商获利；突尼斯计划向意大利出口电力；欧盟碳边境调节机制（CBAM）中化肥的豁免条款受到批评。这些事件涉及能源贸易和碳关税政策，与中国工业出海间接相关。",
+      "summary_en": "The Iran war could benefit LNG suppliers; Tunisia plans to export electricity to Italy; exemptions for fertilizers under the EU's CBAM are criticized. These events involve energy trade and carbon tariff policies, indirectly relevant to Chinese industrial overseas expansion.",
+      "fetched_at": "2026-05-25 01:10:33",
       "tags": [
-        "政策法规",
         "碳关税CBAM",
-        "行业趋势"
+        "行业趋势",
+        "供应链"
       ]
     },
     {
@@ -1697,13 +1579,13 @@
       "lang_orig": "en",
       "title_cn": "别低头：欧洲如何摆脱中国清洁技术的引力 - 欧洲对外关系委员会",
       "title_en": "Don’t look down: How Europeans can escape China’s clean-tech gravity - European Council on Foreign Relations",
-      "summary_cn": "欧洲对外关系委员会发布文章，探讨欧洲如何应对中国在清洁技术领域的强大吸引力。文章指出，中国在太阳能、风能、电动汽车等清洁技术领域占据主导地位，欧洲面临依赖风险。建议欧洲通过加强本土创新、建立战略自主性和推动跨大西洋合作来平衡中国的影响力。",
-      "summary_en": "The European Council on Foreign Relations published an article exploring how Europe can counter China's strong gravitational pull in clean-tech sectors. It notes China's dominance in solar, wind, and electric vehicles, posing dependency risks for Europe. Recommendations include boosting local innovation, building strategic autonomy, and fostering transatlantic cooperation to balance China's influence.",
-      "fetched_at": "2026-05-25 00:39:22",
+      "summary_cn": "欧洲对外关系委员会发文指出，中国在清洁技术领域的主导地位对欧洲构成挑战。文章探讨了欧洲如何通过政策调整和战略合作来减少对中国清洁技术供应链的依赖，并保持自身竞争力。关键数据包括中国在全球光伏和电池市场的份额超过70%。",
+      "summary_en": "The European Council on Foreign Relations argues that China's dominance in clean-tech poses a challenge to Europe. The article explores how Europe can reduce dependence on China's clean-tech supply chain through policy adjustments and strategic cooperation, while maintaining competitiveness. Key data includes China's over 70% share in the global solar and battery markets.",
+      "fetched_at": "2026-05-25 01:10:33",
       "tags": [
         "行业趋势",
         "供应链",
-        "头部企业动态"
+        "光伏储能"
       ]
     },
     {
@@ -1719,11 +1601,11 @@
       "region": "Europe",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "欧洲工业界反对欧盟削弱碳边境税的计划",
+      "title_cn": "欧洲工业界抗议欧盟削弱碳边境税计划",
       "title_en": "European industry revolts over EU plan to weaken carbon border tax",
-      "summary_cn": "欧洲工业界强烈反对欧盟拟议中削弱碳边境调节机制（CBAM）的计划，认为此举将损害本土企业的竞争力。该机制原旨在对进口商品征收碳成本，以保护欧洲制造商免受碳泄漏影响。行业领袖警告，弱化CBAM可能导致不公平竞争，并削弱欧盟的气候目标。",
-      "summary_en": "European industry is strongly opposing the EU's proposed plan to weaken the Carbon Border Adjustment Mechanism (CBAM), arguing it would harm the competitiveness of domestic companies. The mechanism was designed to impose carbon costs on imports to protect European manufacturers from carbon leakage. Industry leaders warn that weakening CBAM could lead to unfair competition and undermine the EU's climate goals.",
-      "fetched_at": "2026-05-25 00:39:22",
+      "summary_cn": "欧洲工业界强烈反对欧盟拟议削弱碳边境调节机制（CBAM）的计划。该机制旨在对进口商品征收碳成本，以保护欧盟本土工业并推动全球减排。工业界担忧削弱该税将损害其竞争力并削弱气候目标。",
+      "summary_en": "European industry strongly opposes the EU's plan to weaken the Carbon Border Adjustment Mechanism (CBAM), which imposes carbon costs on imports to protect domestic industries and promote global emission reductions. Industry fears that weakening the tax will harm competitiveness and undermine climate goals.",
+      "fetched_at": "2026-05-25 01:10:33",
       "tags": [
         "碳关税CBAM",
         "政策法规",
@@ -1743,15 +1625,38 @@
       "region": "Europe",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "欧盟推迟汽车提案，碳边境关税计划也可能延期",
+      "title_cn": "欧盟推迟汽车提案，碳边境关税计划可能也延期",
       "title_en": "EU delays auto proposals, carbon border tariff plans likely also postponed",
-      "summary_cn": "据路透社报道，欧盟决定推迟汽车相关提案的审议，同时碳边境关税（CBAM）计划也可能面临延期。这一调整可能影响中国新能源汽车及零部件出口企业的合规节奏与成本预期。",
-      "summary_en": "According to Reuters, the EU has postponed its auto proposals, and the carbon border adjustment mechanism (CBAM) plans are also likely to be delayed. This adjustment may affect the compliance timeline and cost expectations for Chinese new energy vehicle and parts exporters.",
-      "fetched_at": "2026-05-25 00:39:22",
+      "summary_cn": "据路透社报道，欧盟已推迟汽车相关提案，碳边境关税（CBAM）计划也可能随之延期。这一决定可能影响中国新能源汽车及光伏储能等行业的出口策略。",
+      "summary_en": "According to Reuters, the EU has delayed auto proposals, and the carbon border tariff (CBAM) plans are likely also postponed. This decision may impact export strategies for Chinese new energy vehicles and photovoltaic storage industries.",
+      "fetched_at": "2026-05-25 01:10:33",
       "tags": [
         "政策法规",
-        "碳关税CBAM",
-        "新能源汽车"
+        "关税变动",
+        "碳关税CBAM"
+      ]
+    },
+    {
+      "fingerprint": "e754a17a1f18256b5eb50ce5a1d0aa8a",
+      "title_orig": "Steel consumption in Germany: gradual slowdown - GMK Center",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TRklkRzVrVHlzR2FQSEd1R0k3YnltY2xVaUhPQzdrQ1loZTFnaldOVlFCMzJROHlVdlNnNUhnYUJ5b0JCbk1vOFBIRVhGZE02ZW9KRnNtVUhiSk9qd0REeUQzdklQVkFEM290NlF5blk5UEoxd0VIdDBsSlRqQlnSAYQBQVVfeXFMTXJMb3YwTnVLLWJfaW14VU1ud2l1ejRMLWJvS3NXaVNCMDNBV3AyTUFMZmhiTW9aVGJ6VUEyZWN1dUh0Sy1wLUtjYkxPbXgyQ0t6NjBVNGFDeF82bUgzMGY0S2JGOHp6ZFBwMThCODZEaWc2ZUFMQmZmdkJmcWExNnZWY3Vn?oc=5",
+      "published_raw": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "summary_raw": "Steel consumption in Germany: gradual slowdown &nbsp;&nbsp; GMK Center",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_de",
+      "country": "Germany",
+      "region": "Europe",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "德国钢铁消费：逐步放缓 - GMK中心",
+      "title_en": "Steel consumption in Germany: gradual slowdown - GMK Center",
+      "summary_cn": "据GMK中心报告，德国钢铁消费呈现逐步放缓趋势。这一变化可能反映欧洲经济疲软及工业需求减弱，对依赖出口的中国钢铁企业构成潜在影响。",
+      "summary_en": "According to GMK Center, steel consumption in Germany is experiencing a gradual slowdown. This trend may reflect weak European economy and reduced industrial demand, potentially impacting Chinese steel exporters.",
+      "fetched_at": "2026-05-25 01:10:33",
+      "tags": [
+        "行业趋势",
+        "供应链"
       ]
     },
     {
@@ -1769,9 +1674,9 @@
       "lang_orig": "en",
       "title_cn": "化肥：如果只有欧洲为二氧化碳买单，工业、农业和气候都将受损",
       "title_en": "Fertilizers: If only Europe pays for CO₂, industry, agriculture and the climate will lose out",
-      "summary_cn": "本文讨论欧洲在化肥行业单独承担二氧化碳成本带来的负面影响。如果只有欧洲为碳排放付费，将导致欧洲化肥工业竞争力下降，农业成本上升，且无法有效缓解全球气候变化。呼吁更公平的碳定价机制。",
-      "summary_en": "This article discusses the negative impacts of Europe bearing CO₂ costs alone in the fertilizer industry. If only Europe pays for carbon emissions, it will reduce the competitiveness of European fertilizer industry, increase agricultural costs, and fail to effectively mitigate global climate change. It calls for a fairer carbon pricing mechanism.",
-      "fetched_at": "2026-05-25 00:39:22",
+      "summary_cn": "本文指出，如果只有欧洲承担二氧化碳排放成本，将导致欧洲化肥工业竞争力下降，农业成本上升，且对全球气候改善效果有限。呼吁更公平的碳定价机制，以避免产业外迁和碳泄漏。",
+      "summary_en": "The article argues that if only Europe bears the cost of CO₂ emissions, it will reduce the competitiveness of the European fertilizer industry, increase agricultural costs, and have limited impact on global climate improvement. It calls for a fairer carbon pricing mechanism to avoid industrial relocation and carbon leakage.",
+      "fetched_at": "2026-05-25 01:10:33",
       "tags": [
         "政策法规",
         "碳关税CBAM",
@@ -1794,8 +1699,8 @@
       "title_cn": "工业IT巨头Kontron Electronics将中国制造迁至匈牙利",
       "title_en": "Industrial IT Giant Kontron Electronics Relocates Chinese Manufacturing to Hungary",
       "summary_cn": "工业IT巨头Kontron Electronics宣布将其中国制造业务迁至匈牙利，以优化供应链布局。此举反映了全球制造业向欧洲转移的趋势，并可能影响中国工业企业的海外竞争格局。",
-      "summary_en": "Industrial IT giant Kontron Electronics has announced the relocation of its Chinese manufacturing operations to Hungary to optimize supply chain layout. This move reflects the global trend of manufacturing shifting to Europe and may impact the overseas competitive landscape for Chinese industrial enterprises.",
-      "fetched_at": "2026-05-25 00:39:23",
+      "summary_en": "Industrial IT giant Kontron Electronics has announced the relocation of its Chinese manufacturing operations to Hungary to optimize its supply chain. This move reflects a global trend of manufacturing shifting to Europe and may impact the overseas competitive landscape for Chinese industrial enterprises.",
+      "fetched_at": "2026-05-25 01:10:34",
       "tags": [
         "供应链",
         "海外建厂",
@@ -1817,13 +1722,13 @@
       "lang_orig": "en",
       "title_cn": "中国冲击2.0：欧洲应欢迎中国投资吗？",
       "title_en": "China shock 2.0: should Europe welcome Chinese investment?",
-      "summary_cn": "本文探讨欧洲是否应欢迎中国投资，分析中国冲击2.0对欧洲经济的影响。文章可能涉及中国企业在欧洲的扩张策略及潜在风险。",
-      "summary_en": "This article discusses whether Europe should welcome Chinese investment, analyzing the impact of China shock 2.0 on the European economy. It may cover Chinese companies' expansion strategies in Europe and potential risks.",
-      "fetched_at": "2026-05-25 00:39:23",
+      "summary_cn": "本文探讨欧洲是否应欢迎中国投资，分析中国企业在欧洲的扩张对当地产业的影响。文章可能涉及投资并购、本地化等议题，引发对经济安全与市场开放的讨论。",
+      "summary_en": "This article explores whether Europe should welcome Chinese investment, analyzing the impact of Chinese companies' expansion on local industries. It may touch on topics such as investment mergers, localization, and debates over economic security versus market openness.",
+      "fetched_at": "2026-05-25 01:10:34",
       "tags": [
         "投资并购",
-        "头部企业动态",
-        "行业趋势"
+        "本地化",
+        "头部企业动态"
       ]
     },
     {
@@ -1841,12 +1746,12 @@
       "lang_orig": "en",
       "title_cn": "中国海外清洁能源投资对气候有利，但人权和环境是另一回事",
       "title_en": "China’s Clean Energy Investments Abroad Are a Boon for Climate, but Human Rights and the Environment Are a Different Story",
-      "summary_cn": "中国在海外清洁能源领域的投资对全球气候目标具有积极影响，但相关项目在人权和环境保护方面存在争议。报道指出，这些投资在推动可再生能源发展的同时，也引发了关于劳工权益和生态影响的讨论。",
-      "summary_en": "China's overseas clean energy investments benefit global climate goals, but raise concerns over human rights and environmental impacts. The report highlights that while these investments promote renewable energy development, they also spark debates on labor rights and ecological effects.",
-      "fetched_at": "2026-05-25 00:39:23",
+      "summary_cn": "中国在海外清洁能源领域的投资对全球气候目标有积极贡献，但相关项目在人权和环境保护方面存在争议。报道指出，这些投资在推动可再生能源发展的同时，可能忽视了当地社区权益和生态影响。",
+      "summary_en": "China's overseas clean energy investments contribute positively to global climate goals, but related projects face controversies over human rights and environmental protection. The report notes that while these investments promote renewable energy development, they may overlook local community rights and ecological impacts.",
+      "fetched_at": "2026-05-25 01:10:34",
       "tags": [
+        "海外建厂",
         "投资并购",
-        "供应链",
         "行业趋势"
       ]
     },
@@ -1863,15 +1768,15 @@
       "region": "Europe",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "专访：匈牙利塞格德市长表示欢迎中国投资 - 新华社",
-      "title_en": "Interview: Hungary's Szeged welcomes Chinese investment, mayor says - Xinhua",
-      "summary_cn": "匈牙利塞格德市长在接受新华社专访时表示，该市热烈欢迎中国投资，并强调这些投资为当地经济带来了积极影响。市长指出，中国企业在塞格德的投资项目促进了就业和技术交流，进一步巩固了中匈合作关系。",
-      "summary_en": "In an interview with Xinhua, the mayor of Szeged, Hungary, expressed a warm welcome for Chinese investment, highlighting its positive impact on the local economy. He noted that Chinese companies' projects in Szeged have boosted employment and technological exchange, further strengthening China-Hungary cooperation.",
-      "fetched_at": "2026-05-25 00:39:23",
+      "title_cn": "专访：匈牙利塞格德市长表示欢迎中国投资",
+      "title_en": "Interview: Hungary's Szeged welcomes Chinese investment, mayor says",
+      "summary_cn": "匈牙利塞格德市长在接受新华社采访时表示，该市热烈欢迎中国投资，并强调这些投资为当地经济带来了积极影响。市长指出，中国企业在塞格德的投资项目促进了就业和技术交流。",
+      "summary_en": "In an interview with Xinhua, the mayor of Szeged, Hungary, expressed a warm welcome for Chinese investment, highlighting its positive impact on the local economy. He noted that Chinese enterprises' projects in Szeged have boosted employment and technological exchange.",
+      "fetched_at": "2026-05-25 01:10:34",
       "tags": [
         "海外建厂",
-        "投资并购",
-        "一带一路"
+        "本地化",
+        "头部企业动态"
       ]
     },
     {
@@ -1889,13 +1794,13 @@
       "lang_orig": "en",
       "title_cn": "中国电动汽车供应商在亚斯费尼萨鲁启动重大投资",
       "title_en": "Chinese EV Supplier Launches Major Investment in Jászfényszaru - Hungary Today",
-      "summary_cn": "中国电动汽车供应商在匈牙利亚斯费尼萨鲁启动了一项重大投资，旨在扩大其在欧洲的生产能力。该投资将促进当地经济发展，并加强中欧在新能源汽车领域的合作。",
-      "summary_en": "A Chinese EV supplier has launched a major investment in Jászfényszaru, Hungary, aiming to expand its production capacity in Europe. The investment will boost local economic development and strengthen China-Europe cooperation in the new energy vehicle sector.",
-      "fetched_at": "2026-05-25 00:39:23",
+      "summary_cn": "中国电动汽车供应商在匈牙利亚斯费尼萨鲁启动了一项重大投资，旨在扩大其在欧洲的生产能力。该投资将促进当地经济发展，并加强中国企业在全球电动汽车供应链中的地位。",
+      "summary_en": "A Chinese EV supplier has launched a major investment in Jászfényszaru, Hungary, aiming to expand its production capacity in Europe. This investment will boost local economic development and strengthen the position of Chinese enterprises in the global EV supply chain.",
+      "fetched_at": "2026-05-25 01:10:34",
       "tags": [
-        "新能源汽车",
         "海外建厂",
-        "投资并购"
+        "新能源汽车",
+        "本地化"
       ]
     },
     {
@@ -1911,15 +1816,111 @@
       "region": "Europe",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "中国与韩国：谁在匈牙利的电池战中胜出？",
+      "title_cn": "中国 vs. 韩国：谁在匈牙利的电池战中胜出？",
       "title_en": "China vs. Korea: Who Is Winning the Battery Battle in Hungary?",
-      "summary_cn": "本文探讨了中国和韩国在匈牙利电池制造领域的竞争态势。匈牙利已成为欧洲重要的电池生产基地，吸引了包括宁德时代、比亚迪等中国巨头以及三星SDI、SK On等韩国企业的投资。文章分析了双方在产能、技术、供应链及地缘政治影响下的优劣势，并评估了当前谁更占上风。",
-      "summary_en": "This article examines the competition between China and South Korea in Hungary's battery manufacturing sector. Hungary has become a key European battery production hub, attracting investments from Chinese giants like CATL and BYD, as well as Korean firms such as Samsung SDI and SK On. It analyzes the advantages and disadvantages of both sides in terms of capacity, technology, supply chains, and geopolitical influences, assessing who currently holds the upper hand.",
-      "fetched_at": "2026-05-25 00:39:23",
+      "summary_cn": "文章探讨了中国和韩国企业在匈牙利电池制造领域的竞争态势。匈牙利已成为欧洲重要的电池生产基地，吸引了宁德时代、比亚迪等中国企业以及三星SDI、SK On等韩国企业投资。这场竞争涉及技术、供应链和地缘政治因素，对全球新能源汽车产业格局有深远影响。",
+      "summary_en": "The article examines the competitive landscape between Chinese and Korean companies in Hungary's battery manufacturing sector. Hungary has become a key European battery production hub, attracting investments from Chinese firms like CATL and BYD, as well as Korean companies such as Samsung SDI and SK On. The competition involves technology, supply chains, and geopolitical factors, with significant implications for the global new energy vehicle industry.",
+      "fetched_at": "2026-05-25 01:10:34",
       "tags": [
         "新能源汽车",
         "海外建厂",
         "头部企业动态"
+      ]
+    },
+    {
+      "fingerprint": "1f3f20ffc0a0043d0fc0042646c93900",
+      "title_orig": "China’s $143 billion push to dominate the global EV industry - Rest of World",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55VzVyNjVjbnFoTEI0SlRRWDljd244YXoyZ3hmTzZfY3BDaWJNNzROZ0xnQWdiZXZKZlhDeWtBOUVYYlQzaTN5ZV80dnR4VmppcXRBWDFrbnpVd1Z4S3k0Vi02MmNoR2gtUUdJOWg0WlNhUWM0?oc=5",
+      "published_raw": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "summary_raw": "China’s $143 billion push to dominate the global EV industry &nbsp;&nbsp; Rest of World",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_hu",
+      "country": "Hungary",
+      "region": "Europe",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "中国投入1430亿美元推动主导全球电动汽车产业",
+      "title_en": "China’s $143 billion push to dominate the global EV industry",
+      "summary_cn": "中国投入1430亿美元以主导全球电动汽车产业，这一大规模投资涵盖从电池制造到整车生产的全产业链。此举旨在巩固中国在新能源汽车领域的领先地位，并加速海外市场扩张。",
+      "summary_en": "China is investing $143 billion to dominate the global EV industry, covering the entire supply chain from battery manufacturing to vehicle production. This move aims to solidify China's leading position in new energy vehicles and accelerate overseas market expansion.",
+      "fetched_at": "2026-05-25 01:10:34",
+      "tags": [
+        "新能源汽车",
+        "投资并购",
+        "行业趋势"
+      ]
+    },
+    {
+      "fingerprint": "40fb776518d308d35dcdd133535a39bc",
+      "title_orig": "Europe has a solid basis for battery and electric vehicle manufacturing growth - Bruegel",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUhoWDE2SWdZOU9IQTRmUXhyVWtrdXYydzNlNnF3U1I4REFpdmpuclJMWklrWkE5V1hRMXNVdXBZb1JYYjF2d3MzdEk5aGNPYTJVaEZCeGZjYnN6djJJVkVuVkVQSmtZTERzem9pTHp3LVJaeWF1MkFaNW9veV91bWpOVnFjeF9FOVZYOUlsMkktS3hrWnc2OHdPOU5IeWZJREg3Y2dsR3Y?oc=5",
+      "published_raw": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "summary_raw": "Europe has a solid basis for battery and electric vehicle manufacturing growth &nbsp;&nbsp; Bruegel",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_hu",
+      "country": "Hungary",
+      "region": "Europe",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "欧洲电池与电动汽车制造业增长基础坚实 - Bruegel",
+      "title_en": "Europe has a solid basis for battery and electric vehicle manufacturing growth - Bruegel",
+      "summary_cn": "布鲁盖尔研究所指出，欧洲在电池和电动汽车制造领域拥有坚实基础，具备增长潜力。该分析强调了欧洲在技术、供应链和政策支持方面的优势，为行业扩张提供了有利条件。",
+      "summary_en": "Bruegel Institute indicates that Europe has a solid foundation for growth in battery and electric vehicle manufacturing. The analysis highlights Europe's advantages in technology, supply chain, and policy support, providing favorable conditions for industry expansion.",
+      "fetched_at": "2026-05-25 01:10:34",
+      "tags": [
+        "新能源汽车",
+        "行业趋势",
+        "供应链"
+      ]
+    },
+    {
+      "fingerprint": "1f5d7131a4ff29aae46482ea68bb104b",
+      "title_orig": "Plásticos Durex to Invest MX$215M in Automotive Plant in QRO - Mexico Business News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU1JFb2d5VTJudFdlT1NtMnhmeU9mS0VibDg0SWZGODk3SW9Nc1kzRVBpV05NZDhrbEFmMm5sNjF2Y3YxNzJSeUh0bVNaRTIzQUhXSGlfS29oa0QwSUk2bzI4QUd1bmtIMmM1Q19OTUhKaS0yYTFNeWpmOHg4MTd5VG9JcE95Nml5NEhvTXZ5WkVWcG9oQU5BdTQ0U2tDMzY1Y3E3QUJiaw?oc=5",
+      "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "summary_raw": "Plásticos Durex to Invest MX$215M in Automotive Plant in QRO &nbsp;&nbsp; Mexico Business News",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_pl",
+      "country": "Poland",
+      "region": "Europe",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "Plásticos Durex 投资2.15亿墨西哥比索在克雷塔罗建设汽车工厂",
+      "title_en": "Plásticos Durex to Invest MX$215M in Automotive Plant in QRO",
+      "summary_cn": "Plásticos Durex 宣布在墨西哥克雷塔罗州投资2.15亿墨西哥比索建设汽车零部件工厂。该投资旨在扩大其在汽车行业的产能，满足市场需求。",
+      "summary_en": "Plásticos Durex announced an investment of MX$215 million to build an automotive parts plant in Querétaro, Mexico. The investment aims to expand its production capacity in the automotive sector to meet market demand.",
+      "fetched_at": "2026-05-25 01:10:34",
+      "tags": [
+        "海外建厂",
+        "头部企业动态",
+        "行业趋势"
+      ]
+    },
+    {
+      "fingerprint": "93bbc67c3a456a9ed101a1d9f3ce39be",
+      "title_orig": "Lyten to Establish a Lyten Industrial Hub in Poland - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR2pCV1VMc3lwYjJMempsUklvdTVYZ1JCWGlOZmNiUWx6LVlGZnM0WjdfRGgyY3hJaUZ3ZmxKaVh0LXgzTlBNUURvbjltVXRhcmxuZUYwZ2hnZlVHWmI3cUMtUmE2bEhaLW9EN19VQ0l6dEhkX1hXS1RDXzkxVjJlem5KbjJmaVp6OERDX0g3Z01SX1ZYbkY2QzZBZ254c0FkRW1ETDBsTU11TXdu?oc=5",
+      "published_raw": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "summary_raw": "Lyten to Establish a Lyten Industrial Hub in Poland &nbsp;&nbsp; Business Wire",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_pl",
+      "country": "Poland",
+      "region": "Europe",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "Lyten将在波兰建立Lyten工业中心",
+      "title_en": "Lyten to Establish a Lyten Industrial Hub in Poland",
+      "summary_cn": "Lyten宣布将在波兰建立Lyten工业中心，旨在扩大其制造能力并支持欧洲市场。该中心将专注于生产先进材料，具体细节尚未完全披露。",
+      "summary_en": "Lyten announced plans to establish a Lyten Industrial Hub in Poland to expand its manufacturing capabilities and support the European market. The hub will focus on producing advanced materials, with specific details yet to be fully disclosed.",
+      "fetched_at": "2026-05-25 01:10:34",
+      "tags": [
+        "海外建厂",
+        "头部企业动态",
+        "行业趋势"
       ]
     }
   ]
