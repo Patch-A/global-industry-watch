@@ -130,7 +130,7 @@ function getUniqueCountries() {
 function renderCountryTabs() {
   const countries = getUniqueCountries();
   const tabs = document.getElementById("countryTabs");
-  tabs.innerHTML = '<span class="country-tab active" onclick="setCountry('all')">🌍 全部 All</span>';
+  tabs.innerHTML = '<span class="country-tab active" onclick="setCountry(\'all\')">🌍 全部 All</span>';
   countries.forEach(c => {
     const cls = activeCountry === c ? "country-tab active" : "country-tab";
     tabs.innerHTML += `<span class="${cls}" onclick="setCountry('${c}')">${c}</span>`;
