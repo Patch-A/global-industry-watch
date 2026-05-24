@@ -50,8 +50,18 @@ body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft Y
 .search-bar select {{ padding: 10px 14px; border: 2px solid #e0e0e0; border-radius: 8px; font-size: 0.9rem; background: white; cursor: pointer; }}
 .stats {{ font-size: 0.85rem; color: #666; padding: 4px 0; }}
 
-.highlights {{ display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0 18px; }}
+.highlights {{ display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0 10px; }}
 .highlight-chip {{ padding: 6px 12px; border-radius: 999px; background: #eef4f8; color: #2c5364; font-size: 0.82rem; }}
+.signal-banner {{ background: #fff7e6; border: 1px solid #ffd591; color: #ad6800; padding: 12px 16px; border-radius: 10px; margin: 0 0 18px; font-size: 0.92rem; }}
+.signal-banner strong {{ color: #d46b08; }}
+.signal-panel {{ background: #fff; border-radius: 12px; padding: 16px 18px; margin-bottom: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }}
+.signal-panel h2 {{ font-size: 1rem; margin-bottom: 10px; color: #203a43; }}
+.signal-list {{ display: flex; flex-wrap: wrap; gap: 10px; }}
+.signal-item {{ padding: 8px 12px; border-radius: 10px; background: #f7f7f7; border: 1px solid #ececec; font-size: 0.88rem; }}
+.signal-item .count {{ color: #d46b08; font-weight: 700; margin-left: 6px; }}
+.signal-badge {{ display: inline-block; margin-bottom: 10px; padding: 4px 10px; border-radius: 999px; font-size: 0.76rem; font-weight: 700; }}
+.signal-badge.hot {{ background: #fff1f0; color: #a8071a; }}
+.signal-badge.warm {{ background: #fff7e6; color: #ad6800; }}
 
 /* 国家筛选卡片 */
 .country-tabs {{ display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }}
@@ -170,11 +180,29 @@ function getUniqueCountries() {{
 function renderCountryTabs() {{
   const countries = getUniqueCountries();
   const tabs = document.getElementById("countryTabs");
-  tabs.innerHTML = '<span class="country-tab active" onclick="setCountry(\\'all\\')">🌍 全部 All</span>';
+  tabs.innerHTML = '<span class="country-tab active" onclick="setCountry(\'all\')">?? All</span>';
   countries.forEach(c => {{
     const cls = activeCountry === c ? "country-tab active" : "country-tab";
     tabs.innerHTML += `<span class="${{cls}}" onclick="setCountry('${{c}}')">${{c}}</span>`;
   }});
+}}
+
+function renderSignalPanel() {{
+  const box = document.getElementById("signalList");
+  if (!box) return;
+  const signals = [
+    {{ label: "????", keys: ["????", "????", "tariff", "duty relief", "tax exemption"] }},
+    {{ label: "??/??", keys: ["??", "??", "visa", "visa waiver", "visa free"] }},
+    {{ label: "????", keys: ["????", "export tax rebate", "tax rebate"] }},
+    {{ label: "????", keys: ["????", "local manufacturing", "factory investment", "investment incentive"] }},
+  ];
+  box.innerHTML = signals.map(item => {{
+    const count = ALL_ARTICLES.filter(a => {{
+      const text = [a.title_cn, a.title_en, a.title_orig, a.summary_cn, a.summary_en, ...(a.tags || [])].join(" ").toLowerCase();
+      return item.keys.some(key => text.includes(key.toLowerCase()));
+    }}).length;
+    return `<span class="signal-item">${{item.label}}<span class="count">${{count}}</span></span>`;
+  }}).join("");
 }}
 
 function setCountry(c) {{
@@ -257,6 +285,7 @@ function render() {{
           <span class="card-country">${{a.country}}</span>
           <span class="card-date">${{dateStr}}</span>
         </div>
+        ${{a.signal_badge ? `<div class="signal-badge ${{a.signal_level > 1 ? 'hot' : 'warm'}}">${{a.signal_badge}}</div>` : ''}}
         <div class="card-title-cn">${{a.title_cn || a.title_orig}}</div>
         <div class="card-title-en">${{a.title_en || ""}}</div>
         <div class="card-summary">${{a.summary_cn || ""}}</div>

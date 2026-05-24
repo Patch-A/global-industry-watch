@@ -269,7 +269,7 @@ def dedupe_similar_with_ai(articles):
 
 
 def enrich_priority_tags(article):
-    """为高优先级政策信号补充标签，便于页面突出显示。"""
+    """???????????????????????"""
     text = " ".join([
         article.get("title_orig", ""),
         article.get("summary_raw", ""),
@@ -284,16 +284,36 @@ def enrich_priority_tags(article):
         if tag not in tags:
             tags.append(tag)
 
-    if any(keyword in text for keyword in ["tariff", "duty", "customs", "tax exemption", "tax relief", "temporary reduction", "reduction", "免签", "visa free", "visa-free", "visa waiver", "签证", "入境"]):
-        add("政策法规")
-    if any(keyword in text for keyword in ["tariff", "duty", "customs", "tariff cut", "tax exemption", "tax relief", "reduction", "免税", "减免", "关税"]):
-        add("关税变动")
-    if any(keyword in text for keyword in ["visa", "visa free", "visa-free", "visa waiver", "免签", "签证"]):
-        add("签证便利")
-    if any(keyword in text for keyword in ["tax exemption", "tax relief", "temporary reduction", "reduction", "减免", "优惠", "免税"]):
-        add("税收优惠")
+    tariff_terms = [
+        "tariff", "duty", "customs", "import tax", "tax exemption", "tax relief",
+        "temporary reduction", "tariff cut", "duty relief", "suspension", "waiver",
+        "??", "??", "??", "??", "??", "??", "???", "????"
+    ]
+    visa_terms = [
+        "visa", "visa free", "visa-free", "visa waiver", "visa facilitation",
+        "entry", "travel", "passport", "??", "??", "????", "???"
+    ]
+    china_terms = ["??", "china", "??", "??", "????", "????", "????"]
+    local_terms = ["local", "domestic", "??", "??", "??", "????", "???"]
+
+    if any(keyword in text for keyword in tariff_terms + visa_terms):
+        add("????")
+    if any(keyword in text for keyword in tariff_terms):
+        add("????")
+        add("????")
+    if any(keyword in text for keyword in visa_terms):
+        add("??/??")
+        add("????")
+    if any(keyword in text for keyword in ["tax exemption", "tax relief", "temporary reduction", "reducci?n", "isen??o"]):
+        add("????")
+    if any(keyword in text for keyword in china_terms):
+        add("??????")
+    if any(keyword in text for keyword in local_terms):
+        add("????")
 
     article["tags"] = tags
+    article["signal_level"] = 2 if ("????" in tags or "??/??" in tags) else 1 if "????" in tags else 0
+    article["signal_badge"] = "????" if article["signal_level"] > 0 else "????"
     return article
 
 
@@ -303,24 +323,18 @@ def main():
     cache_path = os.path.join(DATA_DIR, "cache.json")
     output_path = os.path.join(DATA_DIR, "articles.json")
 
-    # 1. 抓取
     articles = fetch_rss_feeds(sources_path)
-
     if not articles:
         print("未抓取到文章，退出")
         return
 
-    # 2. 与历史缓存去重
     articles = dedupe_against_cache(articles, cache_path)
-
     if not articles:
         print("无新文章，退出")
         return
 
-    # 3. 按权威性去重（短标题相似组）
     articles = dedupe_similar_with_ai(articles)
 
-    # 4. AI 处理（摘要+翻译+相关性筛选）
     if DEEPSEEK_API_KEY:
         print(f"\n[{now_str()}] 开始 DeepSeek AI 处理...")
         processed = []
@@ -339,7 +353,6 @@ def main():
             elif ai_result and not ai_result.get("is_relevant", True):
                 print(f"    [SKIP] 不相关: {ai_result.get('relevance_reason', '')}")
             else:
-                # AI 失败时保留原文
                 article["title_cn"] = article["title_orig"]
                 article["title_en"] = article["title_orig"]
                 article["summary_cn"] = article["summary_raw"][:200]
@@ -348,34 +361,29 @@ def main():
                 article = enrich_priority_tags(article)
                 processed.append(article)
 
-            time.sleep(0.3)  # API 频率控制
+            time.sleep(0.3)
 
         articles = processed
         print(f"[{now_str()}] AI 处理完成，保留 {len(articles)} 条相关文章")
     else:
-        # 无 API Key 时直接保留原文
-        for a in articles:
-            a["title_cn"] = a["title_orig"]
-            a["title_en"] = a["title_orig"]
-            a["summary_cn"] = a["summary_raw"][:200]
-            a["summary_en"] = a["summary_raw"][:200]
-            a["tags"] = []
-            enrich_priority_tags(a)
+        for article in articles:
+            article["title_cn"] = article["title_orig"]
+            article["title_en"] = article["title_orig"]
+            article["summary_cn"] = article["summary_raw"][:200]
+            article["summary_en"] = article["summary_raw"][:200]
+            article["tags"] = []
+            enrich_priority_tags(article)
 
-    # 5. 限制总数
     articles = articles[:MAX_TOTAL_ARTICLES]
 
-    # 6. 更新缓存
     cache = load_json(cache_path, {"articles": [], "fingerprints": []})
     cache["articles"].extend(articles)
     cache["fingerprints"] = [a["fingerprint"] for a in cache["articles"]]
-    # 清理过期
     cutoff = (datetime.now(TZ_BEIJING) - timedelta(days=CACHE_DAYS)).isoformat()
     cache["articles"] = [a for a in cache["articles"] if a.get("fetched_at", "") > cutoff]
     cache["fingerprints"] = [a["fingerprint"] for a in cache["articles"]]
     save_json(cache_path, cache)
 
-    # 7. 保存输出
     output = {
         "updated_at": now_str(),
         "total": len(articles),
