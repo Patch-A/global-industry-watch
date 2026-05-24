@@ -68,6 +68,24 @@
       "country": "Brazil", "region": "Latin America", "lang": "en", "category": "industry"
     },
     {
+      "id": "google_brazil_policy",
+      "name": "Google News - 巴西政策与关税",
+      "url": "https://news.google.com/rss/search?q=Brazil+tariff+tax+exemption+import+duty+temporary+reduction+visa+free+policy&hl=en-US&gl=US&ceid=US:en",
+      "country": "Brazil", "region": "Latin America", "lang": "en", "category": "policy"
+    },
+    {
+      "id": "google_brazil_policy_pt",
+      "name": "Google News - 巴西政策与关税（葡语）",
+      "url": "https://news.google.com/rss/search?q=Brasil+tarifa+redu%C3%A7%C3%A3o+tempor%C3%A1ria+isen%C3%A7%C3%A3o+de+imposto+visto&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "country": "Brazil", "region": "Latin America", "lang": "pt", "category": "policy"
+    },
+    {
+      "id": "google_brazil_visa",
+      "name": "Google News - 巴西签证与入境",
+      "url": "https://news.google.com/rss/search?q=Brazil+visa+free+entry+visa+policy+business+travel+industrial+investment&hl=en-US&gl=US&ceid=US:en",
+      "country": "Brazil", "region": "Latin America", "lang": "en", "category": "policy"
+    },
+    {
       "id": "google_industrial_mx",
       "name": "Google News - 墨西哥工业制造",
       "url": "https://news.google.com/rss/search?q=Mexico+industrial+manufacturing+factory+nearshoring+tariff+USMCA&hl=en-US&gl=US&ceid=US:en",

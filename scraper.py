@@ -268,6 +268,35 @@ def dedupe_similar_with_ai(articles):
     return deduped
 
 
+def enrich_priority_tags(article):
+    """为高优先级政策信号补充标签，便于页面突出显示。"""
+    text = " ".join([
+        article.get("title_orig", ""),
+        article.get("summary_raw", ""),
+        article.get("title_cn", ""),
+        article.get("summary_cn", ""),
+        article.get("title_en", ""),
+        article.get("summary_en", ""),
+    ]).lower()
+    tags = list(article.get("tags", []))
+
+    def add(tag):
+        if tag not in tags:
+            tags.append(tag)
+
+    if any(keyword in text for keyword in ["tariff", "duty", "customs", "tax exemption", "tax relief", "temporary reduction", "reduction", "免签", "visa free", "visa-free", "visa waiver", "签证", "入境"]):
+        add("政策法规")
+    if any(keyword in text for keyword in ["tariff", "duty", "customs", "tariff cut", "tax exemption", "tax relief", "reduction", "免税", "减免", "关税"]):
+        add("关税变动")
+    if any(keyword in text for keyword in ["visa", "visa free", "visa-free", "visa waiver", "免签", "签证"]):
+        add("签证便利")
+    if any(keyword in text for keyword in ["tax exemption", "tax relief", "temporary reduction", "reduction", "减免", "优惠", "免税"]):
+        add("税收优惠")
+
+    article["tags"] = tags
+    return article
+
+
 # ======== 主流程 ========
 def main():
     sources_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources.json")
@@ -305,6 +334,7 @@ def main():
                 article["summary_cn"] = ai_result.get("summary_cn", "")
                 article["summary_en"] = ai_result.get("summary_en", "")
                 article["tags"] = ai_result.get("tags", [])
+                article = enrich_priority_tags(article)
                 processed.append(article)
             elif ai_result and not ai_result.get("is_relevant", True):
                 print(f"    [SKIP] 不相关: {ai_result.get('relevance_reason', '')}")
@@ -315,6 +345,7 @@ def main():
                 article["summary_cn"] = article["summary_raw"][:200]
                 article["summary_en"] = article["summary_raw"][:200]
                 article["tags"] = []
+                article = enrich_priority_tags(article)
                 processed.append(article)
 
             time.sleep(0.3)  # API 频率控制
@@ -329,6 +360,7 @@ def main():
             a["summary_cn"] = a["summary_raw"][:200]
             a["summary_en"] = a["summary_raw"][:200]
             a["tags"] = []
+            enrich_priority_tags(a)
 
     # 5. 限制总数
     articles = articles[:MAX_TOTAL_ARTICLES]
