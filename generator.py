@@ -45,6 +45,8 @@ body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft Y
 .search-bar {{ background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); margin-bottom: 20px; display: flex; gap: 12px; flex-wrap: wrap; }}
 .search-bar input {{ flex: 1; min-width: 200px; padding: 10px 16px; border: 2px solid #e0e0e0; border-radius: 8px; font-size: 0.95rem; outline: none; transition: border-color 0.2s; }}
 .search-bar input:focus {{ border-color: #2c5364; }}
+.search-bar button {{ padding: 10px 16px; border: 0; border-radius: 8px; background: #2c5364; color: #fff; font-size: 0.9rem; cursor: pointer; }}
+.search-bar button:hover {{ background: #203a43; }}
 .search-bar select {{ padding: 10px 14px; border: 2px solid #e0e0e0; border-radius: 8px; font-size: 0.9rem; background: white; cursor: pointer; }}
 .stats {{ font-size: 0.85rem; color: #666; padding: 4px 0; }}
 
@@ -104,7 +106,8 @@ body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft Y
 <div class="container">
   <!-- 搜索栏 -->
   <div class="search-bar">
-    <input type="text" id="searchInput" placeholder="搜索标题、摘要、国家、标签...  Search by keyword..." oninput="render()">
+    <input type="text" id="searchInput" placeholder="搜索标题、摘要、国家、标签...  Search by keyword..." oninput="handleSearchKey(event)">
+    <button type="button" onclick="render()">搜索</button>
     <select id="regionFilter" onchange="render()">
       <option value="all">🌏 全部区域 All Regions</option>
       <option value="Southeast Asia">🇸🇪 东南亚 Southeast Asia</option>
@@ -258,6 +261,12 @@ function render() {{
   }});
 
   container.innerHTML = html;
+}}
+
+function handleSearchKey(event) {{
+  if (event.key === "Enter") {{
+    render();
+  }}
 }}
 
 // 初始渲染
