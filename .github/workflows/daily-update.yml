@@ -1,6 +1,8 @@
 ﻿name: Daily Update - Global Industry Watch
 
 on:
+  push:
+    branches: ["main"]
   schedule:
     # 每天 UTC 0:00 和 12:00 各跑一次（北京时间 8:00 和 20:00）
     - cron: "0 0,12 * * *"
