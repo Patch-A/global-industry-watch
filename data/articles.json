@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25 18:17:04",
+  "updated_at": "2026-05-25 20:52:10",
   "total": 80,
   "articles": [
     {
@@ -22,7 +22,7 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -48,7 +48,7 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -74,7 +74,7 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -96,7 +96,7 @@
       "summary_cn": "National champions – Vietnam’s solution to the middle-income trap &nbsp;&nbsp; Lowy Institute",
       "summary_en": "National champions – Vietnam’s solution to the middle-income trap &nbsp;&nbsp; Lowy Institute",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -122,7 +122,7 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -146,7 +146,7 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -172,7 +172,7 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -196,7 +196,7 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -222,7 +222,7 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -248,31 +248,9 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 2,
       "signal_badge": "重点信号"
-    },
-    {
-      "fingerprint": "43fe55f1c1095120e3ecc4e7cade44f0",
-      "title_orig": "Southeast Asia quarterly economic review: A strong year-end rebound - McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2VLay02a3U1UnFDWmZpbUw3TGlYSU5ydGtDWW5kT0NrbVVDVzU0MXVENG9fYlNXaVFMT1lfYjdFbnpZRkhqcS0tTkNkbUFGazktNnpIa0pZa0hxaUZnOTZpWHE5VEJhVnRic0xZU2Rvd2FrS1RoQXd0ckl0U0xieUZyeHlmRWZCcjNsTTNsazZ2QzlRUnNLcmYteC1oMUE?oc=5",
-      "published_raw": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "summary_raw": "Southeast Asia quarterly economic review: A strong year-end rebound &nbsp;&nbsp; McKinsey & Company",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_th",
-      "country": "Thailand",
-      "region": "Southeast Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "Southeast Asia quarterly economic review: A strong year-end rebound - McKinsey & Company",
-      "title_en": "Southeast Asia quarterly economic review: A strong year-end rebound - McKinsey & Company",
-      "summary_cn": "Southeast Asia quarterly economic review: A strong year-end rebound &nbsp;&nbsp; McKinsey & Company",
-      "summary_en": "Southeast Asia quarterly economic review: A strong year-end rebound &nbsp;&nbsp; McKinsey & Company",
-      "tags": [],
-      "fetched_at": "2026-05-25 18:16:45",
-      "signal_level": 0,
-      "signal_badge": "常规资讯"
     },
     {
       "fingerprint": "6dbed01bbdd031ae7c4e05b3b2b20376",
@@ -292,7 +270,7 @@
       "summary_cn": "Southeast Asian manufacturing: No longer immune from geopolitics &nbsp;&nbsp; Lowy Institute",
       "summary_en": "Southeast Asian manufacturing: No longer immune from geopolitics &nbsp;&nbsp; Lowy Institute",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -319,7 +297,7 @@
         "重点关注",
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -343,7 +321,7 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -367,7 +345,7 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:45",
+      "fetched_at": "2026-05-25 20:51:50",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -389,7 +367,7 @@
       "summary_cn": "U.S.-Indonesia Deal Draws Praise from American Farmers and Industry Leaders &nbsp;&nbsp; ustr.gov",
       "summary_en": "U.S.-Indonesia Deal Draws Praise from American Farmers and Industry Leaders &nbsp;&nbsp; ustr.gov",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:46",
+      "fetched_at": "2026-05-25 20:51:51",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -411,16 +389,16 @@
       "summary_cn": "2026 Manufacturing Industry Outlook &nbsp;&nbsp; Deloitte",
       "summary_en": "2026 Manufacturing Industry Outlook &nbsp;&nbsp; Deloitte",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:46",
+      "fetched_at": "2026-05-25 20:51:51",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
     {
-      "fingerprint": "36ef67bac858770890048f374bb433ec",
-      "title_orig": "US sets preliminary duties on solar imports from India, Indonesia and Laos - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeUdqN2xRMW1XYm5Ha3BjelFRM1N4UzNyZE9HSmFZa3gwNTNGdjRKWldVaUFUM04tMnhEdE5nSEJweE53REJuRm12c3FwS0NnWENORWFnRmw1ZzdBNmNBSWdQM3VQMEJrMXkyZmxqR0NvdjlEN2ItT3hUU2xXenRwRWtuWE42MXlpT01GSlQ4ZXF0OTRJRHl5MlpLMDlmUWhxWFVCYlBETk9UQkZGS2tZd3BVcmVqWWthLVhLWWJDWjd5bFBzZlE?oc=5",
-      "published_raw": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "summary_raw": "US sets preliminary duties on solar imports from India, Indonesia and Laos &nbsp;&nbsp; Reuters",
+      "fingerprint": "43fe55f1c1095120e3ecc4e7cade44f0",
+      "title_orig": "Southeast Asia quarterly economic review: A strong year-end rebound - McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2VLay02a3U1UnFDWmZpbUw3TGlYSU5ydGtDWW5kT0NrbVVDVzU0MXVENG9fYlNXaVFMT1lfYjdFbnpZRkhqcS0tTkNkbUFGazktNnpIa0pZa0hxaUZnOTZpWHE5VEJhVnRic0xZU2Rvd2FrS1RoQXd0ckl0U0xieUZyeHlmRWZCcjNsTTNsazZ2QzlRUnNLcmYteC1oMUE?oc=5",
+      "published_raw": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "summary_raw": "Southeast Asia quarterly economic review: A strong year-end rebound &nbsp;&nbsp; McKinsey & Company",
       "source_domain": "news.google.com",
       "authority": 5,
       "feed_id": "google_industrial_id",
@@ -428,12 +406,12 @@
       "region": "Southeast Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "US sets preliminary duties on solar imports from India, Indonesia and Laos - Reuters",
-      "title_en": "US sets preliminary duties on solar imports from India, Indonesia and Laos - Reuters",
-      "summary_cn": "US sets preliminary duties on solar imports from India, Indonesia and Laos &nbsp;&nbsp; Reuters",
-      "summary_en": "US sets preliminary duties on solar imports from India, Indonesia and Laos &nbsp;&nbsp; Reuters",
+      "title_cn": "Southeast Asia quarterly economic review: A strong year-end rebound - McKinsey & Company",
+      "title_en": "Southeast Asia quarterly economic review: A strong year-end rebound - McKinsey & Company",
+      "summary_cn": "Southeast Asia quarterly economic review: A strong year-end rebound &nbsp;&nbsp; McKinsey & Company",
+      "summary_en": "Southeast Asia quarterly economic review: A strong year-end rebound &nbsp;&nbsp; McKinsey & Company",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:46",
+      "fetched_at": "2026-05-25 20:51:51",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -455,7 +433,31 @@
       "summary_cn": "Batam's appeal to Chinese investors &nbsp;&nbsp; The Straits Times",
       "summary_en": "Batam's appeal to Chinese investors &nbsp;&nbsp; The Straits Times",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:46",
+      "fetched_at": "2026-05-25 20:51:51",
+      "signal_level": 0,
+      "signal_badge": "常规资讯"
+    },
+    {
+      "fingerprint": "650aefdd5307bc6060fcc2679c4d617b",
+      "title_orig": "Before Trump, Indonesia Had Another Trade Headache: China - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12RGkyR0hvWlRzM3k0eXZiSFl5ZzJwZkUtcnBpUWdWU2lIYzZWRnZKdmtIZXFUemtSUXI5SE83X0xqanB2cXlSYkdPY0UtUTBuRXlJa1RxWTFmbC1KMDV0djZuZzhKeDlDZi1CamVjYUt6ZE1FSU9mR2pB?oc=5",
+      "published_raw": "Fri, 18 Jul 2025 07:00:00 GMT",
+      "summary_raw": "Before Trump, Indonesia Had Another Trade Headache: China &nbsp;&nbsp; The New York Times",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_id",
+      "country": "Indonesia",
+      "region": "Southeast Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "Before Trump, Indonesia Had Another Trade Headache: China - The New York Times",
+      "title_en": "Before Trump, Indonesia Had Another Trade Headache: China - The New York Times",
+      "summary_cn": "Before Trump, Indonesia Had Another Trade Headache: China &nbsp;&nbsp; The New York Times",
+      "summary_en": "Before Trump, Indonesia Had Another Trade Headache: China &nbsp;&nbsp; The New York Times",
+      "tags": [
+        "中国企业出海"
+      ],
+      "fetched_at": "2026-05-25 20:51:51",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -481,7 +483,7 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:46",
+      "fetched_at": "2026-05-25 20:51:52",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -507,7 +509,7 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:46",
+      "fetched_at": "2026-05-25 20:51:52",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -529,7 +531,7 @@
       "summary_cn": "Industrial Motors Market in Saudi Arabia: Smart Manufacturing, Electrification & Vision 2030 Momentum &nbsp;&nbsp; vocal.media",
       "summary_en": "Industrial Motors Market in Saudi Arabia: Smart Manufacturing, Electrification & Vision 2030 Momentum &nbsp;&nbsp; vocal.media",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:47",
+      "fetched_at": "2026-05-25 20:51:52",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -553,7 +555,7 @@
       "tags": [
         "本地布局"
       ],
-      "fetched_at": "2026-05-25 18:16:47",
+      "fetched_at": "2026-05-25 20:51:52",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -575,7 +577,7 @@
       "summary_cn": "How Alat is driving Saudi Arabia's advanced manufacturing for Vision 2030 &nbsp;&nbsp; Business Insider",
       "summary_en": "How Alat is driving Saudi Arabia's advanced manufacturing for Vision 2030 &nbsp;&nbsp; Business Insider",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:47",
+      "fetched_at": "2026-05-25 20:51:52",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -597,7 +599,7 @@
       "summary_cn": "Saudi Vision 2030 - Saudi Arabia’s Supply Chain Playbook &nbsp;&nbsp; رؤية السعودية 2030",
       "summary_en": "Saudi Vision 2030 - Saudi Arabia’s Supply Chain Playbook &nbsp;&nbsp; رؤية السعودية 2030",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:47",
+      "fetched_at": "2026-05-25 20:51:52",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -619,7 +621,7 @@
       "summary_cn": "Saudi Arabia Foundry Equipment Market: Automation Integration, Precision Casting & Industrial Expansion &nbsp;&nbsp; vocal.media",
       "summary_en": "Saudi Arabia Foundry Equipment Market: Automation Integration, Precision Casting & Industrial Expansion &nbsp;&nbsp; vocal.media",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:47",
+      "fetched_at": "2026-05-25 20:51:52",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -641,7 +643,7 @@
       "summary_cn": "Ashmore Industrial Initiative makes first investment with Pharco Pharmaceuticals in 62,000-sqm manufacturing facility &nbsp;&nbsp; ZAWYA",
       "summary_en": "Ashmore Industrial Initiative makes first investment with Pharco Pharmaceuticals in 62,000-sqm manufacturing facility &nbsp;&nbsp; ZAWYA",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:47",
+      "fetched_at": "2026-05-25 20:51:52",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -663,7 +665,7 @@
       "summary_cn": "Rosond Saudi Industrial Expansion Accelerates Vision 2030 Manufacturing Goals &nbsp;&nbsp; Discovery Alert",
       "summary_en": "Rosond Saudi Industrial Expansion Accelerates Vision 2030 Manufacturing Goals &nbsp;&nbsp; Discovery Alert",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:47",
+      "fetched_at": "2026-05-25 20:51:52",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -685,7 +687,7 @@
       "summary_cn": "Saudi Arabia Metallurgical Equipment Market: Steel Production, Industrial Expansion & Growth Outlook &nbsp;&nbsp; vocal.media",
       "summary_en": "Saudi Arabia Metallurgical Equipment Market: Steel Production, Industrial Expansion & Growth Outlook &nbsp;&nbsp; vocal.media",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:47",
+      "fetched_at": "2026-05-25 20:51:52",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -707,7 +709,7 @@
       "summary_cn": "Dubai Investments highlights multi-sector industrial manufacturing strength at ‘Make it in the Emirates’ &nbsp;&nbsp; ZAWYA",
       "summary_en": "Dubai Investments highlights multi-sector industrial manufacturing strength at ‘Make it in the Emirates’ &nbsp;&nbsp; ZAWYA",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:53",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -729,7 +731,31 @@
       "summary_cn": "Make it in the Emirates 2026: Sharjah attracts Dh3.5 billion in industrial investment over five years &nbsp;&nbsp; Gulf News",
       "summary_en": "Make it in the Emirates 2026: Sharjah attracts Dh3.5 billion in industrial investment over five years &nbsp;&nbsp; Gulf News",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:53",
+      "signal_level": 0,
+      "signal_badge": "常规资讯"
+    },
+    {
+      "fingerprint": "340fe8bc540617b157c5dbb713d2cda5",
+      "title_orig": "UAE Business: RAKEZ signs deals for UAE-China industrial park, furniture factory - Gulf Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDSW4tblBHLXJ2R0Fzc1MySU8zYlViX0tCNnNyZTVnc1JaOVRhbDBxb0lKZVh3X1NDMngxc250MGJ4bFV4bVBsbmh0VkxSbzVHWjh3?oc=5",
+      "published_raw": "Thu, 07 May 2026 13:05:03 GMT",
+      "summary_raw": "UAE Business: RAKEZ signs deals for UAE-China industrial park, furniture factory &nbsp;&nbsp; Gulf Daily News",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_ae",
+      "country": "UAE",
+      "region": "Middle East",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "UAE Business: RAKEZ signs deals for UAE-China industrial park, furniture factory - Gulf Daily News",
+      "title_en": "UAE Business: RAKEZ signs deals for UAE-China industrial park, furniture factory - Gulf Daily News",
+      "summary_cn": "UAE Business: RAKEZ signs deals for UAE-China industrial park, furniture factory &nbsp;&nbsp; Gulf Daily News",
+      "summary_en": "UAE Business: RAKEZ signs deals for UAE-China industrial park, furniture factory &nbsp;&nbsp; Gulf Daily News",
+      "tags": [
+        "中国企业出海"
+      ],
+      "fetched_at": "2026-05-25 20:51:53",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -753,7 +779,7 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:53",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -775,7 +801,7 @@
       "summary_cn": "Eaton begins construction of sustainable advanced manufacturing hub in Dubai’s Jafza &nbsp;&nbsp; Gulf Business",
       "summary_en": "Eaton begins construction of sustainable advanced manufacturing hub in Dubai’s Jafza &nbsp;&nbsp; Gulf Business",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:53",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -799,7 +825,7 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:53",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -821,7 +847,7 @@
       "summary_cn": "Dubai Investments maintains operational continuity across its integrated manufacturing platform &nbsp;&nbsp; Emirates 24|7",
       "summary_en": "Dubai Investments maintains operational continuity across its integrated manufacturing platform &nbsp;&nbsp; Emirates 24|7",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:53",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -843,29 +869,7 @@
       "summary_cn": "UAE’s $6B Aluminium Investment Transforms US Manufacturing Landscape &nbsp;&nbsp; Discovery Alert",
       "summary_en": "UAE’s $6B Aluminium Investment Transforms US Manufacturing Landscape &nbsp;&nbsp; Discovery Alert",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:48",
-      "signal_level": 0,
-      "signal_badge": "常规资讯"
-    },
-    {
-      "fingerprint": "c20f2112300407dcb24127b19f07c604",
-      "title_orig": "Solico Group invests Dhs130m in UAE food manufacturing hub at Jafza - Gulf Business",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSURuZGZaOTRPOWExcHdJck5BXy1udU5uLTF2X0cxTFI5UHVGaUtvSm1JRW1mREhFTnktS1lKOHBnQ0FNY2xORk1qeU8yQ1c5c3ZvTmo2M3JrWXFTUHVjTzJPYklLSFdQUFZzekw2YVlzVEFlMlQteUFmM0JyT1phMjd0UHRaMmc?oc=5",
-      "published_raw": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary_raw": "Solico Group invests Dhs130m in UAE food manufacturing hub at Jafza &nbsp;&nbsp; Gulf Business",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_ae",
-      "country": "UAE",
-      "region": "Middle East",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "Solico Group invests Dhs130m in UAE food manufacturing hub at Jafza - Gulf Business",
-      "title_en": "Solico Group invests Dhs130m in UAE food manufacturing hub at Jafza - Gulf Business",
-      "summary_cn": "Solico Group invests Dhs130m in UAE food manufacturing hub at Jafza &nbsp;&nbsp; Gulf Business",
-      "summary_en": "Solico Group invests Dhs130m in UAE food manufacturing hub at Jafza &nbsp;&nbsp; Gulf Business",
-      "tags": [],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:53",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -891,7 +895,7 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:54",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -915,35 +919,9 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:54",
       "signal_level": 0,
       "signal_badge": "常规资讯"
-    },
-    {
-      "fingerprint": "ed2ba696e7ab0649a75add184d79b0dc",
-      "title_orig": "India pushes for further reforms amid US tariffs - fDi Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQWwzZlF1Uko4UXZLTEZYbGJ2WlF4NXlQWVFJVlVWZFVfaHIwdVplWWtzSWFndTFnc2JyUjZwQk85MmVhQzZoYkk2UUtQWTRjU3gzWjhUX2R2OHlBQUhBQ2FxMWE4SEJ3UVhqT1NqQ0t5VHlnWXltTzR6bDNPbHliU1BR?oc=5",
-      "published_raw": "Wed, 27 Aug 2025 07:00:00 GMT",
-      "summary_raw": "India pushes for further reforms amid US tariffs &nbsp;&nbsp; fDi Intelligence",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_in",
-      "country": "India",
-      "region": "South Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "India pushes for further reforms amid US tariffs - fDi Intelligence",
-      "title_en": "India pushes for further reforms amid US tariffs - fDi Intelligence",
-      "summary_cn": "India pushes for further reforms amid US tariffs &nbsp;&nbsp; fDi Intelligence",
-      "summary_en": "India pushes for further reforms amid US tariffs &nbsp;&nbsp; fDi Intelligence",
-      "tags": [
-        "政策信号",
-        "关税变动",
-        "重点关注"
-      ],
-      "fetched_at": "2026-05-25 18:16:48",
-      "signal_level": 2,
-      "signal_badge": "重点信号"
     },
     {
       "fingerprint": "8992af55eecee4d21ecadb9cafcce384",
@@ -963,7 +941,7 @@
       "summary_cn": "India’s car boom: Global OEMs race to invest and expand &nbsp;&nbsp; Automotive Manufacturing Solutions",
       "summary_en": "India’s car boom: Global OEMs race to invest and expand &nbsp;&nbsp; Automotive Manufacturing Solutions",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:54",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -989,7 +967,33 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:54",
+      "signal_level": 2,
+      "signal_badge": "重点信号"
+    },
+    {
+      "fingerprint": "ed2ba696e7ab0649a75add184d79b0dc",
+      "title_orig": "India pushes for further reforms amid US tariffs - fDi Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQWwzZlF1Uko4UXZLTEZYbGJ2WlF4NXlQWVFJVlVWZFVfaHIwdVplWWtzSWFndTFnc2JyUjZwQk85MmVhQzZoYkk2UUtQWTRjU3gzWjhUX2R2OHlBQUhBQ2FxMWE4SEJ3UVhqT1NqQ0t5VHlnWXltTzR6bDNPbHliU1BR?oc=5",
+      "published_raw": "Wed, 27 Aug 2025 07:00:00 GMT",
+      "summary_raw": "India pushes for further reforms amid US tariffs &nbsp;&nbsp; fDi Intelligence",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_in",
+      "country": "India",
+      "region": "South Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "India pushes for further reforms amid US tariffs - fDi Intelligence",
+      "title_en": "India pushes for further reforms amid US tariffs - fDi Intelligence",
+      "summary_cn": "India pushes for further reforms amid US tariffs &nbsp;&nbsp; fDi Intelligence",
+      "summary_en": "India pushes for further reforms amid US tariffs &nbsp;&nbsp; fDi Intelligence",
+      "tags": [
+        "政策信号",
+        "关税变动",
+        "重点关注"
+      ],
+      "fetched_at": "2026-05-25 20:51:54",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -1015,7 +1019,7 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:54",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -1037,16 +1041,16 @@
       "summary_cn": "Eli Lilly Invests Over $1 Billion to Strengthen Manufacturing and Supply Capabilities in India &nbsp;&nbsp; Pharmaceutical Commerce",
       "summary_en": "Eli Lilly Invests Over $1 Billion to Strengthen Manufacturing and Supply Capabilities in India &nbsp;&nbsp; Pharmaceutical Commerce",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:48",
+      "fetched_at": "2026-05-25 20:51:54",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
     {
-      "fingerprint": "1de0bd2c46774f7d407d1c809a4e8136",
-      "title_orig": "WATCH: Trump announces Apple investment of additional $100B in U.S. manufacturing - PBS",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWWdsS2NqbW5JcGZWLTBtUi1CeXB5YkwzaVlVOElldG45RWRneW85czRuS0ZqV1hOT3ZHMHRoX2VZOE9wcExxbzZYTUF4M2gweWxqVFF2ZnJQTkd2SWdDN1BQQk1ZYXZFTER3X3JzME83ZkRnSGV4azZMQVRQYncxR2V0TF90NlBOMW90cVlCYlEwc0RjYmhTZ2RRRTdiV0ZLYXlmZUpyRFFZV2o0M20xMDAwVEFacTTSAbwBQVVfeXFMTXZ1dDE2NDVscmYtblJHX05WLWlvU0s5T0lQZXNKNTlaeDlzTE9lUC0tUjNEUFhsdEV4S1hRdEI0djU4VjViaEVxcG5MdnlodEZJLU5QWnlNcTdDM3Jsak00OUxiMG96amVwLU5CZWFuYWJHa1V3UXBPakRDQnloa1dadUc0MFcteDFXdmgtRGN2UzhoLTVHNklwbzB3elBOTUE1ZWZDOTVmSXVOa1I0OUNTY2NreEdsZWNxTkQ?oc=5",
-      "published_raw": "Wed, 06 Aug 2025 07:00:00 GMT",
-      "summary_raw": "WATCH: Trump announces Apple investment of additional $100B in U.S. manufacturing &nbsp;&nbsp; PBS",
+      "fingerprint": "518a48f38c1ecf1649493cb344d24b4d",
+      "title_orig": "Ford to invest $370 million in India, defying Trump’s local push - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONk43MGNqc1Nqd3FZZHlNcmlaWGhkM2lDMFBFQmk2TWlPQ20wUGM5Z2dsYmVOWF9qeVdCYTYwR1ZnQTcxZVBfMG9xWUYwWDVwQXRSY25kbVI5WHd5QmtYYVJxVVAxcDVWUnlJY05tSl9YeGVrc3E0b1N3ZU5Jc1NCYlI3Zmg5c3RMUUVGM0hSa1E1RjM2QlpESjQwNDJkOHpTbGE2cEN3R0QteVE0LVB1OU5PZmktZS1IQ1otTGlPaUZ0YzBmTzhPUWIyQWZrZWxOaW9Gb2tn?oc=5",
+      "published_raw": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "summary_raw": "Ford to invest $370 million in India, defying Trump’s local push &nbsp;&nbsp; The Detroit News",
       "source_domain": "news.google.com",
       "authority": 5,
       "feed_id": "google_industrial_in",
@@ -1054,12 +1058,14 @@
       "region": "South Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "WATCH: Trump announces Apple investment of additional $100B in U.S. manufacturing - PBS",
-      "title_en": "WATCH: Trump announces Apple investment of additional $100B in U.S. manufacturing - PBS",
-      "summary_cn": "WATCH: Trump announces Apple investment of additional $100B in U.S. manufacturing &nbsp;&nbsp; PBS",
-      "summary_en": "WATCH: Trump announces Apple investment of additional $100B in U.S. manufacturing &nbsp;&nbsp; PBS",
-      "tags": [],
-      "fetched_at": "2026-05-25 18:16:48",
+      "title_cn": "Ford to invest $370 million in India, defying Trump’s local push - The Detroit News",
+      "title_en": "Ford to invest $370 million in India, defying Trump’s local push - The Detroit News",
+      "summary_cn": "Ford to invest $370 million in India, defying Trump’s local push &nbsp;&nbsp; The Detroit News",
+      "summary_en": "Ford to invest $370 million in India, defying Trump’s local push &nbsp;&nbsp; The Detroit News",
+      "tags": [
+        "本地布局"
+      ],
+      "fetched_at": "2026-05-25 20:51:54",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1081,7 +1087,51 @@
       "summary_cn": "Germany's AMANN Group To Expand Bangladesh Factory With New Investment &nbsp;&nbsp; Siliconindia",
       "summary_en": "Germany's AMANN Group To Expand Bangladesh Factory With New Investment &nbsp;&nbsp; Siliconindia",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:49",
+      "fetched_at": "2026-05-25 20:51:54",
+      "signal_level": 0,
+      "signal_badge": "常规资讯"
+    },
+    {
+      "fingerprint": "560231da492959e52b2995dcc0949b17",
+      "title_orig": "Germany’s AMANN Group plans fresh investment, factory expansion in Bangladesh - Apparel Views",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGl3eVVLQXFwMy1nN3lmUEttTnJXTjRaMzdCcFhZbnNOaUtUVGMydWxJczQtWGFyRUZtaXZTLVJvRlVEcmtPVlcycGktcEU0SFZWdU5uUjNhd2lsd0R4RWpTSFZPblF3anM1cWRxWHpkQ0dYNGNnUHNBMFlQNWNFR3doaGwzeGtfUTI0a3drRlFSNFB0cnVGSGd3a3pfVkdKMWNndHJ2SQ?oc=5",
+      "published_raw": "Mon, 25 May 2026 08:06:26 GMT",
+      "summary_raw": "Germany’s AMANN Group plans fresh investment, factory expansion in Bangladesh &nbsp;&nbsp; Apparel Views",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_bd",
+      "country": "Bangladesh",
+      "region": "South Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "Germany’s AMANN Group plans fresh investment, factory expansion in Bangladesh - Apparel Views",
+      "title_en": "Germany’s AMANN Group plans fresh investment, factory expansion in Bangladesh - Apparel Views",
+      "summary_cn": "Germany’s AMANN Group plans fresh investment, factory expansion in Bangladesh &nbsp;&nbsp; Apparel Views",
+      "summary_en": "Germany’s AMANN Group plans fresh investment, factory expansion in Bangladesh &nbsp;&nbsp; Apparel Views",
+      "tags": [],
+      "fetched_at": "2026-05-25 20:51:54",
+      "signal_level": 0,
+      "signal_badge": "常规资讯"
+    },
+    {
+      "fingerprint": "ae76da5a31214b8b95bf9f5b60aa934e",
+      "title_orig": "German group plans expansion in Bangladesh - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnBNcV9TWDJJRXhkU3dmSVRJMXJzeWN6UzBTdEJWNm5SMFhqeGh5YnZMN1ZFV0ktR21jZE03S2VQdmROenowc1RSMndmeVdjOThyNV9wNS1YQVh6R25saXlmZERadG5jRGFvbjh5QWd4ZjN1TzFsdWVaT0JqcExBa3RQT216RVR6N0NTTTF5YzM1RWNzVmVsNzBR?oc=5",
+      "published_raw": "Sat, 23 May 2026 18:17:53 GMT",
+      "summary_raw": "German group plans expansion in Bangladesh &nbsp;&nbsp; newagebd.net",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_bd",
+      "country": "Bangladesh",
+      "region": "South Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "German group plans expansion in Bangladesh - newagebd.net",
+      "title_en": "German group plans expansion in Bangladesh - newagebd.net",
+      "summary_cn": "German group plans expansion in Bangladesh &nbsp;&nbsp; newagebd.net",
+      "summary_en": "German group plans expansion in Bangladesh &nbsp;&nbsp; newagebd.net",
+      "tags": [],
+      "fetched_at": "2026-05-25 20:51:54",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1103,7 +1153,29 @@
       "summary_cn": "AMANN Group plans factory expansion and new investments in Bangladesh &nbsp;&nbsp; Textile Today",
       "summary_en": "AMANN Group plans factory expansion and new investments in Bangladesh &nbsp;&nbsp; Textile Today",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:49",
+      "fetched_at": "2026-05-25 20:51:54",
+      "signal_level": 0,
+      "signal_badge": "常规资讯"
+    },
+    {
+      "fingerprint": "93f83b00945ce43f20c66abee8d7b9c4",
+      "title_orig": "The only thing worse than sweatshops is no sweatshops - Noahpinion",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Jd1BacGJZYXRWaVVJejBRWlFqYVgyN0JzbjFNWmRHbWEyZllBdGx3aGdFTU9BWDZkcjFHWkl4cFlENFoyTUIzanlPMmEyUDk2M0xMSjdFSkRSa1VsLTdJajQyWUtSRkRYQndSRUlMZmVfNlJ2?oc=5",
+      "published_raw": "Wed, 30 Jul 2025 07:00:00 GMT",
+      "summary_raw": "The only thing worse than sweatshops is no sweatshops &nbsp;&nbsp; Noahpinion",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_bd",
+      "country": "Bangladesh",
+      "region": "South Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "The only thing worse than sweatshops is no sweatshops - Noahpinion",
+      "title_en": "The only thing worse than sweatshops is no sweatshops - Noahpinion",
+      "summary_cn": "The only thing worse than sweatshops is no sweatshops &nbsp;&nbsp; Noahpinion",
+      "summary_en": "The only thing worse than sweatshops is no sweatshops &nbsp;&nbsp; Noahpinion",
+      "tags": [],
+      "fetched_at": "2026-05-25 20:51:54",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1125,7 +1197,7 @@
       "summary_cn": "Chinese investors eye Bangladesh's expanding manufacturing, infrastructure opportunities: CEAB President &nbsp;&nbsp; Bangladesh Sangbad Sangstha (BSS)",
       "summary_en": "Chinese investors eye Bangladesh's expanding manufacturing, infrastructure opportunities: CEAB President &nbsp;&nbsp; Bangladesh Sangbad Sangstha (BSS)",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:49",
+      "fetched_at": "2026-05-25 20:51:54",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1147,7 +1219,7 @@
       "summary_cn": "Hong Kong-based Handa Industries to invest US $ 250 million in Bangladesh &nbsp;&nbsp; Apparel Resources",
       "summary_en": "Hong Kong-based Handa Industries to invest US $ 250 million in Bangladesh &nbsp;&nbsp; Apparel Resources",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:49",
+      "fetched_at": "2026-05-25 20:51:54",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1171,82 +1243,16 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:49",
+      "fetched_at": "2026-05-25 20:51:54",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
     {
-      "fingerprint": "4cbd33927e439c24b9bd6d53c2125a93",
-      "title_orig": "Bangladesh emerging as Chinese firms' investment destination - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1l3VXg3aEVPMktrZUw5ODVvaW82Rm9tX0NQNHVNTUFVbDJDM21RWFJxRFNZVDBvaXZrUWw3a2FLTmdhaG90N1pqN1dPSWVxQlhoaENkRUVfLUhPcE12el9KLXI0YzNJelV3ZFhub2hfdzVuOXNQSWpGd3o2RE45WnhwdEdWaW96dmRVUlJ3eE0ta2ZYRnhXZDUyWExCZjlLNGtJNw?oc=5",
-      "published_raw": "Sun, 24 Aug 2025 07:00:00 GMT",
-      "summary_raw": "Bangladesh emerging as Chinese firms' investment destination &nbsp;&nbsp; The Financial Express",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_bd",
-      "country": "Bangladesh",
-      "region": "South Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "Bangladesh emerging as Chinese firms' investment destination - The Financial Express",
-      "title_en": "Bangladesh emerging as Chinese firms' investment destination - The Financial Express",
-      "summary_cn": "Bangladesh emerging as Chinese firms' investment destination &nbsp;&nbsp; The Financial Express",
-      "summary_en": "Bangladesh emerging as Chinese firms' investment destination &nbsp;&nbsp; The Financial Express",
-      "tags": [],
-      "fetched_at": "2026-05-25 18:16:49",
-      "signal_level": 0,
-      "signal_badge": "常规资讯"
-    },
-    {
-      "fingerprint": "93f83b00945ce43f20c66abee8d7b9c4",
-      "title_orig": "The only thing worse than sweatshops is no sweatshops - Noahpinion",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Jd1BacGJZYXRWaVVJejBRWlFqYVgyN0JzbjFNWmRHbWEyZllBdGx3aGdFTU9BWDZkcjFHWkl4cFlENFoyTUIzanlPMmEyUDk2M0xMSjdFSkRSa1VsLTdJajQyWUtSRkRYQndSRUlMZmVfNlJ2?oc=5",
-      "published_raw": "Wed, 30 Jul 2025 07:00:00 GMT",
-      "summary_raw": "The only thing worse than sweatshops is no sweatshops &nbsp;&nbsp; Noahpinion",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_bd",
-      "country": "Bangladesh",
-      "region": "South Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "The only thing worse than sweatshops is no sweatshops - Noahpinion",
-      "title_en": "The only thing worse than sweatshops is no sweatshops - Noahpinion",
-      "summary_cn": "The only thing worse than sweatshops is no sweatshops &nbsp;&nbsp; Noahpinion",
-      "summary_en": "The only thing worse than sweatshops is no sweatshops &nbsp;&nbsp; Noahpinion",
-      "tags": [],
-      "fetched_at": "2026-05-25 18:16:49",
-      "signal_level": 0,
-      "signal_badge": "常规资讯"
-    },
-    {
-      "fingerprint": "a93adfe8c2d20509f88c41f31400805f",
-      "title_orig": "Chinese investments so far offer little to Bangladesh economy - The Daily Ittefaq",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5INlBfZVZfZjdMTi1CRGVWVzFWYUdUR2NQU1hLSjlYMmJPc2d6YzBVYmNOYlFmc0RXSW9td0tweDRXN2x4ODVhTDFkT1NHdkRMdktZWG42RHp1SzR3WVFsQm5LMG1RNUdDa0JwWjBTS0U0QjVoMDFfcXJzdldybE3SAYQBQVVfeXFMT2djS2NqaHlKV1FWV0ZfTUJSQnA4NlplWWh3SHdfUUxjZWhkekV2YVFDeElXX0hiTGJXaHRFWUJXOW9ENnBWb2lpWUwyS0IzVElQS1d3amxtRHFEOGdNTHBEYy00WHYycGhMMzdHNnhNTVhoREhFNTVnbXNmaDMyS2tjeW5r?oc=5",
-      "published_raw": "Tue, 19 Aug 2025 07:00:00 GMT",
-      "summary_raw": "Chinese investments so far offer little to Bangladesh economy &nbsp;&nbsp; The Daily Ittefaq",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_bd",
-      "country": "Bangladesh",
-      "region": "South Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "Chinese investments so far offer little to Bangladesh economy - The Daily Ittefaq",
-      "title_en": "Chinese investments so far offer little to Bangladesh economy - The Daily Ittefaq",
-      "summary_cn": "Chinese investments so far offer little to Bangladesh economy &nbsp;&nbsp; The Daily Ittefaq",
-      "summary_en": "Chinese investments so far offer little to Bangladesh economy &nbsp;&nbsp; The Daily Ittefaq",
-      "tags": [],
-      "fetched_at": "2026-05-25 18:16:49",
-      "signal_level": 0,
-      "signal_badge": "常规资讯"
-    },
-    {
-      "fingerprint": "f4566f6c8642d62efa02b3033ad8ecb3",
-      "title_orig": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia - Foreign Policy Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQzg2LWktLW41SkEtWEtTX0FXQTg0Zks0UkY3SnUwbTZONnZNNk1IUTNwTmN6d1RZVTlreTRMVk5VRXdPQlpVUEtLVHRuUEhmUF9ZMGlCWGc1ekRaS21zSEVOX185STEwd0FYeVIwWVhCUFNFV09hSTkwakg4Tk8tdDV3MDhlbThsWFd3RGg3YV8wSEVMdnQtTUVzY1VUakpyQllqdE5LMlZKVkFTamdZaG92cU0?oc=5",
-      "published_raw": "Mon, 11 Aug 2025 07:00:00 GMT",
-      "summary_raw": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia &nbsp;&nbsp; Foreign Policy Research Institute",
+      "fingerprint": "af236a588319981dd10dba86e638ab2a",
+      "title_orig": "Reordering Central Asia: China’s Emerging Economic Hierarchy - Foreign Policy Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHE4dHdfZXAyX0t6em5HMXU0T0IxWFI5OFFBQXc1SDhTa0J2dVdSZXZtem9ibExYTHotR0Vyb2hFNXhQdUJMUnJUX0F0aDN5QktFU3Q1NVdFd1BQdTl3N1ppWVhTUHhIU0U4c1RPN3gzenlzbnF3eng4WW9PbTlrR2UxYmliZFJnVVVZRkQtc2d0RnpYYU9IR0p3amY?oc=5",
+      "published_raw": "Tue, 05 May 2026 07:00:00 GMT",
+      "summary_raw": "Reordering Central Asia: China’s Emerging Economic Hierarchy &nbsp;&nbsp; Foreign Policy Research Institute",
       "source_domain": "news.google.com",
       "authority": 5,
       "feed_id": "google_industrial_kz",
@@ -1254,12 +1260,14 @@
       "region": "Central Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia - Foreign Policy Research Institute",
-      "title_en": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia - Foreign Policy Research Institute",
-      "summary_cn": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia &nbsp;&nbsp; Foreign Policy Research Institute",
-      "summary_en": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia &nbsp;&nbsp; Foreign Policy Research Institute",
-      "tags": [],
-      "fetched_at": "2026-05-25 18:16:50",
+      "title_cn": "Reordering Central Asia: China’s Emerging Economic Hierarchy - Foreign Policy Research Institute",
+      "title_en": "Reordering Central Asia: China’s Emerging Economic Hierarchy - Foreign Policy Research Institute",
+      "summary_cn": "Reordering Central Asia: China’s Emerging Economic Hierarchy &nbsp;&nbsp; Foreign Policy Research Institute",
+      "summary_en": "Reordering Central Asia: China’s Emerging Economic Hierarchy &nbsp;&nbsp; Foreign Policy Research Institute",
+      "tags": [
+        "中国企业出海"
+      ],
+      "fetched_at": "2026-05-25 20:51:55",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1283,32 +1291,7 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:50",
-      "signal_level": 0,
-      "signal_badge": "常规资讯"
-    },
-    {
-      "fingerprint": "e4bc8f3ea021cb8c1f049a903ce41791",
-      "title_orig": "China-Central Asia Weekly News: Building Skills and Local Capacity - The China-Global South Project",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3l1LVgzSmx3TmwyR1hHVXdXOXk4alhyLTVFWjRPMm96YlplUkV4WV9MVnpyNkFpMEJlVERhMWlnT0VmbDVlNHhQSmZSRWhHSHVoRWRTRVBjTGRDRmtwX1FNSl9mUV9VNnhXZmh0OUwxN0tWX01aLUFMNUJ4cjd2VEU2TS1KVmw1bVZWZHBHQWdGb2U1bzlKakYyNGo5QQ?oc=5",
-      "published_raw": "Fri, 12 Sep 2025 07:00:00 GMT",
-      "summary_raw": "China-Central Asia Weekly News: Building Skills and Local Capacity &nbsp;&nbsp; The China-Global South Project",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_kz",
-      "country": "Kazakhstan",
-      "region": "Central Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "China-Central Asia Weekly News: Building Skills and Local Capacity - The China-Global South Project",
-      "title_en": "China-Central Asia Weekly News: Building Skills and Local Capacity - The China-Global South Project",
-      "summary_cn": "China-Central Asia Weekly News: Building Skills and Local Capacity &nbsp;&nbsp; The China-Global South Project",
-      "summary_en": "China-Central Asia Weekly News: Building Skills and Local Capacity &nbsp;&nbsp; The China-Global South Project",
-      "tags": [
-        "中国企业出海",
-        "本地布局"
-      ],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:55",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1332,7 +1315,29 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:55",
+      "signal_level": 0,
+      "signal_badge": "常规资讯"
+    },
+    {
+      "fingerprint": "f4566f6c8642d62efa02b3033ad8ecb3",
+      "title_orig": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia - Foreign Policy Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQzg2LWktLW41SkEtWEtTX0FXQTg0Zks0UkY3SnUwbTZONnZNNk1IUTNwTmN6d1RZVTlreTRMVk5VRXdPQlpVUEtLVHRuUEhmUF9ZMGlCWGc1ekRaS21zSEVOX185STEwd0FYeVIwWVhCUFNFV09hSTkwakg4Tk8tdDV3MDhlbThsWFd3RGg3YV8wSEVMdnQtTUVzY1VUakpyQllqdE5LMlZKVkFTamdZaG92cU0?oc=5",
+      "published_raw": "Mon, 11 Aug 2025 07:00:00 GMT",
+      "summary_raw": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia &nbsp;&nbsp; Foreign Policy Research Institute",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_kz",
+      "country": "Kazakhstan",
+      "region": "Central Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia - Foreign Policy Research Institute",
+      "title_en": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia - Foreign Policy Research Institute",
+      "summary_cn": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia &nbsp;&nbsp; Foreign Policy Research Institute",
+      "summary_en": "Debt and Development: The Next Chapter of Chinese Investments in Central Asia &nbsp;&nbsp; Foreign Policy Research Institute",
+      "tags": [],
+      "fetched_at": "2026-05-25 20:51:55",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1356,7 +1361,7 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:55",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1380,7 +1385,7 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:55",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1402,7 +1407,7 @@
       "summary_cn": "Nickel Asia enters Kazakhstan’s copper mining industry &nbsp;&nbsp; Inquirer.net",
       "summary_en": "Nickel Asia enters Kazakhstan’s copper mining industry &nbsp;&nbsp; Inquirer.net",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:55",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1424,16 +1429,16 @@
       "summary_cn": "East Hope Group’s $12.6B Investment in Kazakhstan’s Aluminium Industry &nbsp;&nbsp; Discovery Alert",
       "summary_en": "East Hope Group’s $12.6B Investment in Kazakhstan’s Aluminium Industry &nbsp;&nbsp; Discovery Alert",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:55",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
     {
       "fingerprint": "25f30331afc1a39fde8c6f6c4b8b4958",
-      "title_orig": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories - 8am.media",
+      "title_orig": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories - Hasht-e Subh Daily",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmF5ckRfWFc5UVNCTFFQdFNUVEU3Q2ItOU05eUZ0NC0wMHBCMWtQcGpMOWlKaEtxUHVrS1M5bEo5dFg5MWRzRDFlQmFOdWpGT1ZmMlB6UU9TQkpXWkVlcXFnaF90TGhPRmx2STNkamJ2aVdUeWVUNEJxRUZJbFEyT1dndWpteDFWcEdVekZZbzRVcVlIa3gyWW1IYzV2OGh4Tmx1MkFyVQ?oc=5",
       "published_raw": "Thu, 21 May 2026 13:24:15 GMT",
-      "summary_raw": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories &nbsp;&nbsp; 8am.media",
+      "summary_raw": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories &nbsp;&nbsp; Hasht-e Subh Daily",
       "source_domain": "news.google.com",
       "authority": 5,
       "feed_id": "google_industrial_uz",
@@ -1441,12 +1446,12 @@
       "region": "Central Asia",
       "category": "industry",
       "lang_orig": "en",
-      "title_cn": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories - 8am.media",
-      "title_en": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories - 8am.media",
-      "summary_cn": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories &nbsp;&nbsp; 8am.media",
-      "summary_en": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories &nbsp;&nbsp; 8am.media",
+      "title_cn": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories - Hasht-e Subh Daily",
+      "title_en": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories - Hasht-e Subh Daily",
+      "summary_cn": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories &nbsp;&nbsp; Hasht-e Subh Daily",
+      "summary_en": "Taliban Claim Agreement With Uzbekistan on Transfer of 20 Manufacturing Factories &nbsp;&nbsp; Hasht-e Subh Daily",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1470,7 +1475,7 @@
       "tags": [
         "本地布局"
       ],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1494,7 +1499,7 @@
       "tags": [
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1516,7 +1521,7 @@
       "summary_cn": "Akfa Group Begins Construction on $600 Million Factory in Kentucky, Expanding Global Reach &nbsp;&nbsp; Construction Owners Club",
       "summary_en": "Akfa Group Begins Construction on $600 Million Factory in Kentucky, Expanding Global Reach &nbsp;&nbsp; Construction Owners Club",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1538,7 +1543,7 @@
       "summary_cn": "Kabul, Tashkent push industrial cooperation with planned factory transfers &nbsp;&nbsp; Ariana News",
       "summary_en": "Kabul, Tashkent push industrial cooperation with planned factory transfers &nbsp;&nbsp; Ariana News",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1560,29 +1565,7 @@
       "summary_cn": "Europe looks East: Uzbekistan builds a new manufacturing bridge &nbsp;&nbsp; Euronews.com",
       "summary_en": "Europe looks East: Uzbekistan builds a new manufacturing bridge &nbsp;&nbsp; Euronews.com",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:50",
-      "signal_level": 0,
-      "signal_badge": "常规资讯"
-    },
-    {
-      "fingerprint": "97555883ac505ee9c250c1cd88b520cf",
-      "title_orig": "The Islamic Corporation for the Insurance of Investment and Export Credit (ICIEC) Supports EUR 132.5 Million Financing to Strengthen Uzbekistan’s Steel Industry - Africa24 TV",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNS1VaVjVXWHZXODliLXdva2hmbEpWUDlfTHBYaXdaQWROQ1FaSnJSc0xWeC1nZzNWTU9hOGdySER0U0FkSlZDX1RMazZiZmh5YXhfVjJXSVBvaW5fX3NTRE12QmdseUNFS042a2lhemRJTUhqMXhFbmZ2X1BpNm9QVjJONEtuVEZUcUdBY3BhYU1JOVRlZy1uVlJqc3AwVUoyeTcycnVtSTVYYVZ4bll0RXdyMU9IMjRJekFyX0ljRXFGaVpvWDlNclM0WjFDVUVCRGFUYU9qUmdLSzBFVUZHcEl1S0gtcXpkUEJTeExCSERhTlFnTDVfV2o1aFd0OUZWZnllM3dyb2xxOHNZOHc?oc=5",
-      "published_raw": "Fri, 20 Feb 2026 12:19:34 GMT",
-      "summary_raw": "The Islamic Corporation for the Insurance of Investment and Export Credit (ICIEC) Supports EUR 132.5 Million Financing to Strengthen Uzbekistan’s Steel Industry &nbsp;&nbsp; Africa24 TV",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_uz",
-      "country": "Uzbekistan",
-      "region": "Central Asia",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "The Islamic Corporation for the Insurance of Investment and Export Credit (ICIEC) Supports EUR 132.5 Million Financing to Strengthen Uzbekistan’s Steel Industry - Africa24 TV",
-      "title_en": "The Islamic Corporation for the Insurance of Investment and Export Credit (ICIEC) Supports EUR 132.5 Million Financing to Strengthen Uzbekistan’s Steel Industry - Africa24 TV",
-      "summary_cn": "The Islamic Corporation for the Insurance of Investment and Export Credit (ICIEC) Supports EUR 132.5 Million Financing to Strengthen Uzbekistan’s Steel Industry &nbsp;&nbsp; Africa24 TV",
-      "summary_en": "The Islamic Corporation for the Insurance of Investment and Export Credit (ICIEC) Supports EUR 132.5 Million Financing to Strengthen Uzbekistan’s Steel Industry &nbsp;&nbsp; Africa24 TV",
-      "tags": [],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1604,7 +1587,31 @@
       "summary_cn": "Robotis Builds Uzbekistan Data Factory as Robotics Race Turns to Data &nbsp;&nbsp; KoreaTechDesk",
       "summary_en": "Robotis Builds Uzbekistan Data Factory as Robotics Race Turns to Data &nbsp;&nbsp; KoreaTechDesk",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:50",
+      "fetched_at": "2026-05-25 20:51:56",
+      "signal_level": 0,
+      "signal_badge": "常规资讯"
+    },
+    {
+      "fingerprint": "83c5fd72dfd6950cd2a3c6379d7f4b3f",
+      "title_orig": "Uzbekistan’s Pharmaceutical Market in 2025: Rapid Growth, Foreign Investment, and Localization - The Times Of Central Asia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM1dxMGM5cWg3UlFpWE45MlNWdGhTVm5JRVlLeFdiaHpEQ3Z1YjcxQWRzempCdURJOVZLYTlWeklxanFoanVlRENoMjJCc1hJU3ItRjczREV0bkpWVzBoMV9hZ1l0akRsUUZ0VUtjMjloNVY1VGtJSmNrR1lpSDhJWVdPTmtIdjhKRHJoMGt1LXdHSkRoTDVVbXR0SXpGYTA3SnFxSmRBdEc5R2hyZVZiQQ?oc=5",
+      "published_raw": "Tue, 11 Nov 2025 08:00:00 GMT",
+      "summary_raw": "Uzbekistan’s Pharmaceutical Market in 2025: Rapid Growth, Foreign Investment, and Localization &nbsp;&nbsp; The Times Of Central Asia",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_industrial_uz",
+      "country": "Uzbekistan",
+      "region": "Central Asia",
+      "category": "industry",
+      "lang_orig": "en",
+      "title_cn": "Uzbekistan’s Pharmaceutical Market in 2025: Rapid Growth, Foreign Investment, and Localization - The Times Of Central Asia",
+      "title_en": "Uzbekistan’s Pharmaceutical Market in 2025: Rapid Growth, Foreign Investment, and Localization - The Times Of Central Asia",
+      "summary_cn": "Uzbekistan’s Pharmaceutical Market in 2025: Rapid Growth, Foreign Investment, and Localization &nbsp;&nbsp; The Times Of Central Asia",
+      "summary_en": "Uzbekistan’s Pharmaceutical Market in 2025: Rapid Growth, Foreign Investment, and Localization &nbsp;&nbsp; The Times Of Central Asia",
+      "tags": [
+        "本地布局"
+      ],
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1630,7 +1637,7 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:51",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -1656,7 +1663,7 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:51",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -1682,7 +1689,7 @@
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:51",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -1709,7 +1716,7 @@
         "重点关注",
         "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:51",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
@@ -1731,7 +1738,7 @@
       "summary_cn": "Brazil’s WEG to invest $77 million to boost US plant capacity due to AI demand &nbsp;&nbsp; Brazil Energy Insight",
       "summary_en": "Brazil’s WEG to invest $77 million to boost US plant capacity due to AI demand &nbsp;&nbsp; Brazil Energy Insight",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:51",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1753,31 +1760,7 @@
       "summary_cn": "Global Free Zones of the Year 2025 — Best industrial zones &nbsp;&nbsp; fDi Intelligence",
       "summary_en": "Global Free Zones of the Year 2025 — Best industrial zones &nbsp;&nbsp; fDi Intelligence",
       "tags": [],
-      "fetched_at": "2026-05-25 18:16:51",
-      "signal_level": 0,
-      "signal_badge": "常规资讯"
-    },
-    {
-      "fingerprint": "8eec04ebab87cf9413801988e01968ca",
-      "title_orig": "Shein tried to turn Brazil into a production hub. Local factories walked away - FashionNetwork - The World's Fashion Business News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2pod0c3WjM1OTZPOFV5dnB4VVV5V0l5Wlc3SGZRODhTRDBsell0TDhwRG9SLTVBbEY0NWtVWWFZVlZwZDFCclA0NmREUGdXQ1FwTjJLY09Qb1JxdFhDSHViQzBYdWhCc2NHekJfSEtsQ19vVXRycnNEQ0lqVlg0ZHc0eGxBQ0hwV2NVNE5oRi1tXzhaQXdhRUN4WUwyYkgyOTNYZk9QblVHWEd0UGxaVG8weUdYOUl1aHE3SlBka0Z1UQ?oc=5",
-      "published_raw": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary_raw": "Shein tried to turn Brazil into a production hub. Local factories walked away &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
-      "source_domain": "news.google.com",
-      "authority": 5,
-      "feed_id": "google_industrial_br",
-      "country": "Brazil",
-      "region": "Latin America",
-      "category": "industry",
-      "lang_orig": "en",
-      "title_cn": "Shein tried to turn Brazil into a production hub. Local factories walked away - FashionNetwork - The World's Fashion Business News",
-      "title_en": "Shein tried to turn Brazil into a production hub. Local factories walked away - FashionNetwork - The World's Fashion Business News",
-      "summary_cn": "Shein tried to turn Brazil into a production hub. Local factories walked away &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
-      "summary_en": "Shein tried to turn Brazil into a production hub. Local factories walked away &nbsp;&nbsp; FashionNetwork - The World's Fashion Business News",
-      "tags": [
-        "本地布局"
-      ],
-      "fetched_at": "2026-05-25 18:16:51",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
@@ -1801,42 +1784,43 @@
       "tags": [
         "本地布局"
       ],
-      "fetched_at": "2026-05-25 18:16:51",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 0,
       "signal_badge": "常规资讯"
     },
     {
-      "fingerprint": "b6c84cfa200827306b5eb1df53307b9f",
-      "title_orig": "Trump tariffs fallout: Walmart to use refunds to lower prices - Undercurrent News",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FRDRFYTNKWktUM25qT1pvRVBvbHVPbTBNeEJidEZuNXUyNW9PTHlzSVBDLWltUGtHRjNudUVtRkZ5RFdqQWl4VzNpa201NzFvelRZZkhGTTFCOEVHWEZtYVhHbXdYNWVGbm81ZEZkVi1wWU1N?oc=5",
-      "published_raw": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary_raw": "Trump tariffs fallout: Walmart to use refunds to lower prices &nbsp;&nbsp; Undercurrent News",
+      "fingerprint": "ab76cfa8e7ec5b34df8c448d790a0488",
+      "title_orig": "Brazil scraps EV tariff break for Chinese carmaker BYD amid pressure from rivals - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORXo2YXI0Z2RPdlYxdlI2YzdaM3ZyamZ2ZXlzSkhYRk91d2ExalFqd29BOS1FSDdmYkcwbEUyTUZlVnNiMDBBYTlueFZXanllcVh6dzJ2bUkxREhWOGpZMjZhTTFINGhleldwWG9SQU9NVGJxSmNldVo3SDRra041cGF6X0xNRVN0cW5tQTd4YUtmY1piTUh0Q2hZc3ZRN3ZhaFViazdoSVk4dkFMUEFLUVZWQWlYaE1lMWFkaFA1RzFYWVpna3fSAcYBQVVfeXFMTnRaTzZlOFdiTTY5Ukc1SzBrR0d4Q2J4MHAxdG5OeHRwTTNrVnhrZEFMVmxDQ1J4dVJ5WU85U2lBWWQxc1ZFX0Q0cFJrVTV6NGdDbTRUc1VjcEx3LVZqeS1LOWVGbDdJanFzaGxvem1FaEtFZVRKdnowMXl1QmlJaFlzSG50Y1czSG5WNllZTmxYam5UbENVTHZIUWVubXdwdjh3bkl6eGpzWndvdmdsd3VnZVpjZHFBWmV6RVdzS3d0T2JNTzBn?oc=5",
+      "published_raw": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "summary_raw": "Brazil scraps EV tariff break for Chinese carmaker BYD amid pressure from rivals &nbsp;&nbsp; South China Morning Post",
       "source_domain": "news.google.com",
       "authority": 5,
-      "feed_id": "google_brazil_policy",
+      "feed_id": "google_industrial_br",
       "country": "Brazil",
       "region": "Latin America",
-      "category": "policy",
+      "category": "industry",
       "lang_orig": "en",
-      "title_cn": "Trump tariffs fallout: Walmart to use refunds to lower prices - Undercurrent News",
-      "title_en": "Trump tariffs fallout: Walmart to use refunds to lower prices - Undercurrent News",
-      "summary_cn": "Trump tariffs fallout: Walmart to use refunds to lower prices &nbsp;&nbsp; Undercurrent News",
-      "summary_en": "Trump tariffs fallout: Walmart to use refunds to lower prices &nbsp;&nbsp; Undercurrent News",
+      "title_cn": "Brazil scraps EV tariff break for Chinese carmaker BYD amid pressure from rivals - South China Morning Post",
+      "title_en": "Brazil scraps EV tariff break for Chinese carmaker BYD amid pressure from rivals - South China Morning Post",
+      "summary_cn": "Brazil scraps EV tariff break for Chinese carmaker BYD amid pressure from rivals &nbsp;&nbsp; South China Morning Post",
+      "summary_en": "Brazil scraps EV tariff break for Chinese carmaker BYD amid pressure from rivals &nbsp;&nbsp; South China Morning Post",
       "tags": [
         "政策信号",
         "关税变动",
-        "重点关注"
+        "重点关注",
+        "中国企业出海"
       ],
-      "fetched_at": "2026-05-25 18:16:52",
+      "fetched_at": "2026-05-25 20:51:56",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
     {
-      "fingerprint": "262da82daba756b06fe0e253d31a423c",
-      "title_orig": "US-India Strike Interim Trade Deal, Cut Tariffs to 18% - India Briefing",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlFtcV8yRHRRRThNMWtpRWF0QUVlM0lOY0d2RFZxUy1sTk5fOTNhX0JFRF80OF9JalNSdkNjWXR3YktCYzN5VFJQYXRvV1ljeEFZNVpOSkFOSllPckh4TzNLR3dmcm9Ic1VpQmFIMUlxZi15ZUpZOXlsQVdIMFNFZ1hQYnM2QThGcVJQMklVVWlpeXlmemRaczg2N0FldHc?oc=5",
-      "published_raw": "Wed, 11 Feb 2026 08:00:00 GMT",
-      "summary_raw": "US-India Strike Interim Trade Deal, Cut Tariffs to 18% &nbsp;&nbsp; India Briefing",
+      "fingerprint": "028a77bf291166944aea502a50c4bb8f",
+      "title_orig": "ADDRESSING THREATS TO THE UNITED STATES BY THE GOVERNMENT OF BRAZIL - The White House (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGJ5dm1ScThnRXA4ajdvV2k4SmRDODVRV0ZIMGk3NkdwbmJfWFRabVJBTlhaSDNLV1hKNGVnY2I5b2staUV1VGN2dm13S1dXdU1qZjZKUmN5MVozMnNiRkc3eXdHaTdtRnJJZjhNUlVydDYwaFVCZ2tOai12WnZMOG14LW9RQzdtWEhCZTh3?oc=5",
+      "published_raw": "Wed, 30 Jul 2025 07:00:00 GMT",
+      "summary_raw": "ADDRESSING THREATS TO THE UNITED STATES BY THE GOVERNMENT OF BRAZIL &nbsp;&nbsp; The White House (.gov)",
       "source_domain": "news.google.com",
       "authority": 5,
       "feed_id": "google_brazil_policy",
@@ -1844,25 +1828,47 @@
       "region": "Latin America",
       "category": "policy",
       "lang_orig": "en",
-      "title_cn": "US-India Strike Interim Trade Deal, Cut Tariffs to 18% - India Briefing",
-      "title_en": "US-India Strike Interim Trade Deal, Cut Tariffs to 18% - India Briefing",
-      "summary_cn": "US-India Strike Interim Trade Deal, Cut Tariffs to 18% &nbsp;&nbsp; India Briefing",
-      "summary_en": "US-India Strike Interim Trade Deal, Cut Tariffs to 18% &nbsp;&nbsp; India Briefing",
+      "title_cn": "ADDRESSING THREATS TO THE UNITED STATES BY THE GOVERNMENT OF BRAZIL - The White House (.gov)",
+      "title_en": "ADDRESSING THREATS TO THE UNITED STATES BY THE GOVERNMENT OF BRAZIL - The White House (.gov)",
+      "summary_cn": "ADDRESSING THREATS TO THE UNITED STATES BY THE GOVERNMENT OF BRAZIL &nbsp;&nbsp; The White House (.gov)",
+      "summary_en": "ADDRESSING THREATS TO THE UNITED STATES BY THE GOVERNMENT OF BRAZIL &nbsp;&nbsp; The White House (.gov)",
+      "tags": [],
+      "fetched_at": "2026-05-25 20:51:57",
+      "signal_level": 0,
+      "signal_badge": "常规资讯"
+    },
+    {
+      "fingerprint": "d2dd9c5e2f115f02b4f52b1e57e9df33",
+      "title_orig": "Trump Tariffs: What’s the Latest on the Trade War? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uZ3NFNlhfaE9aNVZZeHRZRTFSTGNhMXp5TFBJUjRYaXpaR1F0TEJtVkROaTJ1VV8yM3p6UWZIaVowaEZWWDdZSy1xM3JPQTJlbllYajlsVXVLQW1ZdnBqRUZNOXpuS3kwQkR6dXpUdXdQLUFybWpGakhB?oc=5",
+      "published_raw": "Sat, 12 Jul 2025 07:00:00 GMT",
+      "summary_raw": "Trump Tariffs: What’s the Latest on the Trade War? &nbsp;&nbsp; The New York Times",
+      "source_domain": "news.google.com",
+      "authority": 5,
+      "feed_id": "google_brazil_policy",
+      "country": "Brazil",
+      "region": "Latin America",
+      "category": "policy",
+      "lang_orig": "en",
+      "title_cn": "Trump Tariffs: What’s the Latest on the Trade War? - The New York Times",
+      "title_en": "Trump Tariffs: What’s the Latest on the Trade War? - The New York Times",
+      "summary_cn": "Trump Tariffs: What’s the Latest on the Trade War? &nbsp;&nbsp; The New York Times",
+      "summary_en": "Trump Tariffs: What’s the Latest on the Trade War? &nbsp;&nbsp; The New York Times",
       "tags": [
         "政策信号",
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:52",
+      "fetched_at": "2026-05-25 20:51:57",
       "signal_level": 2,
       "signal_badge": "重点信号"
     },
     {
-      "fingerprint": "0fa919c99a82136edee9004014ecaae6",
-      "title_orig": "Trump Administration Updates: White House Announces Sweeping New Tariffs for Much of the World - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15WlFqYmJPNzdIN3djd1J3UTRtTzRaU19uRGhkWndCUzVIa1VyeDhLcnV0cFNPeWR3SGxlYkhkVnJSSEN2MktrTVlkbDVrc3dVZDVVLWtKTklHNWpXUEFXaXFCVQ?oc=5",
-      "published_raw": "Tue, 09 Dec 2025 08:00:00 GMT",
-      "summary_raw": "Trump Administration Updates: White House Announces Sweeping New Tariffs for Much of the World &nbsp;&nbsp; The New York Times",
+      "fingerprint": "8f588c32e7e74ab0303ecf91b3cdaf34",
+      "title_orig": "Highlights: Trump Imposes Vast Global Tariffs (Published 2025) - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdkdLMGJWVXpIVFBER2UzSWNrZW9aVWZYZjVEVTdCN3RUdFVlcW1TNm8ta1NHX0FWbDNYSUw0ZXRNYjJHZjZQX3hETW0zSHpJc090bm0zTVZfRm1SMkZIZjBYSS05Y1VibEtOTF9VV2JIZkI3VTZqZW9BWklxbXdXQWoyUQ?oc=5",
+      "published_raw": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "summary_raw": "Highlights: Trump Imposes Vast Global Tariffs (Published 2025) &nbsp;&nbsp; The New York Times",
       "source_domain": "news.google.com",
       "authority": 5,
       "feed_id": "google_brazil_policy",
@@ -1870,16 +1876,16 @@
       "region": "Latin America",
       "category": "policy",
       "lang_orig": "en",
-      "title_cn": "Trump Administration Updates: White House Announces Sweeping New Tariffs for Much of the World - The New York Times",
-      "title_en": "Trump Administration Updates: White House Announces Sweeping New Tariffs for Much of the World - The New York Times",
-      "summary_cn": "Trump Administration Updates: White House Announces Sweeping New Tariffs for Much of the World &nbsp;&nbsp; The New York Times",
-      "summary_en": "Trump Administration Updates: White House Announces Sweeping New Tariffs for Much of the World &nbsp;&nbsp; The New York Times",
+      "title_cn": "Highlights: Trump Imposes Vast Global Tariffs (Published 2025) - The New York Times",
+      "title_en": "Highlights: Trump Imposes Vast Global Tariffs (Published 2025) - The New York Times",
+      "summary_cn": "Highlights: Trump Imposes Vast Global Tariffs (Published 2025) &nbsp;&nbsp; The New York Times",
+      "summary_en": "Highlights: Trump Imposes Vast Global Tariffs (Published 2025) &nbsp;&nbsp; The New York Times",
       "tags": [
         "政策信号",
         "关税变动",
         "重点关注"
       ],
-      "fetched_at": "2026-05-25 18:16:52",
+      "fetched_at": "2026-05-25 20:51:57",
       "signal_level": 2,
       "signal_badge": "重点信号"
     }
