@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>????????? | Global Industrial Manufacturing Watch</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif; background: #f5f6f8; color: #1a1a2e; line-height: 1.6; }
+.header { background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); color: white; padding: 32px 20px; text-align: center; }
+.header h1 { font-size: 1.8rem; margin-bottom: 6px; letter-spacing: 1px; }
+.header .subtitle { font-size: 0.95rem; opacity: 0.85; }
+.header .updated { font-size: 0.8rem; opacity: 0.6; margin-top: 8px; }
+.container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+.search-bar { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); margin-bottom: 20px; display: flex; gap: 12px; flex-wrap: wrap; }
+.search-bar input { flex: 1; min-width: 200px; padding: 10px 16px; border: 2px solid #e0e0e0; border-radius: 8px; font-size: 0.95rem; outline: none; transition: border-color 0.2s; }
+.search-bar input:focus { border-color: #2c5364; }
+.search-bar button { padding: 10px 16px; border: 0; border-radius: 8px; background: #2c5364; color: #fff; font-size: 0.9rem; cursor: pointer; }
+.search-bar button:hover { background: #203a43; }
+.search-bar select { padding: 10px 14px; border: 2px solid #e0e0e0; border-radius: 8px; font-size: 0.9rem; background: white; cursor: pointer; }
+.stats { font-size: 0.85rem; color: #666; padding: 4px 0; }
+.highlights { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0 10px; }
+.highlight-chip { padding: 6px 12px; border-radius: 999px; background: #eef4f8; color: #2c5364; font-size: 0.82rem; }
+.signal-banner { background: #fff7e6; border: 1px solid #ffd591; color: #ad6800; padding: 12px 16px; border-radius: 10px; margin: 0 0 18px; font-size: 0.92rem; }
+.signal-banner strong { color: #d46b08; }
+.signal-panel { background: #fff; border-radius: 12px; padding: 16px 18px; margin-bottom: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+.signal-panel h2 { font-size: 1rem; margin-bottom: 10px; color: #203a43; }
+.signal-list { display: flex; flex-wrap: wrap; gap: 10px; }
+.signal-item { padding: 8px 12px; border-radius: 10px; background: #f7f7f7; border: 1px solid #ececec; font-size: 0.88rem; }
+.signal-item .count { color: #d46b08; font-weight: 700; margin-left: 6px; }
+.signal-badge { display: inline-block; margin-bottom: 10px; padding: 4px 10px; border-radius: 999px; font-size: 0.76rem; font-weight: 700; }
+.signal-badge.hot { background: #fff1f0; color: #a8071a; }
+.signal-badge.warm { background: #fff7e6; color: #ad6800; }
+.country-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+.country-tab { padding: 8px 16px; border-radius: 20px; border: 1.5px solid #d0d0d0; background: white; cursor: pointer; font-size: 0.85rem; transition: all 0.2s; white-space: nowrap; user-select: none; }
+.country-tab:hover { border-color: #2c5364; color: #2c5364; }
+.country-tab.active { background: #2c5364; color: white; border-color: #2c5364; }
+.region-header { font-size: 1.1rem; font-weight: 700; color: #444; margin: 24px 0 12px; padding-bottom: 6px; border-bottom: 2px solid #e0e0e0; display: flex; align-items: center; gap: 8px; }
+.region-header .count { font-size: 0.8rem; font-weight: 400; color: #888; background: #eee; padding: 2px 10px; border-radius: 10px; }
+.article-card { background: white; border-radius: 12px; padding: 20px 24px; margin-bottom: 14px; box-shadow: 0 1px 4px rgba(0,0,0,0.05); border-left: 4px solid #2c5364; transition: transform 0.15s, box-shadow 0.15s; }
+.article-card:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(0,0,0,0.1); }
+.article-card.policy { border-left-color: #e74c3c; }
+.article-card.tariff { border-left-color: #e67e22; }
+.article-card.industry { border-left-color: #2c5364; }
+.article-card.smart_mfg { border-left-color: #8e44ad; }
+.article-card.building_materials { border-left-color: #27ae60; }
+.article-card.ev { border-left-color: #2980b9; }
+.card-header { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+.card-country { font-size: 0.8rem; padding: 3px 10px; border-radius: 12px; background: #e8f4f8; color: #2c5364; font-weight: 600; white-space: nowrap; }
+.card-date { font-size: 0.78rem; color: #999; white-space: nowrap; }
+.card-title-cn { font-size: 1.05rem; font-weight: 700; color: #1a1a2e; margin-bottom: 4px; line-height: 1.5; }
+.card-title-en { font-size: 0.9rem; color: #555; margin-bottom: 10px; font-style: italic; }
+.card-summary { font-size: 0.9rem; color: #444; margin-bottom: 10px; line-height: 1.7; }
+.card-summary-en { font-size: 0.85rem; color: #777; margin-bottom: 10px; line-height: 1.6; border-left: 3px solid #eee; padding-left: 12px; }
+.card-footer { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.tag { font-size: 0.75rem; padding: 2px 8px; border-radius: 4px; background: #f0f0f0; color: #666; }
+.source-link { font-size: 0.8rem; color: #2c5364; text-decoration: none; font-weight: 500; }
+.source-link:hover { text-decoration: underline; }
+.empty-state { text-align: center; padding: 60px 20px; color: #999; }
+.empty-state .icon { font-size: 3rem; margin-bottom: 12px; }
+.footer { text-align: center; padding: 30px; color: #aaa; font-size: 0.8rem; }
+@media (max-width: 640px) {
+  .header h1 { font-size: 1.3rem; }
+  .article-card { padding: 14px 16px; }
+  .country-tab { padding: 6px 12px; font-size: 0.8rem; }
+}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>&#127758; ?????????</h1>
+  <div class="subtitle">Global Industrial Manufacturing Watch &mdash; ??????????</div>
+  <div class="updated" id="updateTime">????: UPDATED_AT</div>
+</div>
+<div class="container">
+  <div class="search-bar">
+    <input type="text" id="searchInput" placeholder="?????????????..." oninput="handleSearchKey(event)">
+    <button onclick="render()">??</button>
+    <select id="regionFilter" onchange="render()">
+      <option value="all">&#127758; ???? All Regions</option>
+      <option value="Southeast Asia">&#127483;&#127475; ??? Southeast Asia</option>
+      <option value="Middle East">&#127480;&#127462; ?? Middle East</option>
+      <option value="South Asia">&#127470;&#127475; ?? South Asia</option>
+      <option value="Central Asia">&#127472;&#127487; ?? Central Asia</option>
+      <option value="Latin America">&#127463;&#127479; ?? Latin America</option>
+      <option value="Europe">&#127466;&#127482; ?? Europe</option>
+      <option value="Africa">&#127487;&#127462; ?? Africa</option>
+      <option value="Global">&#127758; ?? Global</option>
+    </select>
+    <select id="categoryFilter" onchange="render()">
+      <option value="all">&#128240; ???? All Categories</option>
+      <option value="policy">???? Policy</option>
+      <option value="tariff">???? Tariff</option>
+      <option value="industry">???? Industry</option>
+      <option value="smart_mfg">???? Smart Mfg</option>
+      <option value="building_materials">?? Building Materials</option>
+      <option value="ev">????? EV</option>
+    </select>
+  </div>
+  <div class="country-tabs" id="countryTabs"></div>
+  <div class="stats" id="statsBar"></div>
+  <div class="signal-banner"><strong>?????</strong>?????? <strong>???????/????????????????</strong> ???????????????????</div>
+  <div class="signal-panel">
+    <h2>??????</h2>
+    <div class="signal-list" id="signalList"></div>
+  </div>
+  <div class="highlights">
+    <span class="highlight-chip">?????????</span>
+    <span class="highlight-chip">??????? / ????</span>
+    <span class="highlight-chip">????????? / ????</span>
+    <span class="highlight-chip">????????? / ????</span>
+  </div>
+  <div id="articleList"></div>
+  <div class="empty-state" id="emptyState" style="display:none;">
+    <div class="icon">&#128301;</div>
+    <p>?????? / No matching articles</p>
+  </div>
+</div>
+<div class="footer">
+  <p>????: Google News RSS | ?????????????? | ????: ? 1-2 ?</p>
+  <p>&copy; 2026 Global Industrial Manufacturing Watch</p>
+</div>
+<script>
+var ALL_ARTICLES = ARTICLES_PLACEHOLDER;
+
+var activeCountry = "all";
+
+function getUniqueCountries() {
+  var countries = [];
+  var seen = {};
+  ALL_ARTICLES.forEach(function(a) {
+    var c = a.country;
+    if (!seen[c]) { seen[c] = true; countries.push(c); }
+  });
+  return countries.sort();
+}
+
+function renderCountryTabs() {
+  var countries = getUniqueCountries();
+  var tabs = document.getElementById("countryTabs");
+  var html = '<span class="country-tab active" onclick="setCountry(\'all\')">&#127758; ?? All</span>';
+  countries.forEach(function(c) {
+    var cls = activeCountry === c ? "country-tab active" : "country-tab";
+    html += '<span class="' + cls + '" onclick="setCountry(\'' + c + '\')">' + c + '</span>';
+  });
+  tabs.innerHTML = html;
+}
+
+function renderSignalPanel() {
+  var box = document.getElementById("signalList");
+  if (!box) return;
+  var signals = [
+    { label: "????", keys: ["??", "??", "tariff", "duty relief", "tax exemption"] },
+    { label: "??/??", keys: ["??", "??", "visa", "visa waiver", "visa free"] },
+    { label: "????", keys: ["????", "export tax rebate", "tax rebate"] },
+    { label: "????", keys: ["????", "local manufacturing", "factory investment", "investment incentive"] },
+  ];
+  var html = "";
+  signals.forEach(function(item) {
+    var count = ALL_ARTICLES.filter(function(a) {
+      var txt = [a.title_cn, a.title_en, a.title_orig, a.summary_cn, a.summary_en].concat(a.tags || []).join(" ").toLowerCase();
+      return item.keys.some(function(key) { return txt.indexOf(key.toLowerCase()) !== -1; });
+    }).length;
+    html += '<span class="signal-item">' + item.label + '<span class="count">' + count + '</span></span>';
+  });
+  box.innerHTML = html;
+}
+
+function setCountry(c) {
+  activeCountry = c;
+  renderCountryTabs();
+  render();
+}
+
+function formatDate(raw) {
+  if (!raw) return "";
+  try {
+    var d = new Date(raw);
+    if (isNaN(d.getTime())) return raw;
+    return d.toLocaleDateString("zh-CN", { year:"numeric", month:"2-digit", day:"2-digit", hour:"2-digit", minute:"2-digit" });
+  } catch(e) { return raw; }
+}
+
+function render() {
+  var searchTerm = document.getElementById("searchInput").value.toLowerCase();
+  var regionFilter = document.getElementById("regionFilter").value;
+  var categoryFilter = document.getElementById("categoryFilter").value;
+
+  var filtered = ALL_ARTICLES.slice();
+
+  if (activeCountry !== "all") {
+    filtered = filtered.filter(function(a) { return a.country === activeCountry; });
+  }
+  if (regionFilter !== "all") {
+    filtered = filtered.filter(function(a) { return a.region === regionFilter; });
+  }
+  if (categoryFilter !== "all") {
+    filtered = filtered.filter(function(a) { return a.category === categoryFilter; });
+  }
+  if (searchTerm) {
+    filtered = filtered.filter(function(a) {
+      var parts = [a.title_cn, a.title_en, a.title_orig, a.summary_cn, a.summary_en, a.country, a.region].concat(a.tags || []);
+      return parts.join(" ").toLowerCase().indexOf(searchTerm) !== -1;
+    });
+  }
+
+  var container = document.getElementById("articleList");
+  var empty = document.getElementById("emptyState");
+  var stats = document.getElementById("statsBar");
+  stats.textContent = "? " + filtered.length + " ??? / " + filtered.length + " articles";
+
+  if (filtered.length === 0) {
+    container.innerHTML = "";
+    empty.style.display = "block";
+    return;
+  }
+  empty.style.display = "none";
+
+  var regionOrder = ["Southeast Asia", "Middle East", "South Asia", "Central Asia", "Latin America", "Europe", "Africa", "Global"];
+  var grouped = {};
+  filtered.forEach(function(a) {
+    var r = a.region || "Global";
+    if (!grouped[r]) grouped[r] = [];
+    grouped[r].push(a);
+  });
+
+  var html = "";
+  regionOrder.forEach(function(r) {
+    if (!grouped[r] || grouped[r].length === 0) return;
+    html += '<div class="region-header">' + r + ' <span class="count">' + grouped[r].length + ' ?</span></div>';
+    grouped[r].forEach(function(a) {
+      var catClass = a.category || "industry";
+      var tagsHtml = (a.tags || []).map(function(t) { return '<span class="tag">' + t + '</span>'; }).join("");
+      var dateStr = formatDate(a.fetched_at || a.published_raw);
+      var badgeHtml = "";
+      if (a.signal_badge) {
+        var badgeCls = a.signal_level > 1 ? "hot" : "warm";
+        badgeHtml = '<div class="signal-badge ' + badgeCls + '">' + a.signal_badge + '</div>';
+      }
+      html += '<div class="article-card ' + catClass + '">' +
+        '<div class="card-header">' +
+          '<span class="card-country">' + (a.country || "") + '</span>' +
+          '<span class="card-date">' + dateStr + '</span>' +
+        '</div>' +
+        badgeHtml +
+        '<div class="card-title-cn">' + (a.title_cn || a.title_orig || "") + '</div>' +
+        '<div class="card-title-en">' + (a.title_en || "") + '</div>' +
+        '<div class="card-summary">' + (a.summary_cn || "") + '</div>' +
+        '<div class="card-summary-en">' + (a.summary_en || "") + '</div>' +
+        '<div class="card-footer">' +
+          '<div class="tags">' + tagsHtml + '</div>' +
+          '<a class="source-link" href="' + (a.link || "#") + '" target="_blank" rel="noopener">&#128279; ???? ' + (a.source_domain || "") + '</a>' +
+        '</div>' +
+      '</div>';
+    });
+  });
+  container.innerHTML = html;
+}
+
+function handleSearchKey(event) {
+  if (event.key === "Enter") { render(); }
+}
+
+renderCountryTabs();
+renderSignalPanel();
+render();
+</script>
+</body>
+</html>

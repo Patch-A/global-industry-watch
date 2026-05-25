@@ -8,21 +8,25 @@ DATA_DIR = os.path.join(SCRIPT_DIR, "data")
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, "docs")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-HTML_TEMPLATE = r"""HTML_GOES_HERE"""
-
-def load_articles():
-    path = os.path.join(DATA_DIR, "articles.json")
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        return data.get("articles", []), data.get("updated_at", "")
-    except:
-        return [], ""
-
 def main():
-    articles, updated_at = load_articles()
+    art_path = os.path.join(DATA_DIR, "articles.json")
+    try:
+        with open(art_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        articles = data.get("articles", [])
+        updated_at = data.get("updated_at", "")
+    except:
+        articles = []
+        updated_at = ""
+
+    tmpl_path = os.path.join(DATA_DIR, "template.html")
+    with open(tmpl_path, "r", encoding="utf-8") as f:
+        html = f.read()
+
     articles_json = json.dumps(articles, ensure_ascii=False)
-    html = HTML_TEMPLATE.replace("UPDATED_AT", updated_at).replace("ARTICLES_PLACEHOLDER", articles_json)
+    html = html.replace("UPDATED_AT_PLACEHOLDER", updated_at)
+    html = html.replace("ARTICLES_PLACEHOLDER", articles_json)
+
     out = os.path.join(OUTPUT_DIR, "index.html")
     with open(out, "w", encoding="utf-8") as f:
         f.write(html)
