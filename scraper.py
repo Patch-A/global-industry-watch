@@ -272,33 +272,56 @@ def main():
 
     articles = fetch_rss_feeds(sources_path)
     if not articles:
-        print("未抓取到文章，退出")
+        print("no articles fetched")
         return
 
     articles = dedupe_against_cache(articles, cache_path)
     if not articles:
-        print("无新文章，退出")
+        print("no new articles")
         return
 
-    for article in articles:
-        article["title_cn"] = article["title_orig"]
-        article["title_en"] = article["title_orig"]
-        article["summary_cn"] = article["summary_raw"][:200]
-        article["summary_en"] = article["summary_raw"][:200]
-        enrich_priority_tags(article)
+    # AI translation
+    if DEEPSEEK_API_KEY:
+        print("\n[" + now_str() + "] DeepSeek translation...")
+        for i, a in enumerate(articles):
+            print("  [" + str(i+1) + "/" + str(len(articles)) + "] " + a["title_orig"][:60] + "...")
+            result = translate_article(a)
+            if result:
+                a["title_cn"] = result.get("title_cn", a["title_orig"])
+                a["title_en"] = result.get("title_en", a["title_orig"])
+                a["summary_cn"] = result.get("summary_cn", a["summary_raw"][:200])
+                a["summary_en"] = result.get("summary_en", a["summary_raw"][:200])
+            else:
+                a["title_cn"] = a["title_orig"]
+                a["title_en"] = a["title_orig"]
+                a["summary_cn"] = a["summary_raw"][:200]
+                a["summary_en"] = a["summary_raw"][:200]
+            enrich_priority_tags(a)
+            add_country_cn(a)
+            time.sleep(0.3)
+        print("[" + now_str() + "] translation done: " + str(len(articles)) + " articles")
+    else:
+        for a in articles:
+            a["title_cn"] = a["title_orig"]
+            a["title_en"] = a["title_orig"]
+            a["summary_cn"] = a["summary_raw"][:200]
+            a["summary_en"] = a["summary_raw"][:200]
+            enrich_priority_tags(a)
+            add_country_cn(a)
 
     articles = articles[:MAX_TOTAL_ARTICLES]
 
     cache = load_json(cache_path, {"articles": [], "fingerprints": []})
     cache["articles"].extend(articles)
-    cache["articles"] = [a for a in cache["articles"] if a.get("fetched_at", "") > (datetime.now(TZ_BEIJING) - timedelta(days=CACHE_DAYS)).isoformat()]
+    cache["fingerprints"] = [a["fingerprint"] for a in cache["articles"]]
+    cutoff = (datetime.now(TZ_BEIJING) - timedelta(days=CACHE_DAYS)).isoformat()
+    cache["articles"] = [a for a in cache["articles"] if a.get("fetched_at", "") > cutoff]
     cache["fingerprints"] = [a["fingerprint"] for a in cache["articles"]]
     save_json(cache_path, cache)
 
     output = {"updated_at": now_str(), "total": len(articles), "articles": articles}
     save_json(output_path, output)
-    print(f"[{now_str()}] 完成，输出 {len(articles)} 条 → {output_path}")
-
+    print("\n[" + now_str() + "] [DONE] " + str(len(articles)) + " articles -> " + output_path)
 
 if __name__ == "__main__":
     main()
