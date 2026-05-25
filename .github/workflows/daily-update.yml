@@ -1,12 +1,11 @@
-﻿name: Daily Update - Global Industry Watch
+name: Daily Update - Global Industry Watch
 
 on:
   push:
     branches: ["main"]
   schedule:
-    # 每天 UTC 0:00 和 12:00 各跑一次（北京时间 8:00 和 20:00）
     - cron: "0 0,12 * * *"
-  workflow_dispatch:  # 允许手动触发
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -24,7 +23,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -43,11 +43,14 @@ jobs:
         run: python generator.py
 
       - name: Commit & Push data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git add data/ docs/
-          git diff --staged --quiet || (git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M')" && git push)
+          git diff --staged --quiet || (git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M')" && git push origin HEAD:${{ github.ref_name }})
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
