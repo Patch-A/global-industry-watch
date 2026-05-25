@@ -136,13 +136,19 @@ function getUniqueCountries() {
   return countries.sort();
 }
 
+
+function countryCN(en) {
+  var map = {"Vietnam":"Vietnam","Thailand":"Thailand","Indonesia":"Indonesia","Malaysia":"Malaysia","Saudi Arabia":"Saudi Arabia","UAE":"UAE","India":"India","Bangladesh":"Bangladesh","Kazakhstan":"Kazakhstan","Uzbekistan":"Uzbekistan","Brazil":"Brazil","Mexico":"Mexico","Germany":"Germany","Hungary":"Hungary","Poland":"Poland","Nigeria":"Nigeria","Egypt":"Egypt","Kenya":"Kenya","China":"China","Global":"Global"};
+  return map[en] || en;
+}
+
 function renderCountryTabs() {
   var countries = getUniqueCountries();
   var tabs = document.getElementById("countryTabs");
   var html = '<span class="country-tab active" onclick="setCountry(\'all\')">&#127758; 全部 All</span>';
   countries.forEach(function(c) {
     var cls = activeCountry === c ? "country-tab active" : "country-tab";
-    html += '<span class="' + cls + '" onclick="setCountry(\'' + c + '\')">' + c + '</span>';
+    html += '<span class="' + cls + '" onclick="setCountry(\'' + c + '\')">' + countryCN(c) + '</span>';
   });
   tabs.innerHTML = html;
 }
@@ -234,8 +240,9 @@ function render() {
       }
       html += '<div class="article-card ' + catClass + '">' +
         '<div class="card-header">' +
-          '<span class="card-country">' + (a.country || "") + '</span>' +
+          '<span class="card-country">' + countryCN(a.country) + '</span>' +
           '<span class="card-date">' + dateStr + '</span>' +
+        '<span class="card-source">' + (a.source_domain || "") + '</span>' +
         '</div>' +
         badgeHtml +
         '<div class="card-title-cn">' + (a.title_cn || a.title_orig || "") + '</div>' +

@@ -1,9 +1,35 @@
 {
-  "_comment": "全球工业制造业动态 RSS 源配置",
   "feeds": [
     {
-      "id": "google_industrial_vn",
-      "name": "Google News - 越南工业制造",
+      "id": "scmp_business",
+      "name": "SCMP Business",
+      "url": "https://www.scmp.com/rss/4/feed",
+      "country": "China",
+      "region": "Global",
+      "lang": "en",
+      "category": "industry"
+    },
+    {
+      "id": "reuters_world",
+      "name": "Reuters World",
+      "url": "https://news.google.com/rss/search?q=site:reuters.com+manufacturing+tariff+trade+industrial&hl=en-US&gl=US&ceid=US:en",
+      "country": "Global",
+      "region": "Global",
+      "lang": "en",
+      "category": "industry"
+    },
+    {
+      "id": "bbc_business",
+      "name": "BBC Business",
+      "url": "https://news.google.com/rss/search?q=site:bbc.com+manufacturing+trade+industry+global&hl=en-US&gl=US&ceid=US:en",
+      "country": "Global",
+      "region": "Global",
+      "lang": "en",
+      "category": "industry"
+    },
+    {
+      "id": "google_vn",
+      "name": "Vietnam Industrial",
       "url": "https://news.google.com/rss/search?q=Vietnam+industrial+manufacturing+factory+investment+tariff&hl=en-US&gl=US&ceid=US:en",
       "country": "Vietnam",
       "region": "Southeast Asia",
@@ -11,8 +37,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_th",
-      "name": "Google News - 泰国工业制造",
+      "id": "google_th",
+      "name": "Thailand Industrial",
       "url": "https://news.google.com/rss/search?q=Thailand+industrial+manufacturing+factory+investment+tariff&hl=en-US&gl=US&ceid=US:en",
       "country": "Thailand",
       "region": "Southeast Asia",
@@ -20,8 +46,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_id",
-      "name": "Google News - 印尼工业制造",
+      "id": "google_id",
+      "name": "Indonesia Industrial",
       "url": "https://news.google.com/rss/search?q=Indonesia+industrial+manufacturing+factory+investment+tariff&hl=en-US&gl=US&ceid=US:en",
       "country": "Indonesia",
       "region": "Southeast Asia",
@@ -29,8 +55,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_my",
-      "name": "Google News - 马来西亚工业制造",
+      "id": "google_my",
+      "name": "Malaysia Industrial",
       "url": "https://news.google.com/rss/search?q=Malaysia+industrial+manufacturing+factory+investment+tariff&hl=en-US&gl=US&ceid=US:en",
       "country": "Malaysia",
       "region": "Southeast Asia",
@@ -38,8 +64,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_sa",
-      "name": "Google News - 沙特工业制造",
+      "id": "google_sa",
+      "name": "Saudi Industrial",
       "url": "https://news.google.com/rss/search?q=Saudi+Arabia+industrial+manufacturing+factory+investment+Vision+2030&hl=en-US&gl=US&ceid=US:en",
       "country": "Saudi Arabia",
       "region": "Middle East",
@@ -47,8 +73,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_ae",
-      "name": "Google News - 阿联酋工业制造",
+      "id": "google_ae",
+      "name": "UAE Industrial",
       "url": "https://news.google.com/rss/search?q=UAE+industrial+manufacturing+factory+investment&hl=en-US&gl=US&ceid=US:en",
       "country": "UAE",
       "region": "Middle East",
@@ -56,8 +82,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_in",
-      "name": "Google News - 印度工业制造",
+      "id": "google_in",
+      "name": "India Industrial",
       "url": "https://news.google.com/rss/search?q=India+manufacturing+factory+investment+tariff+Make+in+India&hl=en-US&gl=US&ceid=US:en",
       "country": "India",
       "region": "South Asia",
@@ -65,8 +91,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_bd",
-      "name": "Google News - 孟加拉工业制造",
+      "id": "google_bd",
+      "name": "Bangladesh Industrial",
       "url": "https://news.google.com/rss/search?q=Bangladesh+manufacturing+factory+investment+industrial&hl=en-US&gl=US&ceid=US:en",
       "country": "Bangladesh",
       "region": "South Asia",
@@ -74,8 +100,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_kz",
-      "name": "Google News - 哈萨克斯坦工业制造",
+      "id": "google_kz",
+      "name": "Kazakhstan Industrial",
       "url": "https://news.google.com/rss/search?q=Kazakhstan+industrial+manufacturing+factory+investment+Belt+Road&hl=en-US&gl=US&ceid=US:en",
       "country": "Kazakhstan",
       "region": "Central Asia",
@@ -83,8 +109,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_uz",
-      "name": "Google News - 乌兹别克斯坦工业制造",
+      "id": "google_uz",
+      "name": "Uzbekistan Industrial",
       "url": "https://news.google.com/rss/search?q=Uzbekistan+industrial+manufacturing+factory+investment&hl=en-US&gl=US&ceid=US:en",
       "country": "Uzbekistan",
       "region": "Central Asia",
@@ -92,8 +118,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_br",
-      "name": "Google News - 巴西工业制造",
+      "id": "google_br",
+      "name": "Brazil Industrial",
       "url": "https://news.google.com/rss/search?q=Brazil+industrial+manufacturing+factory+investment+tariff&hl=en-US&gl=US&ceid=US:en",
       "country": "Brazil",
       "region": "Latin America",
@@ -101,8 +127,8 @@
       "category": "industry"
     },
     {
-      "id": "google_brazil_policy",
-      "name": "Google News - 巴西政策与关税",
+      "id": "google_br_policy",
+      "name": "Brazil Policy & Tariff",
       "url": "https://news.google.com/rss/search?q=Brazil+tariff+tax+exemption+import+duty+temporary+reduction+visa+free+policy&hl=en-US&gl=US&ceid=US:en",
       "country": "Brazil",
       "region": "Latin America",
@@ -110,8 +136,8 @@
       "category": "policy"
     },
     {
-      "id": "google_brazil_policy_pt",
-      "name": "Google News - 巴西政策与关税（葡语）",
+      "id": "google_br_policy_pt",
+      "name": "Brazil Policy (PT)",
       "url": "https://news.google.com/rss/search?q=Brasil+tarifa+redu%C3%A7%C3%A3o+tempor%C3%A1ria+isen%C3%A7%C3%A3o+de+imposto+visto&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "country": "Brazil",
       "region": "Latin America",
@@ -119,8 +145,8 @@
       "category": "policy"
     },
     {
-      "id": "google_brazil_tariff_relief",
-      "name": "Google News - ?????????",
+      "id": "google_br_tariff",
+      "name": "Brazil Tariff Relief",
       "url": "https://news.google.com/rss/search?q=Brazil+temporary+tariff+reduction+duty+relief+import+tax+exemption+industrial+policy&hl=en-US&gl=US&ceid=US:en",
       "country": "Brazil",
       "region": "Latin America",
@@ -128,8 +154,8 @@
       "category": "tariff"
     },
     {
-      "id": "google_brazil_tariff_relief_pt",
-      "name": "Google News - ??????????",
+      "id": "google_br_tariff_pt",
+      "name": "Brazil Tariff (PT)",
       "url": "https://news.google.com/rss/search?q=Brasil+redu%C3%A7%C3%A3o+tempor%C3%A1ria+de+tarifa+isen%C3%A7%C3%A3o+tribut%C3%A1ria+al%C3%ADquota+importa%C3%A7%C3%A3o&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "country": "Brazil",
       "region": "Latin America",
@@ -137,8 +163,8 @@
       "category": "tariff"
     },
     {
-      "id": "google_brazil_visa_facilitation",
-      "name": "Google News - ???????",
+      "id": "google_br_visa",
+      "name": "Brazil Visa & Entry",
       "url": "https://news.google.com/rss/search?q=Brazil+visa+free+visa+waiver+visa+facilitation+entry+business+travel&hl=en-US&gl=US&ceid=US:en",
       "country": "Brazil",
       "region": "Latin America",
@@ -146,8 +172,8 @@
       "category": "policy"
     },
     {
-      "id": "google_brazil_visa_facilitation_pt",
-      "name": "Google News - ???????????",
+      "id": "google_br_visa_pt",
+      "name": "Brazil Visa (PT)",
       "url": "https://news.google.com/rss/search?q=Brasil+isen%C3%A7%C3%A3o+de+visto+entrada+sem+visto+facilita%C3%A7%C3%A3o+de+vistos+neg%C3%B3cios&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "country": "Brazil",
       "region": "Latin America",
@@ -155,17 +181,8 @@
       "category": "policy"
     },
     {
-      "id": "google_brazil_visa",
-      "name": "Google News - 巴西签证与入境",
-      "url": "https://news.google.com/rss/search?q=Brazil+visa+free+entry+visa+policy+business+travel+industrial+investment&hl=en-US&gl=US&ceid=US:en",
-      "country": "Brazil",
-      "region": "Latin America",
-      "lang": "en",
-      "category": "policy"
-    },
-    {
-      "id": "google_industrial_mx",
-      "name": "Google News - 墨西哥工业制造",
+      "id": "google_mx",
+      "name": "Mexico Industrial",
       "url": "https://news.google.com/rss/search?q=Mexico+industrial+manufacturing+factory+nearshoring+tariff+USMCA&hl=en-US&gl=US&ceid=US:en",
       "country": "Mexico",
       "region": "Latin America",
@@ -173,8 +190,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_de",
-      "name": "Google News - 德国工业制造",
+      "id": "google_de",
+      "name": "Germany Industrial",
       "url": "https://news.google.com/rss/search?q=Germany+industrial+manufacturing+factory+investment+tariff+CBAM&hl=en-US&gl=US&ceid=US:en",
       "country": "Germany",
       "region": "Europe",
@@ -182,8 +199,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_hu",
-      "name": "Google News - 匈牙利工业制造",
+      "id": "google_hu",
+      "name": "Hungary Industrial",
       "url": "https://news.google.com/rss/search?q=Hungary+industrial+manufacturing+factory+Chinese+investment&hl=en-US&gl=US&ceid=US:en",
       "country": "Hungary",
       "region": "Europe",
@@ -191,8 +208,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_pl",
-      "name": "Google News - 波兰工业制造",
+      "id": "google_pl",
+      "name": "Poland Industrial",
       "url": "https://news.google.com/rss/search?q=Poland+industrial+manufacturing+factory+investment&hl=en-US&gl=US&ceid=US:en",
       "country": "Poland",
       "region": "Europe",
@@ -200,8 +217,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_ng",
-      "name": "Google News - 尼日利亚工业制造",
+      "id": "google_ng",
+      "name": "Nigeria Industrial",
       "url": "https://news.google.com/rss/search?q=Nigeria+industrial+manufacturing+factory+investment&hl=en-US&gl=US&ceid=US:en",
       "country": "Nigeria",
       "region": "Africa",
@@ -209,8 +226,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_eg",
-      "name": "Google News - 埃及工业制造",
+      "id": "google_eg",
+      "name": "Egypt Industrial",
       "url": "https://news.google.com/rss/search?q=Egypt+industrial+manufacturing+factory+investment&hl=en-US&gl=US&ceid=US:en",
       "country": "Egypt",
       "region": "Africa",
@@ -218,8 +235,8 @@
       "category": "industry"
     },
     {
-      "id": "google_industrial_ke",
-      "name": "Google News - 肯尼亚工业制造",
+      "id": "google_ke",
+      "name": "Kenya Industrial",
       "url": "https://news.google.com/rss/search?q=Kenya+industrial+manufacturing+factory+investment&hl=en-US&gl=US&ceid=US:en",
       "country": "Kenya",
       "region": "Africa",
@@ -228,7 +245,7 @@
     },
     {
       "id": "google_cn_policy",
-      "name": "Google News - 中国出海政策",
+      "name": "China Overseas Policy",
       "url": "https://news.google.com/rss/search?q=China+manufacturing+overseas+investment+policy+subsidy+export&hl=en-US&gl=US&ceid=US:en",
       "country": "China",
       "region": "Global",
@@ -236,8 +253,8 @@
       "category": "policy"
     },
     {
-      "id": "google_cn_policy_zh",
-      "name": "Google News - 中国制造业出海（中文）",
+      "id": "google_cn_zh",
+      "name": "China Mfg Overseas (CN)",
       "url": "https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A+%E5%87%BA%E6%B5%B7+%E6%B5%B7%E5%A4%96%E5%BB%BA%E5%8E%82+%E5%87%BA%E5%8F%A3%E9%80%80%E7%A8%8E+%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF&hl=zh-CN&gl=CN&ceid=CN:zh",
       "country": "China",
       "region": "Global",
@@ -245,8 +262,8 @@
       "category": "policy"
     },
     {
-      "id": "google_tariff_global",
-      "name": "Google News - 全球关税贸易政策",
+      "id": "google_tariff",
+      "name": "Global Tariff & Trade",
       "url": "https://news.google.com/rss/search?q=tariff+trade+anti-dumping+safeguard+industrial+manufacturing&hl=en-US&gl=US&ceid=US:en",
       "country": "Global",
       "region": "Global",
@@ -255,7 +272,7 @@
     },
     {
       "id": "google_smart_mfg",
-      "name": "Google News - 智能制造/工业4.0",
+      "name": "Smart Manufacturing",
       "url": "https://news.google.com/rss/search?q=smart+manufacturing+Industry+4.0+automation+robotics+factory&hl=en-US&gl=US&ceid=US:en",
       "country": "Global",
       "region": "Global",
@@ -263,8 +280,8 @@
       "category": "smart_mfg"
     },
     {
-      "id": "google_green_building",
-      "name": "Google News - 绿色建材/新材料",
+      "id": "google_green",
+      "name": "Green Building Materials",
       "url": "https://news.google.com/rss/search?q=green+building+materials+construction+new+materials+cement+steel&hl=en-US&gl=US&ceid=US:en",
       "country": "Global",
       "region": "Global",
@@ -272,8 +289,8 @@
       "category": "building_materials"
     },
     {
-      "id": "google_cn_building_zh",
-      "name": "Google News - 中国建材出海（中文）",
+      "id": "google_cn_building",
+      "name": "China Building Overseas (CN)",
       "url": "https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD%E5%BB%BA%E6%9D%90+%E5%87%BA%E6%B5%B7+%E6%B5%B7%E5%A4%96%E5%B8%82%E5%9C%BA+%E7%BB%BF%E8%89%B2%E5%BB%BA%E6%9D%90+%E6%96%B0%E5%9E%8B%E6%9D%90%E6%96%99&hl=zh-CN&gl=CN&ceid=CN:zh",
       "country": "China",
       "region": "Global",
@@ -281,8 +298,8 @@
       "category": "building_materials"
     },
     {
-      "id": "google_ev_battery",
-      "name": "Google News - 新能源汽车及零部件出海",
+      "id": "google_ev",
+      "name": "EV & Battery Overseas",
       "url": "https://news.google.com/rss/search?q=EV+battery+electric+vehicle+manufacturing+overseas+factory+China&hl=en-US&gl=US&ceid=US:en",
       "country": "Global",
       "region": "Global",
@@ -291,7 +308,6 @@
     }
   ],
   "source_authority": {
-    "_comment": "来源权威性排序: 1=政府/官方 2=行业协会 3=国际权威媒体 4=行业媒体 5=一般媒体",
     "priority_domains": {
       "1_government": [
         "gov.cn",

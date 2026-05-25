@@ -67,6 +67,74 @@ def get_authority_score(domain, authority_config):
     return 5
 
 
+
+
+DEEPSEEK_API_KEY = os.environ.get('DEEPSEEK_API_KEY', '')
+DEEPSEEK_BASE_URL = 'https://api.deepseek.com/v1'
+
+def call_deepseek(messages, max_tokens=800):
+    if not DEEPSEEK_API_KEY:
+        return None
+    try:
+        resp = requests.post(DEEPSEEK_BASE_URL + '/chat/completions',
+            headers={'Authorization': 'Bearer ' + DEEPSEEK_API_KEY, 'Content-Type': 'application/json'},
+            json={'model': 'deepseek-chat', 'messages': messages, 'max_tokens': max_tokens, 'temperature': 0.3},
+            timeout=90)
+        resp.raise_for_status()
+        return resp.json()['choices'][0]['message']['content']
+    except Exception as e:
+        print('  [API FAIL] ' + str(e)[:80])
+        return None
+
+def translate_article(article):
+    orig_lang = article['lang_orig']
+    title = article['title_orig'][:300]
+    summary = article['summary_raw'][:400]
+    is_cn = orig_lang == 'zh'
+    is_pt = orig_lang == 'pt'
+
+    if is_cn:
+        sys_msg = 'You are a professional translator. Translate Chinese industrial news to English. Output ONLY valid JSON. Do not fabricate.'
+        prompt = 'Translate to English. JSON: {"title_en":"English title","summary_en":"English summary"}\nTitle: ' + title + '\nSummary: ' + summary
+    elif is_pt:
+        sys_msg = 'You are a professional translator. Translate Portuguese industrial news to Chinese AND English. Output ONLY valid JSON. Do not fabricate.'
+        prompt = 'Translate to Chinese and English. JSON: {"title_cn":"Chinese title","title_en":"English title","summary_cn":"Chinese summary","summary_en":"English summary"}\nTitle: ' + title + '\nSummary: ' + summary
+    else:
+        sys_msg = 'You are a professional translator. Translate industrial news to Chinese ONLY. Output ONLY valid JSON. Do not fabricate.'
+        prompt = 'Translate to Chinese. JSON: {"title_cn":"Chinese title","summary_cn":"Chinese summary"}\nTitle: ' + title + '\nSummary: ' + summary
+
+    result = call_deepseek([
+        {'role': 'system', 'content': sys_msg},
+        {'role': 'user', 'content': prompt}
+    ], max_tokens=600)
+    if result:
+        try:
+            m = re.search(r'\{[\s\S]*\}', result)
+            if m:
+                return json.loads(m.group())
+        except:
+            pass
+    return None
+
+COUNTRY_CN = {
+    'Vietnam': 'Vietnam', 'Thailand': 'Thailand', 'Indonesia': 'Indonesia',
+    'Malaysia': 'Malaysia', 'Philippines': 'Philippines',
+    'Saudi Arabia': 'Saudi Arabia', 'UAE': 'UAE', 'Turkey': 'Turkey',
+    'India': 'India', 'Bangladesh': 'Bangladesh', 'Pakistan': 'Pakistan',
+    'Kazakhstan': 'Kazakhstan', 'Uzbekistan': 'Uzbekistan',
+    'Brazil': 'Brazil', 'Mexico': 'Mexico', 'Argentina': 'Argentina',
+    'Germany': 'Germany', 'Hungary': 'Hungary', 'Poland': 'Poland',
+    'Nigeria': 'Nigeria', 'Egypt': 'Egypt', 'Kenya': 'Kenya',
+    'South Africa': 'South Africa', 'Ethiopia': 'Ethiopia',
+    'China': 'China', 'Global': 'Global', 'Russia': 'Russia',
+    'Japan': 'Japan', 'South Korea': 'South Korea', 'US': 'US',
+}
+
+def add_country_cn(article):
+    en = article.get('country', '')
+    article['country_cn'] = COUNTRY_CN.get(en, en)
+    return article
+
 def fetch_rss_feeds(sources_path):
     config = load_json(sources_path)
     feeds = config.get("feeds", [])
