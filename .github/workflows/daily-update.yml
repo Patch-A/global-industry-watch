@@ -42,16 +42,6 @@ jobs:
       - name: Generate HTML
         run: python generator.py
 
-      - name: Commit & Push data
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-          git add data/ docs/
-          git diff --staged --quiet || (git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M')" && git push origin HEAD:${{ github.ref_name }})
-
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
@@ -63,3 +53,13 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Commit & Push data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.ppt
+          git add data/ docs/
+          git diff --staged --quiet || (git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M')" && git push origin HEAD:${{ github.ref_name }})
