@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>????????? | Global Industrial Manufacturing Watch</title>
+<title>全球工业制造业动态 | Global Industrial Manufacturing Watch</title>
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif; background: #f5f6f8; color: #1a1a2e; line-height: 1.6; }
@@ -69,56 +69,56 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft Ya
 </head>
 <body>
 <div class="header">
-  <h1>&#127758; ?????????</h1>
-  <div class="subtitle">Global Industrial Manufacturing Watch &mdash; ??????????</div>
-  <div class="updated" id="updateTime">????: UPDATED_AT</div>
+  <h1>&#127758; 全球工业制造业动态</h1>
+  <div class="subtitle">Global Industrial Manufacturing Watch &mdash; 中国工业企业出海情报</div>
+  <div class="updated" id="updateTime">最后更新: 2026-05-25 22:39:57</div>
 </div>
 <div class="container">
   <div class="search-bar">
-    <input type="text" id="searchInput" placeholder="?????????????..." oninput="handleSearchKey(event)">
-    <button onclick="render()">??</button>
+    <input type="text" id="searchInput" placeholder="搜索标题、摘要、国家、标签..." oninput="handleSearchKey(event)">
+    <button onclick="render()">搜索</button>
     <select id="regionFilter" onchange="render()">
-      <option value="all">&#127758; ???? All Regions</option>
-      <option value="Southeast Asia">&#127483;&#127475; ??? Southeast Asia</option>
-      <option value="Middle East">&#127480;&#127462; ?? Middle East</option>
-      <option value="South Asia">&#127470;&#127475; ?? South Asia</option>
-      <option value="Central Asia">&#127472;&#127487; ?? Central Asia</option>
-      <option value="Latin America">&#127463;&#127479; ?? Latin America</option>
-      <option value="Europe">&#127466;&#127482; ?? Europe</option>
-      <option value="Africa">&#127487;&#127462; ?? Africa</option>
-      <option value="Global">&#127758; ?? Global</option>
+      <option value="all">&#127758; 全部区域 All Regions</option>
+      <option value="Southeast Asia">&#127483;&#127475; 东南亚 Southeast Asia</option>
+      <option value="Middle East">&#127480;&#127462; 中东 Middle East</option>
+      <option value="South Asia">&#127470;&#127475; 南亚 South Asia</option>
+      <option value="Central Asia">&#127472;&#127487; 中亚 Central Asia</option>
+      <option value="Latin America">&#127463;&#127479; 拉美 Latin America</option>
+      <option value="Europe">&#127466;&#127482; 欧洲 Europe</option>
+      <option value="Africa">&#127487;&#127462; 非洲 Africa</option>
+      <option value="Global">&#127758; 全球 Global</option>
     </select>
     <select id="categoryFilter" onchange="render()">
-      <option value="all">&#128240; ???? All Categories</option>
-      <option value="policy">???? Policy</option>
-      <option value="tariff">???? Tariff</option>
-      <option value="industry">???? Industry</option>
-      <option value="smart_mfg">???? Smart Mfg</option>
-      <option value="building_materials">?? Building Materials</option>
-      <option value="ev">????? EV</option>
+      <option value="all">&#128240; 全部分类 All Categories</option>
+      <option value="policy">政策法规 Policy</option>
+      <option value="tariff">关税变动 Tariff</option>
+      <option value="industry">工业制造 Industry</option>
+      <option value="smart_mfg">智能制造 Smart Mfg</option>
+      <option value="building_materials">建材 Building Materials</option>
+      <option value="ev">新能源汽车 EV</option>
     </select>
   </div>
   <div class="country-tabs" id="countryTabs"></div>
   <div class="stats" id="statsBar"></div>
-  <div class="signal-banner"><strong>?????</strong>?????? <strong>???????/????????????????</strong> ???????????????????</div>
+  <div class="signal-banner"><strong>重点提示:</strong> 系统优先抓取 <strong>关税减免、免签/签证便利、出口退税、本地建厂激励</strong> 等高价值信号。内容仅基于原始新闻来源。</div>
   <div class="signal-panel">
-    <h2>??????</h2>
+    <h2>本页重点信号</h2>
     <div class="signal-list" id="signalList"></div>
   </div>
   <div class="highlights">
-    <span class="highlight-chip">?????????</span>
-    <span class="highlight-chip">??????? / ????</span>
-    <span class="highlight-chip">????????? / ????</span>
-    <span class="highlight-chip">????????? / ????</span>
+    <span class="highlight-chip">重点信号：关税减免</span>
+    <span class="highlight-chip">重点信号：免签 / 签证便利</span>
+    <span class="highlight-chip">重点信号：出口退税 / 关税调整</span>
+    <span class="highlight-chip">重点信号：本地建厂 / 投资激励</span>
   </div>
   <div id="articleList"></div>
   <div class="empty-state" id="emptyState" style="display:none;">
     <div class="icon">&#128301;</div>
-    <p>?????? / No matching articles</p>
+    <p>暂无匹配资讯 / No matching articles</p>
   </div>
 </div>
 <div class="footer">
-  <p>????: Google News RSS | ?????????????? | ????: ? 1-2 ?</p>
+  <p>数据来源: Google News RSS | 内容仅基于原始新闻标题与摘要 | 自动更新: 每 1-2 天</p>
   <p>&copy; 2026 Global Industrial Manufacturing Watch</p>
 </div>
 <script>
@@ -139,7 +139,7 @@ function getUniqueCountries() {
 function renderCountryTabs() {
   var countries = getUniqueCountries();
   var tabs = document.getElementById("countryTabs");
-  var html = '<span class="country-tab active" onclick="setCountry(\'all\')">&#127758; ?? All</span>';
+  var html = '<span class="country-tab active" onclick="setCountry(\'all\')">&#127758; 全部 All</span>';
   countries.forEach(function(c) {
     var cls = activeCountry === c ? "country-tab active" : "country-tab";
     html += '<span class="' + cls + '" onclick="setCountry(\'' + c + '\')">' + c + '</span>';
@@ -151,10 +151,10 @@ function renderSignalPanel() {
   var box = document.getElementById("signalList");
   if (!box) return;
   var signals = [
-    { label: "????", keys: ["??", "??", "tariff", "duty relief", "tax exemption"] },
-    { label: "??/??", keys: ["??", "??", "visa", "visa waiver", "visa free"] },
-    { label: "????", keys: ["????", "export tax rebate", "tax rebate"] },
-    { label: "????", keys: ["????", "local manufacturing", "factory investment", "investment incentive"] },
+    { label: "关税减免", keys: ["关税", "减免", "tariff", "duty relief", "tax exemption"] },
+    { label: "免签/签证", keys: ["免签", "签证", "visa", "visa waiver", "visa free"] },
+    { label: "出口退税", keys: ["出口退税", "export tax rebate", "tax rebate"] },
+    { label: "本地建厂", keys: ["本地建厂", "local manufacturing", "factory investment", "investment incentive"] },
   ];
   var html = "";
   signals.forEach(function(item) {
@@ -186,9 +186,7 @@ function render() {
   var searchTerm = document.getElementById("searchInput").value.toLowerCase();
   var regionFilter = document.getElementById("regionFilter").value;
   var categoryFilter = document.getElementById("categoryFilter").value;
-
   var filtered = ALL_ARTICLES.slice();
-
   if (activeCountry !== "all") {
     filtered = filtered.filter(function(a) { return a.country === activeCountry; });
   }
@@ -204,19 +202,16 @@ function render() {
       return parts.join(" ").toLowerCase().indexOf(searchTerm) !== -1;
     });
   }
-
   var container = document.getElementById("articleList");
   var empty = document.getElementById("emptyState");
   var stats = document.getElementById("statsBar");
-  stats.textContent = "? " + filtered.length + " ??? / " + filtered.length + " articles";
-
+  stats.textContent = "共 " + filtered.length + " 条资讯 / " + filtered.length + " articles";
   if (filtered.length === 0) {
     container.innerHTML = "";
     empty.style.display = "block";
     return;
   }
   empty.style.display = "none";
-
   var regionOrder = ["Southeast Asia", "Middle East", "South Asia", "Central Asia", "Latin America", "Europe", "Africa", "Global"];
   var grouped = {};
   filtered.forEach(function(a) {
@@ -224,11 +219,10 @@ function render() {
     if (!grouped[r]) grouped[r] = [];
     grouped[r].push(a);
   });
-
   var html = "";
   regionOrder.forEach(function(r) {
     if (!grouped[r] || grouped[r].length === 0) return;
-    html += '<div class="region-header">' + r + ' <span class="count">' + grouped[r].length + ' ?</span></div>';
+    html += '<div class="region-header">' + r + ' <span class="count">' + grouped[r].length + ' 条</span></div>';
     grouped[r].forEach(function(a) {
       var catClass = a.category || "industry";
       var tagsHtml = (a.tags || []).map(function(t) { return '<span class="tag">' + t + '</span>'; }).join("");
@@ -250,7 +244,7 @@ function render() {
         '<div class="card-summary-en">' + (a.summary_en || "") + '</div>' +
         '<div class="card-footer">' +
           '<div class="tags">' + tagsHtml + '</div>' +
-          '<a class="source-link" href="' + (a.link || "#") + '" target="_blank" rel="noopener">&#128279; ???? ' + (a.source_domain || "") + '</a>' +
+          '<a class="source-link" href="' + (a.link || "#") + '" target="_blank" rel="noopener">&#128279; 原文来源 ' + (a.source_domain || "") + '</a>' +
         '</div>' +
       '</div>';
     });

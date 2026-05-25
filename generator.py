@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-import json, os, sys
+﻿import json, os, sys
 if sys.platform == "win32":
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
